@@ -1,0 +1,15 @@
+{
+  "id": 1504,
+  "title": "Edgeware: An Open, Unstoppable Venture Community",
+  "body": "**Summary: **This post describes a little of the existing technical aspects of the chain, and updates our narrative to better align our community, governance, and operations under a clear and common use case: a **sovereign-grade venture community.**\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/d5d50034-2e97-4ec9-a702-4acc32518cf4.1628184979978)\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/c8419c71-de21-4226-85b0-ee577f0cc29a.1628184998041)\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/96e130b9-387e-4d2e-861f-6eeba89ed08f.1628184951682)\n\n## Background\nSubstrate is a bleeding-edge blockchain project. While Edgeware was one of the first chains to adopt and launch, we also faced some of the largest technical hurdles.  Additionally, due to our unique distribution that allocated a supermajority of tokens to community members through the lockdrop, we took risks on a non-standard strategy for maintaining development. \n\nThe downstream effects of this have been to disalign values for powerful investors who could support core teams, as the upside was relatively limited compared to other projects launching over the past several years.  Chains who launched without this feature have had significantly more success in maintaining the development runway.\n\nThis matters, because EDG is solely dependent on its own token price for self-development., while other chains are able to deploy both traditional capital and treasury capital.  In a state where liquidity and market price are low, we are hobbled to continue to advance development.\n\nMore, the Ink!, the Wasm smart contracting language remains in infancy. EVM, thankfully is stabilizing rapidly and will be reliable after the Wako upgrade.\n\nOne large question has been the parachain future status, and this became especially unlikely recently with [the discovery of non-functioning smart contracting on parachains.](https://github.com/paritytech/substrate/issues/9354) This issue affects all Subst",
+  "content_url": "https://threads.common.xyz/7658b0cc-31eb-4842-8585-35e86223842e.md",
+  "created_at": "2021-08-05T17:24:25.930Z",
+  "updated_at": "2025-03-18T04:04:07.332Z",
+  "last_edited": null,
+  "comment_count": 6,
+  "profile_name": "Thom Ivy",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1504",
+  "body_complete": true
+}

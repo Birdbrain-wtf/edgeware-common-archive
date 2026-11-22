@@ -1,0 +1,15 @@
+{
+  "id": 1176,
+  "title": "'Out on the edge' a collective vision for the future of Edgeware.",
+  "body": "![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/7155b5ec-3b2a-41d1-99da-b851aeeac46a.1623666367161)\n\n_This post was initially a response to a community question on Telegram asking how Edgeware is different to Moonbeam and other Substrate projects - [link here](https://t.me/heyedgeware/44057). _\n\n_This is an expansion of that answer (with a bit more colour and a few more links) and is an aggregation of ideas, insights and contributions from across the community, bringing together many different perspectives into a coherent layered structure designed to pin-point Edgeware's unique characteristics, evolving roadmap and long term vision. _\n\n_It includes many links from across the project and a bunch of articles or essays that have been useful in the past.  _\n\n_This is hopefully useful as a starter for those new to the project as well as those already in the community as a way to join the dots between a bunch of seemingly unrelated things. _\n\n_As always, this is work in progress... keep the comments flowing and I'll update. _\n\n---------------------------\n\n# So what makes Edgeware different? \n\n## 1. Upgradeable and interoperable blockchain \n\nFirst things first. Edgeware is built on [Substrate](https://substrate.dev), a SDK (software development kit) that makes developing, launching, maintaining and upgrading blockchains many orders of magnitude easier than previous generations.\n\nAs a result, all Substrate chains share the same basic building blocks meaning chains can adopt the innovations of others built on the same base and also interoperate and communicate via a [Polkadot relay chain structure](https://polkadot.network/technology/).\n\nSubstrate unlocks new capabilities for developers, community builders and creators and uses proof of stake to secure the network and also reduces gas fees that have made Ethereum an expensive place to experiment. Substrate chains enable fork-less upgrades that would previously have split communities into competing tribes and als",
+  "content_url": "https://threads.common.xyz/184b3ff5-4707-4f69-bf45-e2d13f4e294b.md",
+  "created_at": "2021-05-25T15:51:47.364Z",
+  "updated_at": "2025-03-23T18:34:55.222Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "mrbulb",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1176",
+  "body_complete": true
+}

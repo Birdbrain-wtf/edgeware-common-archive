@@ -1,0 +1,80 @@
+[
+  {
+    "id": 19829,
+    "thread_id": 4040,
+    "address_id": 24839,
+    "body": "## we lunched our website on [ArtRate.world](http://artrate.world/) \n\nthen we were trying to going ahead for our next version, it means that V2.0 it's going to have those features that are mentioned in thread:\n[https://commonwealth.im/edgeware/discussion/4727-art_rate-project-v20](https://commonwealth.im/edgeware/discussion/4727-art_rate-project-v20)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-05-05T11:41:01.559Z",
+    "updated_at": "2022-05-05T11:41:01.559Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Art_rate"
+  },
+  {
+    "id": 17504,
+    "thread_id": 4040,
+    "address_id": 1067,
+    "body": "Older thread: [https://gov.edgewa.re/discussion/2385-art_rate-project](https://gov.edgewa.re/discussion/2385-art_rate-project)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-03-22T21:23:56.078Z",
+    "updated_at": "2022-03-22T21:23:56.078Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 16758,
+    "thread_id": 4040,
+    "address_id": 1335,
+    "body": "I would say that the proposal is still very long and hard to understand.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-03-15T12:53:22.410Z",
+    "updated_at": "2022-03-15T12:53:22.410Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 16753,
+    "thread_id": 4040,
+    "address_id": 1335,
+    "body": "Hey - so given recent experience, if your total funding request is $10k but split into two $5k milestones, it makes sense to do two separate treasury proposals, else when you get the the second milestone, there will likely not be $5k - it'll either be less or more... \n\n[@Shankar Warang](/edgeware/account/jA7pLH65zgRNA4UgwqHEWWRxTgg51wuAUgfzmZoYWM2dMVS) thoughts?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-03-15T09:53:42.394Z",
+    "updated_at": "2022-03-15T09:53:42.394Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 16804,
+    "thread_id": 4040,
+    "address_id": 1067,
+    "body": "They already split the proposal into 2 milestones. Treasury proposal #55 which is currently in the external queue is only for milestone 1.",
+    "parent_id": 16753,
+    "content_url": null,
+    "created_at": "2022-03-15T17:40:39.999Z",
+    "updated_at": "2022-03-15T17:40:39.999Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 16807,
+    "thread_id": 4040,
+    "address_id": 1335,
+    "body": "Got it - so there would be a new proposal for milestone 2?",
+    "parent_id": 16804,
+    "content_url": null,
+    "created_at": "2022-03-15T18:10:33.783Z",
+    "updated_at": "2022-03-15T18:10:33.783Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": 10385,
+  "title": "Tokenguard data analytics",
+  "body": "Due to the crypto bear market situation we decided at Tokenguard to focus on providing on-chain user related data analytics tool and developing useful features for L1 blockchains and L2 protocols based on Substrate and EVM ecosystems. \n\nThe main goal is to increase protocol revenues, grow user base and understand user flows to make better business decisions.\n\nWeb3 creators still don’t have a tool delivering the most important data to them – user data insights. They can’t understand user acquisition/conversion paths and are losing money, because they can’t either measure and increase users' engagement or monitor the efficiency of marketing activities. \n\nAt the same time protocol creators can’t access the data they need, hence they’re either enforced to spend $ to create backend tools for tracking user data or have to use numerous tools to find basic user insights (Subscan, Dune Analytics, Etherscan).\n\nWe can propose delivering data analytics tool for Edgeware DAO community, which would consist of the following features:\n\n- no-code and no-SQL dashboard with user data analytics insights \n- user groups analysis over time\n- users behavior on-chain (staking, whale wallets analysis, user engagement over time)\n- user sources tracking\n- transactions analysis over time\n- alerting & monitoring \n- RAW data access\n- Data Analyst consultations \n- sharing and embedding dashboards on the website\n- custom fields and charts\n\n\nPlease find link to exemplary AlephZero testnet demo dashboard [here](http://demo.tokenguard.io/azero-testnet)\n\nWe're happy to deliver fully customizable on-chain data analytics tool for Edgeware DAO community based on custom metrics, which you consider as crucial for community growth.",
+  "content_url": null,
+  "created_at": "2023-03-13T12:09:53.778Z",
+  "updated_at": "2025-03-06T19:54:47.572Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "Luke Tokenguard",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/10385",
+  "body_complete": true
+}

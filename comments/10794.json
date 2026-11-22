@@ -1,0 +1,28 @@
+[
+  {
+    "id": 3252,
+    "thread_id": 10794,
+    "address_id": 1335,
+    "body": "yeah it's joon's. we spent yesterday experimenting a little with the onchain proposal process, we used the How To Make It In Crypto-Media podcast as its was the lowest cost proposal - aim was to figure out the correct process for pushing simpleMajority for all proposals rather than the existing superMajority. \n\nWe just need to agree next steps if/when this passes.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-09T10:54:16.493Z",
+    "updated_at": "2021-06-09T10:54:16.493Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 3229,
+    "thread_id": 10794,
+    "address_id": 287,
+    "body": "Is this Joon's proposal? \n\nIf so, it seems to be coded wrong - if this proposal passes, it will _propose a spend_ which will then become a treasury proposal - unless we are trying to avoid paying a proposal bond here.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-08T20:02:52.614Z",
+    "updated_at": "2021-06-08T20:03:05.047Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  }
+]

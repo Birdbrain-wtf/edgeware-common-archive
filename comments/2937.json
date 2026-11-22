@@ -1,0 +1,54 @@
+[
+  {
+    "id": 12799,
+    "thread_id": 2937,
+    "address_id": 1335,
+    "body": "Support and voted .",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-12-20T10:52:33.323Z",
+    "updated_at": "2021-12-20T10:52:33.323Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 12660,
+    "thread_id": 2937,
+    "address_id": 1004,
+    "body": "I support this. No comment from me.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-12-15T21:28:17.329Z",
+    "updated_at": "2021-12-15T21:28:17.329Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 12632,
+    "thread_id": 2937,
+    "address_id": 1067,
+    "body": "Motion 58 is now open for all the council members to provide a soft signal to convert the proposal into a simple majority referendum.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-12-14T21:15:47.519Z",
+    "updated_at": "2021-12-14T21:15:47.519Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 12497,
+    "thread_id": 2937,
+    "address_id": 1067,
+    "body": "OnFinality has been providing the load-balancer based RPC node infrastructure for over a year now. Grateful to the OnFinality team for such consistent service to the Edgeware community.\nOne can find their past commitments/proposals here:\n[https://gov.edgewa.re/proposal/discussion/852-edg_tp_16-public-shared-nodes-initial-build/](https://gov.edgewa.re/proposal/discussion/852-edg_tp_16-public-shared-nodes-initial-build/)\n[https://gov.edgewa.re/proposal/discussion/1179-onfinality-public-nodes-q2-update/](https://gov.edgewa.re/proposal/discussion/1179-onfinality-public-nodes-q2-update/)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-12-09T07:50:22.301Z",
+    "updated_at": "2021-12-09T07:50:22.301Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  }
+]

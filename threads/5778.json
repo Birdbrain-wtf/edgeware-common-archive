@@ -1,0 +1,15 @@
+{
+  "id": 5778,
+  "title": "Pallet_Subscription MVP (Milestone 1 funding)",
+  "body": "# Pallet Subscription (working started)\n\n[Updated 30/06/2022]\n\n\n\n**Like Stripe for Web3**\n\n_Subscribers, memberships and secure recurring payments for web3._<br>\n\n_**Link to task**: https://trello.com/c/FCoDZ49M/543-palletsubscription_<br>\n**Repo**: https://github.com/kabocha-network/pallet_subscription/tree/master\n\n**Network Service Provider:** [Decentration](https://decentration.org)<br>\n\n**Assigned developers**<br>\nEngineering supervisor / code reviewer: Timothee([Rusty Crewmates](https://rustycrewmates.com/))<br>\nDeveloper: Simon(RC)<br>\nDeveloper assist: Eljo _(unpaid in this funding proposal)_<br>\nProduct Manager: Ramsey([Decentration](https://decentration.org)) _(unpaid in this funding proposal)_<br>\n\n## Summary\nPallet subscription will be a way for a person, multisig (or supersig) to get recurring payments from a subscribing account on the Edgeware or Kabocha blockchains. Think Patreon, or Netflix or other types of monthly membership services. Pallet_Subscription will enable this functionality. <br><br>\n\n**Use case:** People can subscribe to your blogging service and pay you monthly in EDG or KAB. The payments will be withdrawn monthly from the subscribers account, automatically.<br><br>\n\n**Other use cases:** You can make salary payments from a pot of funds (but not from the treasury account).\n\n## Features\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/661dcc93-3000-4b55-8930-d8eacb7017c4.1655737887512)\n\n\n\n## Milestone 1 \n**Pallet minimal viable version (work already underway)**\n\nThe first pallet will enable the subscriptions to be taken in EDG (on Edgeware) and KAB (on Kabocha). <br><br>\n\nLimitations:<br>\nThe pallet will not have a pricing oracle though this could be included in later editions. \n\n**Deliverables**<br>\n- Design and build of pallet subscription first version\n- Substrate node template containing pallet_subscription\n- Recorded video presentation/workshop of pallet.<br><br>\n\n## Dispatchables:\n_Subject to change_\n\n**Create Subscriptio",
+  "content_url": "https://threads.common.xyz/bfc1db38-ed0b-4995-8960-f9dcd68fa489.md",
+  "created_at": "2022-06-20T15:25:19.364Z",
+  "updated_at": "2025-03-17T20:42:58.922Z",
+  "last_edited": null,
+  "comment_count": 7,
+  "profile_name": "Ramsey_Decentration",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/5778",
+  "body_complete": true
+}

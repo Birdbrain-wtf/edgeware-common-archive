@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1101,
+    "thread_id": 10758,
+    "address_id": 1163,
+    "body": "We are excited about integrating Edgeware into Enzyme. We have started working on it, and should have the basics done by the end of this month.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-08-11T15:45:42.699Z",
+    "updated_at": "2020-08-11T15:45:42.699Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Chinmay Patel"
+  },
+  {
+    "id": 1049,
+    "thread_id": 10758,
+    "address_id": 1163,
+    "body": "Related to [https://commonwealth.im/edgeware/proposal/discussion/496-proposal-to-fund-integration-of-edg-into-enzyme-wallet](https://commonwealth.im/edgeware/proposal/discussion/496-proposal-to-fund-integration-of-edg-into-enzyme-wallet)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-07-22T12:24:57.951Z",
+    "updated_at": "2020-07-22T12:24:57.951Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Chinmay Patel"
+  }
+]

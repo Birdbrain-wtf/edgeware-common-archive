@@ -1,0 +1,15 @@
+{
+  "id": 4496,
+  "title": "Bounty Parameter Optimization",
+  "body": "**Introduction**\n\nThis post is about a proposal to modify an existing governance parameter related to the bounty process, i.e. the Bounty Payout Delay which is currently set at 7 days. In short, we’re proposing this delay be reduced to 5 days.\n\nWe’ve discussed the complete process about finalizing the new delay (5 days) below.\n\n\n**Problem Statement**\n\nAs we know that in Edgeware the bounty process is designed as follows: \n\na. First, there is a council motion to finalize the bounty (1-14 days)\nb. Then, another council motion to assign the curator (1-14 days)\nc. The Bounty Update Period(1-30 days) - this is when contributors shall work on the bounty task, and the curator can close the bounty if the task is successfully completed or can update the bounty if the goal is not achieved in the given period\nd. Then comes the Bounty Payout Delay (7 days). This is when any community member or a council member can come up with objections if any and can reverse the bounty.\ne. The treasury spends cycles(3 days). This is a predefined period for treasury spends and the bounty will be paid according to the period.\n\n\nNow, in step ‘c’, when a contributor completes the bounty task and the curator has played his part by verifying the work, it is not appropriate for the contributor to wait for another 7 days + (0-3) days depending on the spend cycle, to receive the rewards he’s entitled to.This is a bit unfair to the recipient of the rewards as his work, would have already undergone a certain level of scrutiny by the curator.\n\nAlso, in those 7 days the price of EDG may undergo some upward/downward movements, and this may cause some losses to the contributor because of the payout delay. \n\nNow, on the other hand, any community member should have the right to raise objections (if any), regarding the successful completion of the task. Thus, we cannot completely do away with this Payout Delay. \n\nSo, an optimal solution to this would be to set the payout delay to such a duration where, \n(i) Th",
+  "content_url": "https://threads.common.xyz/35501a99-ed4a-4267-ad78-04961846b468.md",
+  "created_at": "2022-04-18T17:32:08.121Z",
+  "updated_at": "2025-03-18T09:16:40.653Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "Vismay Joshi",
+  "topic_id": 116,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4496",
+  "body_complete": true
+}

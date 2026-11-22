@@ -1,0 +1,54 @@
+[
+  {
+    "id": 29385,
+    "thread_id": 6896,
+    "address_id": 1335,
+    "body": "Hey - just checking back on a bunch of proposals as been down some rabbit holes.\n\nFew questions:\n\n- I think i understand the _periodic contribution_ model, but can you pls clarify? Is there any other material or link I can check?\n\n \n- The [attached tweet](https://twitter.com/edgewaredao/status/1561745012160856065?s=46&t=-oeZ6QXSMCqaE5o7nZyfWw) references another proposal - but this (above) proposal has no detail on what it is covering or the areas of work you are working  on? Was that the agreement? I'm not sure what to make of a tweet in this case.\n\n\nOverall we all want more clarity and are trying to assess each others and our own funding structures, but it seems every time a proposal comes to vote, it is in a completely different format. \n\nNow i'm probably being dumb here, so excuse me if i've missed some reference materials or didn't read the relevant background etc etc, but if we are to vote on things, then the onus is on the proposer to outline all the key information in one place.\n\nI just don't know how to vote on this - mostly because I don't really understand it...\n\nThis is an increasingly frustrating problem - no one seems to use any sort of proposal template, which is again why we're pushing forward with developing a system that will enforce certain criteria and information disclosures.\n\nI'm well aware of how difficult and arbitrary this process can feel like, so lets try and make this better for everyone. \n\nWould appreciate any other feedback here from others.\n\n**Side note**\n\nI'm currently working on a KSM proposal (which should address or at least soften the EDG funding structures) and will hopefully open up cross-chain funding for EDG contributors and teams. \n\nWhen I do, I'm aiming to try and test out a very simple / manual version of Dgen's modular _preferendums which will hopefully address or at least acknowledge our returning issues regards the communication of proposals.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-09-09T13:15:22.490Z",
+    "updated_at": "2022-09-09T13:15:22.490Z",
+    "deleted_at": null,
+    "reply_count": 3,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 29387,
+    "thread_id": 6896,
+    "address_id": 13474,
+    "body": "I have linked to the previous proposal. This $9k is based on a price reduction from $12k, based on quite a lot of negotiations. It is an invoice for this past month. August 8th to September 8th.",
+    "parent_id": 29385,
+    "content_url": null,
+    "created_at": "2022-09-09T14:22:41.822Z",
+    "updated_at": "2022-09-09T14:23:26.262Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey_Decentration"
+  },
+  {
+    "id": 29388,
+    "thread_id": 6896,
+    "address_id": 13474,
+    "body": "You are very clearly \"voting\" on a pre-agreed invoice. So voting against it means you are voting something pre-agreed.",
+    "parent_id": 29385,
+    "content_url": null,
+    "created_at": "2022-09-09T14:28:58.685Z",
+    "updated_at": "2022-09-09T14:28:58.685Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey_Decentration"
+  },
+  {
+    "id": 29437,
+    "thread_id": 6896,
+    "address_id": 13474,
+    "body": "I removed periodic, it was a word i learned from the Edgeware tweet. I have changed the proposal to a final invoice. Meaning this will be the last invoice to Edgeware treasury regarding Kabocha related work.\n\nI have added what was delivered this month. \n\nI have also that the actual objective to deliver Kabocha to a state ready for democracy to take over has been done. \n\nI hope that is sufficient for this final invoice.",
+    "parent_id": 29385,
+    "content_url": null,
+    "created_at": "2022-09-10T15:01:56.471Z",
+    "updated_at": "2022-09-10T15:12:42.237Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey_Decentration"
+  }
+]

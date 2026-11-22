@@ -1,0 +1,15 @@
+{
+  "id": 5222,
+  "title": "Edgeware: The Grassroots Relay (and spawner of community backed parachains) Network Plan proposal",
+  "body": "# Edgeware: The Grassroots Relay \n\n\n_Tagline: Edgeware can be the third relay chain, which has a special role, to fund, spawn and support new parachains in the Substrate ecosystem._\n\nAfter the light and useful discussion we had with Shankar and Thom last week (of May) in the developer meeting, and discussing with filip today, here’s a summary network plan for Edgeware which can be achieved in 6 to 12 months: \n\n_<this proposal is draft and still being updated>_\n\n## Edgeware Relay Chain with EdgeEVM parachain. \n\nEdgeware Relay is much more potent in the long term as a multichain framework that has evm capability through its first parachain, than just a smart contract solo chain. \n\n## Plan\n\nWe break down the most challenging upgrade in substrate (erup5), into 3 pieces: \n\n1. **Edgeware Core Upgrade** - “Edgeware-v0.9.18 OR Erup5\" - upgrade of the core system pallets we use day to day; primitives, types and storage migrations.  \n\n2. **Relay Flip** - “relayflip-v0.9.18” - add relay functionality; crowdloan switched off, and all parachains installed through governance (details to follow). \n\n3. **EdgeEVM parachain** - “paraevm-v0.9.19” - the first of Edgeware’s parachains, EdgeEVM. (details to follow). \n\n## FAQ:\n\n**Edgeware has too low market cap to be a relay and secure parachains.** If we were running outside projects parachains then this would be a concern. However adding relay and running our own parachain(s) makes no difference to Edgeware’s security. \n\n**will that mean EdgeEVM has its own cryptocurrency?** Not necessarily, EdgeEVM would use EDG. \n\n**What about become a parachain on Polkadot?** we can still do this, but the EdgewareRelay can stay a relay and preserve its historical blocks. \n\n**why be a relay chain?** Short answer is why not? multichain essentialism is a better design than single chain maximalism, aka an all-you-can-eat smart contract blockchain with DApps. This is why a lot of us are here in substrate world to be freed from smart contracts and build cu",
+  "content_url": "https://threads.common.xyz/4af5a3be-d6c0-4fc1-bd72-20ab452d6995.md",
+  "created_at": "2022-06-02T10:55:58.288Z",
+  "updated_at": "2025-03-22T03:28:05.697Z",
+  "last_edited": null,
+  "comment_count": 12,
+  "profile_name": "Ramsey_Decentration",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/5222",
+  "body_complete": true
+}

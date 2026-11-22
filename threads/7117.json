@@ -1,0 +1,15 @@
+{
+  "id": 7117,
+  "title": "Dwellir RPC Infrastructure Services Q3 Proposal",
+  "body": "Good morning all,\n\nDwellir is a leading IaaS (infrastructure as a service) team providing RPC infrastructure to more than 25 projects in the Dotsama ecosystem. We are proposing to run a geographically distributed public Edgeware RPC API Service.\n\nThis service we currently run for the Edgeware community is available via:\n\nwss://edgeware-rpc.dwellir.com\n[https://edgeware-rpc.dwellir.com](https://edgeware-rpc.dwellir.com)\n\nWe are requesting **EDG 3,945,370** to pay for the delivery of our services during Q3.\n\nFull details of our proposal can be found via this link:\n\n[https://docs.google.com/document/d/1JKYDfIX91LSAWf-BwaBiPVJU1rSkMI-HAb6jAkTmgKs/edit?usp=sharing](https://docs.google.com/document/d/1JKYDfIX91LSAWf-BwaBiPVJU1rSkMI-HAb6jAkTmgKs/edit?usp=sharing)\n\n---------- Proposal Details Overview -----------\n\nSetting up blockchain infrastructure is difficult, time-consuming, and expensive:\n\n- It requires a level of DevOps skills that many do not have. An Edgeware node, for example, requires knowledge of SSL certificate handling, WebSocket management, HTTPS management, firewall configuration, security measures, monitoring, reporting, upgrades etc.\n- It’s incredibly costly to run a node. Since we own and operate our infrastructure our cost structures are fair and more sustainable than cloud providers where one can expect massive increases in price.\n- Running production-level infrastructure is not trivial. You need to autoscale quickly to handle sudden increases in traffic which is very common when new projects launch. Our infrastructure uses an intelligent cluster stack whereby sudden increases in traffic are expertly scaled up and down as needed without the need for intervention.\n- It requires time. Time is the most valuable resource for projects. Most projects simply do not have the time to spend on DevOps, especially in crunch moments.",
+  "content_url": null,
+  "created_at": "2022-10-01T04:06:30.364Z",
+  "updated_at": "2025-03-14T22:15:06.495Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Ben <Dwellir>",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/7117",
+  "body_complete": true
+}

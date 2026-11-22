@@ -1,0 +1,15 @@
+{
+  "id": 5653,
+  "title": "Edgeware Community ERUP-5 upgrade update from core runtime developer Flipchan",
+  "body": "# **Edgeware Community ERUP-5 upgrade update from core runtime dev Flipchan**\n\nEarlier this year a [proposal was approved](https://commonwealth.im/edgeware/discussion/3608-recruitment-of-flipchan-as-edgeware-runtime-core-developer) to address Edgeware's core runtime issues and I (Filip/[@Flipchan](/edgeware/account/mdqwzsGFQ8jq2DQ246a9q3FhUAYKrmvNFEfYALXMWiueijV) flipchan) started on the development.\n\nThe goal of this proposal was to upgrade Edgeware's runtime and design structure so that we as a community can follow the polkadot-v releases of Substrate. \n\nInitially the process of this upgrade seemed pretty straightforward but the difficulty was largely under estimated. \n\nEdgeware's node is currently not running the official Substrate packages from Parity as they were forked as an early design decision. \n\nThe beginning of ERUP-5 was spent switching to the official version of Substrate. \n\nEdgeware has an EVM implementation which has not been maintained for a while, causing the code to not be compatible with the latest Substrate releases. \n\nEdgeware also has its own Ethereum pallet fork (Frontier). I saw after a while that the official version of Frontier was not up to date so I started to rewrite Edgeware's Frontier to use the official Polkadot releases and its currently working and compiling with the polkadot-v0.9.18 branch. \n\nAfter this was done, Ethereum had pushed a lot of new updates and several new changes such as new transaction formats. After countless hours of manually upgrading the Ethereum implementation, making sure it syncs with the new Frontier and so on, the problems started to increase. \n\nAfter the runtime was upgraded and the Ethereum implementation put in place, which included the Ethereum upgrade that expanded the transaction compatibility. \n\nDuring this process lots more libraries started to break and after hours of debugging the node is now building up to the last point where it needs to produce a webassembly build. \n\nThe current road block is th",
+  "content_url": "https://threads.common.xyz/d5e64cc6-f102-4a64-89f2-f144f4993584.md",
+  "created_at": "2022-06-16T20:25:14.469Z",
+  "updated_at": "2025-03-17T22:37:23.867Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Decent Partners",
+  "topic_id": 109,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/5653",
+  "body_complete": true
+}

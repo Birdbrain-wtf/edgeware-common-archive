@@ -1,0 +1,15 @@
+{
+  "id": 14102,
+  "title": "Create legal entities tied to a crypto address using Edgeware",
+  "body": "**LexBridge <-> Kali DAO **\n\nRequest for Proposal: Seeking an Edgeware/Polkadot developer to complete this project. \nMessage @aitheric on Telegram/ [aitheric@protonmail.com](mailto:aitheric@protonmail.com) if you are interested in working on this project. \n\n\n**Goal: **\nCreate legal entities tied to a crypto address using Edgeware\n\n**Background: **\nBeing able to create a legal entity tied to a crypto address can be useful for new projects or for tax reasons. A 'Series LLC' is a type of LLC that can have hundreds of 'child LLCs'. Each Child LLC can be assigned its own owner. For this project, the 'Child LLC' is assigned an owner based on a crypto address, which is signified both by a legal contract as well as a crypto-token/NFT.\n\nThis proposal was originally submitted by Etherize, a LLC/DAO company that was disbanded soon after. Around that time, a very similar project called Kali was released, supporting Ethereum. The goal is now to expand upon Kali's platform to also support Edgeware.\n\n**Requirements:**\nAdd in support for using Edgeware (Polkadot) to Kali's front end repository.\n\nLegal contract should be generated and signed using the wallet. A token/NFT should be generated upon signing.\n\n**Implementation:**\n\nFork the Kali front end.\nA user should be able to select the Polkadot wallet when using the Kali front end.\nIf they do so, rather than create an Ethereum DAO, the process should be changed to only create a NFT on Edgeware. The name of the DAO/LLC should be included in the NFT details. \n\n\nNFT Generation on Polkadot can be copied from Kodadot\n[https://github.com/kodadot](https://github.com/kodadot)\n\nKali Front End Repo:\n[https://github.com/kalidao/kali-ui](https://github.com/kalidao/kali-ui)\n\nKali Back end Repository:\n[https://github.com/lexDAO/Kali](https://github.com/lexDAO/Kali)\n*Probably not needed, but might be useful for comparison. Unlike the full version of Kali, we are not trying to create a DAO, just a NFT*\n\nKali Website Live:\n[https://app.kali.gg/](htt",
+  "content_url": "https://threads.common.xyz/55fbe689-be75-4204-a7ed-bba74796a42f.md",
+  "created_at": "2023-11-17T16:59:54.038Z",
+  "updated_at": "2025-03-13T13:29:59.208Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Gmeister7",
+  "topic_id": 933,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/14102",
+  "body_complete": true
+}

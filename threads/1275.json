@@ -1,0 +1,15 @@
+{
+  "id": 1275,
+  "title": "Edgeware DGov: cross-chain governance",
+  "body": "# **Edgeware DGov **\n\nThis thread is an outline and primer on projects related to Edgeware and DGov. This is not a funding proposal. \n\n**What is Edgeware DGov?**\n\n[DGov Network ](https://dgov.network)is a nascent chain that aims to develop governance in Web 3.0, founded by Ramsey. **Edgeware DGov** is the projects and proposals toward shared strategic objectives. DGov chain can also be the first out of Edgewares chain factory \"incubator/accelerator\".\n\n## **Objectives**\nThere are two main technical objectives for Edgeware DGov currently: a) enabling cross-chain governance and b) enabling layer 2 governance for sub-communities. \n\n**What will it take for a substrate chain to stake governance into another substrate chain? **\n\nThe parity-bridge-common pallet working group has delivered functionality that enables two substrate chains to relay information to each other, without necessarily being connected through a relay network.\n\nThis bridging is a more simple version of the relay chain that trades off efficiency and low-cost transactions with a simple way of communicating validated data across chains.\n\nGavin made a promise that some DOTs could be sent to Kusama. A team was set up to build something that allows for bridging to happen. They did, and [here](https://github.com/paritytech/parity-bridges-common) you can test their pallet and communicate data between two test chains.\n\n**How can we starting experimenting with these new Substrate features?**\n\nThis idea enables some interesting use cases. The first interesting - and useful - use case that comes to mind is sharing voting power between chains. \n\n**What will it take for Edgeware to have a governance stake in the DGov chain?**\n\nInitial aims and objectives: \n\nDGov chain set up objectives. \nSend test DGov to EDG multi-sig wallet. \n\nThis sounds like an interesting objective. Some questions that come to mind: after achieving the initial aim, which is to send some dGOV tokens to a multi-sig owned EDG account, what will it ",
+  "content_url": "https://threads.common.xyz/2024e811-accd-4f57-bb4f-247256979b36.md",
+  "created_at": "2021-06-02T09:40:10.405Z",
+  "updated_at": "2025-03-18T14:32:13.459Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "Ramsey",
+  "topic_id": 95,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1275",
+  "body_complete": true
+}

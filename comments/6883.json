@@ -1,0 +1,41 @@
+[
+  {
+    "id": 39697,
+    "thread_id": 6883,
+    "address_id": 82798,
+    "body": "ok",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-12-04T11:40:24.793Z",
+    "updated_at": "2022-12-04T11:40:24.793Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "etety"
+  },
+  {
+    "id": 31070,
+    "thread_id": 6883,
+    "address_id": 21315,
+    "body": "... just posting an update recapping the discord community discussion with the Andrei from peeraha.  Below are the details about the upcoming NFT upgrades, the timeline for the 3rd milestone, and video storage for tutorials.\n\nDiscussion Notes:\n\n**[Functionality]**\n\n_In response to a question regarding our community's ability to creation our custom (Edgeware) NFTs and the ability to view any existing substrate based NFTs.._\n\n\n\"The current version of Peeranha allows you to receive and view only the NFTs that are already on the platform, however, we certainly plan to add in the future the opportunity for the community to create their own NFTs.\"\n-Andrei\n\n**[Deliverables] **\n\n_In response to a question to determine the 3rd milestone's duration.._\n\n\n\"The estimated delivery time for the 3rd milestone would be a month and a half.\"\n-Andrei\n\n\n**[Storage]**\n\n_In response to a question to discover the storage platform for video tutorials.._\n\n\n\"When uploading it to the platform, it will not be fully stored on chain instead we use Livepeer to maintain this process.\"\n_-_Andrei\n\n\n- Much appreciation for taking the time in providing the additional clarity for your deliverables .",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-10-11T23:41:31.999Z",
+    "updated_at": "2022-10-11T23:42:02.457Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Zovern"
+  },
+  {
+    "id": 30854,
+    "thread_id": 6883,
+    "address_id": 21315,
+    "body": "Sergey & Andrei, \n\n Just wanted to thank you for the clarity on access & cost to premium services (translation) and future standard upgrades. Great to know that this proposal includes the required development staff to allow Edgeware to be included in incoming upgrades in functionality for Peeranha.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-10-06T15:22:51.753Z",
+    "updated_at": "2022-10-06T15:22:51.753Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Zovern"
+  }
+]

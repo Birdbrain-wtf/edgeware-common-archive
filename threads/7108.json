@@ -1,0 +1,15 @@
+{
+  "id": 7108,
+  "title": "Proposal: Bring stable runtime upgrade and chain testing to Edgeware, flipchan tests and documentation",
+  "body": "The previous thread:\n[https://gov.edgewa.re/discussion/7106-draftproposal-bring-stable-runtime-upgrade-and-chain-testing-to-edgeware-flipchan-tests-and-documentation](https://gov.edgewa.re/discussion/7106-draftproposal-bring-stable-runtime-upgrade-and-chain-testing-to-edgeware-flipchan-tests-and-documentation)    \n\nBroke because it can not render bigger markdown tables, instead the tables have been removed from this document and can be found in the following link:   \n[https://docs.google.com/document/d/1d3v5fAr1RHjpjJqvlW7iegKcoT9wfNJuN65x-sUkEsA/edit?usp=sharing](https://docs.google.com/document/d/1d3v5fAr1RHjpjJqvlW7iegKcoT9wfNJuN65x-sUkEsA/edit?usp=sharing)\n\n\n\n## Date of proposal:   \nIn Draft\n \n## Problem:      \nDuring the process of upgrading Edgeware’s network a lot of holes where hit in the road, one of them was dealing with Edgeware’s out of date testing suit. Flipchan now proposes a plan for a new tool to make running tests before and after a runtime upgrade easier.\n \n## Goal:    \nProvide more documentation and a stable testing suit that makes it easy and straightforward for developers to test runtime upgrade and pallet functionality. At the same time Introduce the new tool “uptest”.\n\n \n## Introduction:   \nFlipchan has previously been tasked to perform a massive runtime upgrade, The upgrade was very complex and a lot of holes were found in the road. But thanks to this experience flipchan has gotten a clear landscape of how Edgeware’s chains operated and wishes to spend his time on:     \n\n#### 1: Upgrading edgeware’s current testing kit(https://github.com/hicommonwealth/edgeware-state-tester).  \nRight now the tests for Edgeware are out of date, the process of porting them to a better and more feature rich implementation has been started by flipchan()\n \n \n#### 2: Documentation     \nThere is currently a giant lack of documentation in the substrate space for performing Runtime upgrades and doing proper testing of the chain. Therefor two guides are going to be ad",
+  "content_url": "https://threads.common.xyz/33d9fa32-d5e5-47e0-b614-b366b2eebe07.md",
+  "created_at": "2022-09-29T15:16:55.580Z",
+  "updated_at": "2025-03-15T20:00:06.863Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "Flipchan",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/7108",
+  "body_complete": true
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 88683,
+    "thread_id": 25104,
+    "address_id": 1067,
+    "body": "**Noted Preimage:**\n\nhttps://beta.edgscan.ink/extrinsic/24246778/2\n\nhttps://edgscan.ink/#/extrinsics/24246778-2\n\n\n**Verifiable decoded Preimage:**\n\nhttps://www.edgeware.app/?rpc=wss://edgeware-rpc0.jelliedowl.net#/extrinsics/decode/0x00014502546869732070726f706f73616c20617070726f76657320746865207370656e64696e67206f662032363020555344542066726f6d2074686520726574697265642027446976657273696669636174696f6e2046756e642041272e204b6e6f77206d6f726520686572653a2068747470733a2f2f676f762e6564676577612e72652f64697363757373696f6e2f3235313034\n\n\n**Preimage submission to Democracy:**\n\nhttps://beta.edgscan.ink/extrinsic/24246781/2\n\nhttps://edgscan.ink/#/extrinsics/24246781-2\n\n\n**Tabled Referendum #153 from Democracy Proposal #98:**\n\nhttps://beta.edgscan.ink/event/24249600/4\n\nhttps://edgscan.ink/#/events/24249600-4\n\n\n**Voting initialised on Referendum #153:**\n\nhttps://beta.edgscan.ink/event/24249600/5\n\nhttps://edgscan.ink/#/events/24249600-5",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2024-10-06T14:05:36.154Z",
+    "updated_at": "2024-10-06T14:05:36.154Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 88766,
+    "thread_id": 25104,
+    "address_id": 1067,
+    "body": "**Proof of Referendum approval:**\n\nhttps://beta.edgscan.ink/event/24350400/2\n\nhttps://edgscan.ink/#/events/24350400-2",
+    "parent_id": 88683,
+    "content_url": null,
+    "created_at": "2024-10-15T10:25:52.879Z",
+    "updated_at": "2024-10-15T10:25:52.879Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  }
+]

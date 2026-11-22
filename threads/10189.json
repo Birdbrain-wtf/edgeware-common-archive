@@ -1,0 +1,15 @@
+{
+  "id": 10189,
+  "title": "Reimbursements of infrastructure hosting costs {Nov 2022 - Feb 2023}",
+  "body": "This proposal aims to distinguish the periodic hosting costs from other SCU contributions. So moving forward, we will see 2 different types of SCU proposals (The conventional one and this new one for the hosting costs).\n\n## Contributors Involved:\n**JelliedOwl**\n- JelliedOwl is currently hosting geo-aware load-balanced RPC infrastructure (which is majorly used in PolkadotApps, EdgeApps, different wallets and block explorers for substrate/EdgeWASM and EdgeEVM environments). \n- Their previously approved proposal for the same:\n\n> [https://gov.edgewa.re/discussion/6607-public-rpc-and-bootnodes-jelliedowl](https://gov.edgewa.re/discussion/6607-public-rpc-and-bootnodes-jelliedowl)\n- Previous hosting reimbursements per month: 3000 GBP equivalent in EDG\n- Downscaled hosting reimbursements per month: 500 GBP equivalent in EDG (~600 USD equivalent in EDG)\n\n\n**Bharathcoorg**\n- Bharathcoorg is currently hosting block explorers of EdgeEVM/BeresheetEVM, Edgeverse extension & mobile wallet, Edgeverse DEX and Edgeverse Bridge portal.\n- Their previously approved (related) proposals:\n\n> [https://gov.edgewa.re/discussion/4214-builders-program-application-blockexplorer-and-wallet/](https://gov.edgewa.re/discussion/4214-builders-program-application-blockexplorer-and-wallet/)\n> [https://gov.edgewa.re/discussion/8013-proposal-basic-evm-tools-for-edgeware-network/](https://gov.edgewa.re/discussion/8013-proposal-basic-evm-tools-for-edgeware-network/)\n- Previous hosting reimbursements per month: 1000 USD equivalent in EDG\n- Downscaled hosting reimbursements per month: 500 USD equivalent in EDG\n\n\n\n**Combined reimbursements of the hosting costs:** 1100 USD equivalent in EDG per month\n\n**Proposal period: **Nov 2022 - Feb 2023\n\nThis proposal will be raised monthly moving forward.\n\n\n- **Trailing median of Nov 2022: **0.000531 USD per EDG\n- **Reimbursements for Nov 2022: **2071563.09 EDG\n\n\n- **Trailing median of Dec 2022: **0.000425 USD per EDG\n- **Reimbursements for Dec 2022: **2588235.29 EDG\n\n\n- ",
+  "content_url": "https://threads.common.xyz/dcfba2eb-55a9-43ef-b64c-722e7ac6696a.md",
+  "created_at": "2023-02-26T00:35:14.591Z",
+  "updated_at": "2025-03-18T08:20:54.750Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "Shankar Warang",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/10189",
+  "body_complete": true
+}

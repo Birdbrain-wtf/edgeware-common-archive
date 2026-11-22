@@ -1,0 +1,15 @@
+{
+  "id": 6392,
+  "title": "Monthly Incentives' Standards",
+  "body": "## Ethos: \nAs we enter more and more into the bear market, non-contributing EDG holders will have fewer psychological incentives to hold/stake which could affect the sustainability of the ecosystem in the longer run. While the contributors are not exposed to the same level of financial risks. This could potentially lead to Edgeware becoming a playground for premium bounty hunters. In the current scenario, contributors can claim that they want to invoice with reference to EDG only when the EDG price has increased recently and then switch back to any fiat denomination when the EDG price impacts negatively. We need to set ethical standards to utilize our on-chain treasury so that contributors/ holders who are here for the long term will somewhat be equally benefited.\n\n\n## Solution: \nIntroducing standard clauses and max caps for contributors, setting common grounds for all the periodic contributors. \n\n**General Clauses**\n\n- Calculate the EDG incentives in USD only. (Setting up one reference for everyone irrespective of your native currency is very crucial in the time of a potential recession. In recent examples, GBP and EUR are getting declined w.r.t. USD slightly/ significantly.)\n\n\n- Postpaid-only funding. (Periodic contributors usually don’t have significant initial funding requirements. Even if they do have, they can propose the first proposal as prepaid and then switch to postpaid. This indirectly also aligns with ‘underpromise and overdeliver’. )\n\n\n- [Use of 30-day trailing median](https://replit.com/@ShankarWarang1/30-Days-Trailing-Median-dollarEDG?v=1) instead of 7-day trailing average. (Contributors might try to time the market and propose their proposals accordingly. This can be avoided if we use the 30-day trailing median instead of the previously adopted standard of the 7-day trailing average.)\n\n\n\n**Proposed Max Caps for monthly incentives structure**\n\n1. 9000 USD per month for full-time core contributors who have these incentives as the only income source.\n\n",
+  "content_url": "https://threads.common.xyz/7f7e585a-c4f8-48ed-8062-6bebcc70f91d.md",
+  "created_at": "2022-07-27T12:48:33.697Z",
+  "updated_at": "2025-03-16T14:45:48.638Z",
+  "last_edited": null,
+  "comment_count": 6,
+  "profile_name": "Shankar Warang",
+  "topic_id": 1045,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/6392",
+  "body_complete": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2539,
+  "title": "EDG Community Update: Week of November 8th",
+  "body": "**Highlights**\n- Introducing '[EDG Financial Update](https://blog.edgewa.re/edg-financial-update-month-of-october/)', the brand new bi-weekly cousin newsletter of EDG Developer & Community Updates.\n- [Nova Wallet](https://twitter.com/HeyEdgeware/status/1459221723191160836?s=20) added support for EDG.\n- Edgeware’s Discord server got a [DAO-oriented redesign](https://twitter.com/HeyEdgeware/status/1458085755079770124?s=20).\n- [The waitlist is now open for Kabocha](https://www.kabocha.network/), the Kusama parachain from the Edgeware ecosystem.\n- All validators are requested to upgrade their nodes to the [release v3.3.3 or later](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP4/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP4/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n- Get to know more technical oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-nov-7/)’.\n\n\n**Ecosystem Updates**\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n- Kylin Network announced the [DeData Developers Fund](https://twitter.com/Kylin_Network/status/1458038421277007879?s=20).\n- 4thpillar Technologies’ [new homepage](https://twitter.com/4thtechProject/status/1459085439084732420?s=20) is live.\n- Knit Finance teased their [mainnet launch](https://twitter.com/KnitFinance/status/1459155900745195527?s=20).\n- Tidal Finance published a [roadmap update](https://twitter.com/tidaldefi/status/1459174963475320841?s=20).\n- ICON had a [brand look ",
+  "content_url": "https://threads.common.xyz/a67d4ada-f53b-4f7b-b1b2-69785876b159.md",
+  "created_at": "2021-11-17T07:42:55.857Z",
+  "updated_at": "2025-03-15T00:27:37.593Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2539",
+  "body_complete": true
+}

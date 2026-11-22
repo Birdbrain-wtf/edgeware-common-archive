@@ -1,0 +1,15 @@
+{
+  "id": 3926,
+  "title": "Beresheet Faucet - Treasury Tip Request",
+  "body": "**OVERVIEW**\nThe [existing](https://beresheet-faucet.vercel.app/) beresheet testnet faucet has been inactive for quite a while now because of which the potential developers are drifting away to other public testnets because of the ease to obtain test tokens. We have developed a new faucet with more functionalities. \n\n**GOALS**\n1. Automatize test token distribution for testing and development on Edgeware.\n2. Minimizing entry barriers for new developers by giving them test tokens to play around.\n3. This will increase the developer engagement on the network.\n\n\n**SPECIFICATIONS**\nWe have added the following new features to the faucet -\n- Supports all address encodings as input to send tokens.\n- Users can ask for a custom amount with an upper limit to avoid wastage.\n- Uses the latest Polkadot API version.\n- A banner has been added asking the users to return excess balance after accomplishing their tasks.\n- Remaining balance along with the faucet address is being displayed now, so that anyone from the community can refill the faucet to keep it alive.\n- Enhanced UI/UX.\n\n\n**HOSTED SITE**\nCurrently we have hosted the faucet frontend on Vercel free tier which can be accessed at this URL -** **[https://faucet-beresheet.vercel.app](https://faucet-beresheet.vercel.app)\n\n**PRICING**\nAsking for $1020 in EDG as the development charges @ $60/hr\n7-days trailing average price of EDG: _0.0038 USD_\nTotal Requested Amount: _268421.053 EDG_\nRecipient Address: _n881YjFMbhqx6sZtQXqJdVBzS3wfRrdZzK55HJ8Z6beMJr6_\n\n**TEAM (DaVerse)**\n- Sayan Kar - [github.com/SayanKar](https://github.com/SayanKar)\n- Raj Ranjan - [github.com/rajranjan0608](https://github.com/rajranjan0608)\n- Nimish Agrawal - [github.com/realnimish](http://github.com/realnimish) \n- Sameer Kushwaha - [github.com/kushwahasameerkumar](https://github.com/kushwahasameerkumar)",
+  "content_url": null,
+  "created_at": "2022-03-03T20:28:31.285Z",
+  "updated_at": "2025-03-15T23:32:48.771Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Nimish (DaVerse)",
+  "topic_id": 114,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/3926",
+  "body_complete": true
+}

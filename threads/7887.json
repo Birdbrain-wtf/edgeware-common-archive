@@ -1,0 +1,15 @@
+{
+  "id": 7887,
+  "title": "Proposal: Root - the evolution of on-chain governance",
+  "body": "![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/5ff3c800-cae0-403e-a4c8-1ccd57b7aafa.1669390983586)\n## **Proposal: Root - the evolution of on-chain governance**\n\n## **First posted**\n29th Nov 2022\n\n## **On-chain**\nTBC\n\n## **Blocknumber**\nTBC\n\n## **Collective**\n[Stated.Tech](http://www.stated.tech/)\n\n## **Network Services **\n[Decent Partners](https://gov.edgewa.re/discussion/3650-decent-partners-an-introduction-to-network-services)\n\n## **Networks**\n[Edgeware](https://edgewa.re)\n[Kabocha](https://kabocha.network)\nOthers tbc\n\n## **Summary**\n_Root_ is a [Substrate](https://substrate.dev) based governance lab that aims to drive participation in on-chain governance by rethinking the design from the ground up, making proposal collaboration fun, participatory and ultimately more human,\n\nThe project tackles the current adversarial relationship between proposers and voters by turning them into meaningful participants, co-creators, organisers and owners of on-chain projects.\n\nRoot is built around a collective creation and decision making system that uses a composable voting system inspired by[ Borda’s Count](https://en.wikipedia.org/wiki/Borda_count) to compute voting and allow contributors to create _preferendums_ directly linked to the governance pallets.\n\n## **Background**\n\n> _When a measure becomes a target, it ceases to become a good measure - Godhardt's Law_\n\nWhen addressing the current issues with on-chain governance, we need to begin by focusing on the **fundamental outcome** we have in mind when designing new tools and processes.\n\nWe should be very clear as to what certain developments aim to **optimise**, for **who** and what **purpose**, since these problems are all part of a bigger picture.\n\nWithout aligning on a core motivation we are in danger of collectively making the overall system worse in aggregate.\n\nA starting point for this north star is _sourcing, sustaining and scaling collective network intelligence._\n\nThis is a very different design philosop",
+  "content_url": "https://threads.common.xyz/e5289b5d-20f0-445d-bd64-49309a139f28.md",
+  "created_at": "2022-11-29T19:20:22.664Z",
+  "updated_at": "2025-03-18T08:44:18.330Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Decent Partners",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/7887",
+  "body_complete": true
+}

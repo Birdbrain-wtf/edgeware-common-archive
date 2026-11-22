@@ -1,0 +1,15 @@
+{
+  "id": 1676,
+  "title": "The Cutting Edge: Week of August 23rd",
+  "body": "**Highlights**\n- Introducing the ‘[EDG Dev Digest](https://blog.edgewa.re/dev-digest-week-of-aug-22/)’, a new periodic developer-oriented newsletter release for technical contributions and achieved milestones.\n- Commonwealth Labs brought massive functionality upgrades to [the Keygen page](https://edgewa.re/keygen). Users now can seamlessly transfer $EDG between the native WASM and EVM environments using Polkadot JS extension and Metamask (or any web3 evm extension).\n- All validators are requested to upgrade their nodes to the [latest release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases/tag/v3.3.3) to proceed further with the ERUP-4/Wako upgrade through the on-chain governance.\n\n\n**Ecosystem Updates**\n- Webb Protocol’s [Docs website](https://docs.webb.tools/) is now live.\n- Community members who are interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members who are interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n- Common Protocol partners with [ChainX](https://twitter.com/hicommonwealth/status/1430635427908759562?s=20).\n\n\n**Governance**\n- No active referendum. Upcoming: [ERUP4/Wako upgrade](https://gov.edgewa.re/proposal/discussion/1100-erup-4-substrate-30-evm-updates-runtime-modules)\n\n\n**Community**\n- The Calendar of events has many items each week, meetings on NFTs, DAOs, chain strategy and governance- whatever you're interested in, [take a look](https://gov.edgewa.re/proposal/discussion/1059-edgeware-community-calendar-add-to-your-gcal).\n- Recent/trending Community Research thread(s):\n- [A glance at what's to come for development on Edgeware](https://gov.edgewa.re/proposal/discussion/1577-a-glance-at-whats-to-come-for-development-on-edgeware/)\n- [How to make it in Crypto Media - an Original Podcast Series](https://gov.edgewa.re/proposal/discussion/1135-how-to-make-it-in-crypto-m",
+  "content_url": "https://threads.common.xyz/eb114795-da84-4cd5-87e1-c083ef8206b7.md",
+  "created_at": "2021-08-31T23:00:31.318Z",
+  "updated_at": "2025-03-17T22:51:25.783Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1676",
+  "body_complete": true
+}

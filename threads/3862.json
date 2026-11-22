@@ -1,0 +1,15 @@
+{
+  "id": 3862,
+  "title": "[Proposal] Market Maker-faciliatated Liquidation and Exchange B Final Items",
+  "body": "# Intro\n\n\nThis proposal follows weeks of discussion in our Tuesday financial calls, whose meeting notes and recordings you can peruse at the [Financial Calls recorded.](https://drive.google.com/drive/folders/1YKHHV7cNuCaYGNHs5esFQsEPxtB-shM4)\n\nThis WG is in general agreement to move forward with a proposal to run a slow, bot-managed liquidation of EDG on Kucoin in order to complete the previously approved **[Proposal to list on Exchange B](https://commonwealth.im/edgeware/proposal/discussion/1004-proposal-exchange-b-edg )**, and I've also included a purchase of extra BTC for market-making on Kucoin, explained below.\n\n## Problem\n\n1. In order to complete our listing process for Exchange B, we need a combination of BTC, USDT and EDG to address marketing campaigns and market-maker deposits. \n2. The promotional campaign costs are part of the agreement with Exchange B, and the MM deposits are the means to conform to Exchange B's requirements on liquidity performance. \n3. You can review the docs around these blockers here: [https://edgeware-a.slab.com/posts/exchange-b-blockers-7dyh2dok](https://edgeware-a.slab.com/posts/exchange-b-blockers-7dyh2dok)\n4. Additionally, our market-maker has informed me that our reserves of the BTC side of existing market-making is lower than optimal per their trading team- due to a combination of market price of BTC dipping and the trading activity balancing us to be heavier in EDG. They are requesting we deposit 0.6 BTC as soon as possible in order to quote properly. \n5.  Consequently, I would like to include 0.6 BTC worth of EDG in this proposal. Normally I would separate this out into a separate proposal, but_ since the same liquidation plan would be run for the whole set of funds,_ I'm not sure it makes sense to split. \n6. If the community is adamant that this should be a separate proposal I'm happy to organize.\n\n\n\n# Proposals and Cost Breakdown\nWe propose to fund and partially liquidate EDG from the treasury to support:\n\n\n**(1) Market Mak",
+  "content_url": "https://threads.common.xyz/a03bf2be-63e9-41ca-baf7-71776e9d8243.md",
+  "created_at": "2022-02-21T01:54:08.855Z",
+  "updated_at": "2025-03-18T00:22:33.345Z",
+  "last_edited": null,
+  "comment_count": 9,
+  "profile_name": "Thom Ivy",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/3862",
+  "body_complete": true
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 64253,
+    "thread_id": 12210,
+    "address_id": 43331,
+    "body": "Update : \nEdgeware added to Linea Mainnet and Added to Coinmarketcap.\n\nToken Contract : [0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270](https://lineascan.build/token/0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2023-07-31T10:34:25.795Z",
+    "updated_at": "2023-07-31T10:34:25.795Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "bharathcoorg"
+  },
+  {
+    "id": 64237,
+    "thread_id": 12210,
+    "address_id": 43331,
+    "body": "Update:\nEdgeware Added to Base Blockchain and Added to Coinmarketcap. Wrapped ETH is available in EdgeEVM.\n\nToken Contract : [0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270](https://basescan.org/token/0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270)\n\nWrapped ETH : [0x6c76A30658b4A39BD1e7303Edf6b2b6d1149bE6b](https://edgscan.live/address/0x6c76A30658b4A39BD1e7303Edf6b2b6d1149bE6b)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2023-07-30T19:26:59.744Z",
+    "updated_at": "2023-07-31T10:32:53.468Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "bharathcoorg"
+  },
+  {
+    "id": 63988,
+    "thread_id": 12210,
+    "address_id": 43331,
+    "body": "**New Tokens :**\n\nWrapped BTC : [WBTC](https://edgscan.live/address/0xf576f3Bd75A9FdAD2Ca62B317E0003035f7F8723)\n\nWrapped BNB : [WBNB](https://edgscan.live/token/0xae4134e78d6F755E137a90c8D3b46a75C299089C)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2023-07-25T19:46:59.851Z",
+    "updated_at": "2023-07-25T19:48:05.400Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "bharathcoorg"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 47207,
+    "thread_id": 9388,
+    "address_id": 1067,
+    "body": "OnFinality encoded this proposal incorrectly (treasury proposal #117) and thus they have proposed a new treasury proposal (#118) which includes the additional amount corresponding to the incorrectly encoded proposal's bond.\n\nKnow more about it here: [https://gov.edgewa.re/discussion/9428-high-performance-public-infrastructure-1st-oct-2022-to-8th-jan-2023](https://gov.edgewa.re/discussion/9428-high-performance-public-infrastructure-1st-oct-2022-to-8th-jan-2023)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2023-01-21T06:14:41.232Z",
+    "updated_at": "2023-01-21T06:14:41.232Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  }
+]

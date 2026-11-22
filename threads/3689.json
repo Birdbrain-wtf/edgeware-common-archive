@@ -1,0 +1,15 @@
+{
+  "id": 3689,
+  "title": "Proposal: Kabocha, initial runtime development and support from Elio",
+  "body": "![](https://lh3.googleusercontent.com/XgXlfUGuoYBvZTntMN4yWohsovaxmSPuTJuIWe_c-nKloxOImH-Vi_3k41CWKNY0PNRWzyS_AtFQXonc9gxvQ6Y9kbyCbNYc0ugek1oTLKKvRVFsqhL-Iv4yiy9RLZ5ciVx53o9G)\n\n## **Date**\n_1st February 2022_\n\n## **Builder **\n[@Eljo ](/decent/account/jC2A3FJMeZ5Ad8yrLU6p2v2LGs8hmeYqwMFcsizovjYs5Z6) (Elio)\n\n## **[Network Services](https://commonwealth.im/edgeware/discussion/3650-decent-partners-an-introduction-to-network-services)**\nDecent Partners\n\n**Project Summary **\nThis proposal seeks funding for the ongoing development of Kabocha runtime, setup maintenance and support from Elio who has been working on the project for the past few months.\n\nElio has been funded to date by the Edgeware Agency who advanced funds ahead of a formalised proposal. This proposal seeks to reimburse the agency and to also fund Elio as a core member of Kabocha’s dev team.\n\nWhen Kabocha has launched, it is expected that Elio will be funded via a new KAB proposal. \n\n## **Work to date**\n\n_01.12.2021 - 01.02.2022_\n\nAdding pallets in to the Kabocha runtime, debugging and repo maintenance (updated versions in line with Polkadot releases).\n\n## **About Elio**\n\n([Initial introduction post here](https://commonwealth.im/edgeware/discussion/2849-enthusiast-contributor)) \n\nMy name is Elio. I have a master's degree in computer science and I have more than 6 years experience as a professional software developer in Android/Java developer in the market. I have been deeply fascinated by blockchain and discovered Substrate after learning Solidity. I have spent the the past 12 months learning Rust/Substrate. \n\nI am a contributor to the Substrate repo, taking it upon myself to upgrading Substrate “Kitchen Node” Recipes from v1 to v2, which took 5-6 months working in my spare time.\n \nPull request link: [https://github.com/JoshOrndorff/recipes/pull/471](https://github.com/JoshOrndorff/recipes/pull/471)\n\nI decided to contribute because is a win-win situation. I can learn by contributing and I give something to th",
+  "content_url": "https://threads.common.xyz/cfcc3438-8535-4545-ad8c-f1f238307ece.md",
+  "created_at": "2022-02-01T16:31:30.112Z",
+  "updated_at": "2025-03-18T00:07:15.820Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Decent Partners",
+  "topic_id": 990,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/3689",
+  "body_complete": true
+}

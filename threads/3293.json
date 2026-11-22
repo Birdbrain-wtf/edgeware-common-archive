@@ -1,0 +1,15 @@
+{
+  "id": 3293,
+  "title": "EDG Community Update: Jan 3rd, 2022",
+  "body": "**Highlights**\n- [Kabocha’s governance platform](https://twitter.com/HeyKabocha/status/1479373700394856449?s=20) powered by OpenSquare is now live.\n- [The crowdloan waitlist](https://kabocha.network/) is open for Kabocha.\n- All validators are requested to upgrade their nodes to the [release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP4/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP4/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n- Get to know more technical oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-jan-2nd/)’.\n\n\n**Ecosystem Updates**\n- [OnFinality’s platform release(#20)](https://twitter.com/OnFinality/status/1480449359649325056?s=20) brings massive functionality upgrades which include new features like version selection, option to deactivate flag type arguments, override system-generated arguments and improved node action menus.\n- 4thPillarTech released their [revamped roadmap](https://twitter.com/4thtechProject/status/1479407175072194560?s=20).\n- Community Treasury-funded Web3 Media platform, [New-Futures have opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n\n\n**Governance**\n- No active referendum. Upcoming proposal: [GMI it in crypto media](https://gov.edgewa.re/proposal/discussion/1135-how-to-make-it-in-crypto-media-an-original-podcast-series/).\n- [Referendum #53 to fund Kabocha’s Technical ",
+  "content_url": "https://threads.common.xyz/a5eb1dd9-7084-44b0-a499-3b88b4138799.md",
+  "created_at": "2022-01-12T17:55:18.151Z",
+  "updated_at": "2025-03-14T13:03:08.533Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/3293",
+  "body_complete": true
+}

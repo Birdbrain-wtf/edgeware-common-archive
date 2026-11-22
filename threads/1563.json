@@ -1,0 +1,15 @@
+{
+  "id": 1563,
+  "title": "SimpleMajority - a proposed Edgeware governance standard",
+  "body": "This is a short post about basic Edgeware governance standards and was prompted by a lively debate ahead of the New-Futures proposal regarding the use of SimpleMajority voting.  \n\n## **What are governance standards?**\n\nWe have a blockchain that enshrines the basic rules of Edgeware into on-chain code - how balances, transactions, voting, upgrades and funding amongst others relate to each other and the processes needed to execute certain actions. \n\nThese automated processes work well at the most basic level, however decisions are nuanced, people interpret things in different ways and so we also need some simple off-chain governance standards that allow us define the way the community interprets and uses the basic functionality. \n\n## **Why do we need governance standards?**\n\nOften standards are already informally agreed, however this leaves room for later disagreement, so we should have a small number of simple but formalised standards that we can return to. \n\nHaving a few basic standards is vital as we move forward as a project - we don't need loads, but these standards should gradually emerge over time as we debate / discuss and iterate.\n\nIn essence we take an informal **belief** aka \"We believe that proposals should all be decided via a simplemajority vote...\"  and formalise this belief into a governance standard. \n\n## **Proposed Governance standard: SimpleMajority Treasury Proposals**\n\nCurrently when anyone puts forward a treasury proposal to a public referendum, the process uses the [SuperMajority standard.](https://wiki.polkadot.network/docs/learn-governance) \n\nThis means that proposals that are put forward can be easily blocked by a small number of people, or even a single individual or group, even if the proposal has broad backing by a large number of smaller community members. \n\nFor the last few proposals, there has been an informal agreement that we put proposals to a SimpleMajority rather than a SuperMajority, meaning they are biased for broad community bac",
+  "content_url": "https://threads.common.xyz/419cf17f-3c60-46b0-8d02-3bcfdedcd34f.md",
+  "created_at": "2021-08-23T08:45:25.639Z",
+  "updated_at": "2025-03-17T22:49:25.992Z",
+  "last_edited": null,
+  "comment_count": 7,
+  "profile_name": "mrbulb",
+  "topic_id": 95,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1563",
+  "body_complete": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 3979,
+  "title": "EDG Community Update: Feb 28th, 2022",
+  "body": "**Highlights**\n- [Kabocha Soupcan testnet went live](https://twitter.com/HeyKabocha/status/1498592590043693059?s=20&t=cuJEAfusAsu02eaS_3d6-Q) on the Pop-Art relay chain.\n- [Kabocha secured a Para ID #2113](https://twitter.com/HeyKabocha/status/1499463764562825219?s=20&t=ab0dV1OyO8fYIFY32smpQQ) on the Kusama relay chain for 1.62m EDG (after conversion to KSM). \n- [The crowdloan waitlist](https://kabocha.network/) is open for Kabocha.\n- All validators are requested to upgrade their nodes to the [release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP5/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP5/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n\n\n**Ecosystem Updates**\n- Kabocha’s Technical Steward [Ramsey talked about Edgeware and Kabocha in the Blockchain Recorded Podcast](https://twitter.com/recordedpodcast/status/1499272723431927809?s=20&t=cuJEAfusAsu02eaS_3d6-Q) hosted by Nina Cerar.\n- [OnFinality published the usage report](https://docs.google.com/spreadsheets/d/1fNzEnriqLjDQXZdCy0CZa6kXHNmJ3dF--tMf_q29BIM/edit?usp=sharing) of their load-balancing RPC infrastructure for Edgeware solochain mainnet in Feb 2022. Overall there were 137m requests with 101GB of data traffic.\n- Get to know more technical oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-feb-27/)’.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/).\n- Community Treasury-funded Web3 Media platform, [New-Futures have opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on ",
+  "content_url": "https://threads.common.xyz/16c96d6c-89b5-4d33-8fbf-96bbd7ae9c72.md",
+  "created_at": "2022-03-09T07:55:17.784Z",
+  "updated_at": "2025-03-15T23:54:22.828Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/3979",
+  "body_complete": true
+}

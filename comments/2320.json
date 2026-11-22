@@ -1,0 +1,93 @@
+[
+  {
+    "id": 13427,
+    "thread_id": 2320,
+    "address_id": 3336,
+    "body": "It's an okay discussion,  but first, just create some safety nest of USDT and when the project starts getting more traction, then we could try to earn some extra by speculating on the market.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-01-06T18:41:28.905Z",
+    "updated_at": "2022-01-06T18:41:28.905Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Gediminas"
+  },
+  {
+    "id": 13521,
+    "thread_id": 2320,
+    "address_id": 1335,
+    "body": "personally i don't think we should be trading the market, unless that is a specific proposal put forward to the community by some professional trader, who has some specific value add and comes to request funds. \n\nthis whole diversification thing feels like it is starting with an answer, and then working back to the problem... it is better to go back to first principles and try to do some work figuring out our unique way of solving this problem... \n\nlet's not create a casino environment, let's concentrate on building long term value, and solving the issues in novel ways.",
+    "parent_id": 13427,
+    "content_url": null,
+    "created_at": "2022-01-08T10:49:06.250Z",
+    "updated_at": "2022-01-08T10:50:34.536Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 13033,
+    "thread_id": 2320,
+    "address_id": 14385,
+    "body": "We have written a post (Strategy for Edgeware Treasury Diversification) related to this in the DAO Financial Mega-thread. Do check it out and let's discuss further.\nLink:\n[https://commonwealth.im/edgeware/proposal/discussion/2138-dao-financial-megathread?comment=13031?](https://commonwealth.im/edgeware/proposal/discussion/2138-dao-financial-megathread?comment=13031?)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-12-26T19:43:54.458Z",
+    "updated_at": "2021-12-26T19:54:54.108Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Advait"
+  },
+  {
+    "id": 12449,
+    "thread_id": 2320,
+    "address_id": 1004,
+    "body": "This is a topic of weekly discussion in the Tuesday financials calls. We are currently modeling risk and reward for a basket of blue chip and stables to diversify into. We will present that model and proposal for spending in the next week or two for community input, but we have no firm timeline on when we can or should execute, given current market conditions.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-12-07T22:27:45.657Z",
+    "updated_at": "2021-12-07T22:27:45.657Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 12452,
+    "thread_id": 2320,
+    "address_id": 1335,
+    "body": "makes sense, just hadn't seen response here to [@kosturp](/edgeware/account/nooQF75e7yWJk5QMkd67t8bgW9R58tpu6zdKcuhHCbK1dg6)",
+    "parent_id": 12449,
+    "content_url": null,
+    "created_at": "2021-12-07T22:43:24.654Z",
+    "updated_at": "2021-12-07T22:43:24.654Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 12428,
+    "thread_id": 2320,
+    "address_id": 1335,
+    "body": "noted no response to this... bumping it [@Thom Ivy](/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) have some thoughts on stablecoins too, could also be considered if we might use some of EDG treasury to acquire KSM as you suggested in Kabocha crowdloan[ thread here](https://commonwealth.im/edgeware/proposal/discussion/2903-kabocha-crowdloan-campaign-strategy-discussion?comment=12387).",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-12-07T15:17:00.671Z",
+    "updated_at": "2021-12-07T15:18:35.950Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 9045,
+    "thread_id": 2320,
+    "address_id": 3336,
+    "body": "Yes, it should be beneficial having some reserves in stable coins.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-17T19:24:13.496Z",
+    "updated_at": "2021-10-17T19:24:13.496Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Gediminas"
+  }
+]

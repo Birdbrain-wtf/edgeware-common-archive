@@ -1,0 +1,15 @@
+{
+  "id": 12279,
+  "title": "Contributors' Support Program (CSP)",
+  "body": "## ![](https://assets.commonwealth.im/05626d16-9243-488a-8ee7-d6b702538383.svg)\n## \n## Summary\n\tContributors' Support Program allows anyone to support the currently non-treasury-funded contributors to continue their contributions to the Edgeware community through the limited monthly editions of NFTs. This program aims to provide basic minimal monthly incentives for Edgeware contributors who are consistent with their contributions (until the market situation improves).\n\n## The Motto\n\tThe self-sustainability (powered by on-chain treasury) of the Edgeware ecosystem and the contributors are dependent on each other. But because of the ongoing market situation, we entered into a paradox where everyone's approach towards solving the same problem became quite distinct from each other. This resulted in the majority of the contributors not being incentivised at all for 8+ months! Many already gave up while few are still contributing voluntarily. These few contributors came up together to solve the paradox by committing themselves to the more consistent, accountable and transparent contribution structures under the unified non-guaranteed Contributors' Support Program.\n\n## Program Layout\n- Basic minimal monthly incentives per contributor: 350 USD (utilising bridged USDT or BUSD on EdgeEVM)\n- Total number of NFTs per month = Total number of contributors fulfilling the CSP Clauses\n- Each month on the same day, the total number of CSP-eligible contributors will be determined and the new mint contract will be deployed using ThirdWeb. {[https://portal.thirdweb.com/pre-built-contracts/nft-drop](https://portal.thirdweb.com/pre-built-contracts/nft-drop)}\n- Once the NFT metadata, mint parameters and recipient multisig details are set, the Admin and Creator permissions of the contract for the deployer address will be permanently removed before hosting the new minting UI on [https://edgeware.io/csp](https://edgeware.io/csp).\n- This program will not have any royalties or platform fees.\n\n\n#",
+  "content_url": "https://threads.common.xyz/1594d16e-a32c-4484-a20c-2266a56c55e1.md",
+  "created_at": "2023-07-21T16:40:15.691Z",
+  "updated_at": "2025-03-22T23:37:34.641Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 1045,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/12279",
+  "body_complete": true
+}

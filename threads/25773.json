@@ -1,0 +1,15 @@
+{
+  "id": 25773,
+  "title": "Reimbursements of infrastructure hosting costs {Dec 2024}",
+  "body": "Previously approved proposal: https://gov.edgewa.re/discussion/24944-reimbursements-of-infrastructure-hosting-costs-oct-2023-nov-2024\n\n\n# Contributors Involved:\n\n## JelliedOwl\n\n- JelliedOwl is currently hosting geo-aware load-balanced RPC infrastructure (which is majorly used in PolkadotApps, EdgeApps, different wallets and block explorers for substrate/EdgeWASM and EdgeEVM environments).\n\n- Their previously approved individual proposal for the same:\n\n\t-> https://gov.edgewa.re/discussion/6607-public-rpc-and-bootnodes-jelliedowl\n\n- Hosting reimbursements per month: 275 USD equivalent in EDG\n\n\n## Bharathcoorg\n\n- Bharathcoorg is currently hosting block explorers of EdgeEVM/BeresheetEVM, Edgeverse extension & mobile wallet, Edgeverse DEX and Edgeverse Bridge portal.\n\n- Their previously approved (related) proposals:\n\n\t-> https://gov.edgewa.re/discussion/4214-builders-program-application-blockexplorer-and-wallet/\n\n\t-> https://gov.edgewa.re/discussion/8013-proposal-basic-evm-tools-for-edgeware-network/\n\n- Hosting reimbursements per month: 500 USD equivalent in EDG\n\n\nCombined reimbursements of the hosting costs: 775 USD equivalent in EDG per month\n\n\nProposed period: Dec 2024 (1 month)\n\n### Total in USD for the proposed period: 775 USD (to be paid in EDG)\n\n30-day trailing median: 0.000103426 USD per EDG\n\n### Total: 7493280 EDG\n\n**Multisig address:** iyi7RbDFPeURc9JEe6buQGwhQauj71e55hMDvzBH3eZBtmh\n\n**Signers (Threshold: 4/6)**\n\nJelliedOwl: j1CDEyfQcvc87NUKwGZSDed1PEaMUUdh4knjxuRzV8s9JD9\n\nBharathcoorg: i1tffC8QVVUgGb8RjazGRz72SDxtP35kqa2RB7vnVhjRHPV\n\nBugZ: mn1dVN9mhJLEgJjev37AKWxMe7JbdsZbneDueRwcKu7WGxR\n\nMoonY: jcXrF5ECRfdeZEptnaD7Mp5kRmdxVV9DTnweVKN1jmwi76N\n\nGagan: kvZxfzpnJxBP2qh9ZrXSuWuzuPgbMs6gdUMPzTX2hYABzeJ\n\nShankar: jA7pLH65zgRNA4UgwqHEWWRxTgg51wuAUgfzmZoYWM2dMVS",
+  "content_url": null,
+  "created_at": "2024-11-25T08:59:21.058Z",
+  "updated_at": "2025-03-17T00:44:11.916Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "Shankar Warang",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/25773",
+  "body_complete": true
+}

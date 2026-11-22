@@ -1,0 +1,93 @@
+[
+  {
+    "id": 3256,
+    "thread_id": 1307,
+    "address_id": 287,
+    "body": "> Ultimately it all depends on, how Edgeware can give these projects leverage.\n> If we would see more exchange listings, better marketing and higher evaluation, than we would onboard DAPPS very quickly at least for a certain time. And with the leverage this gives us, we could try to pursue the relay chain model.\n\nWe already have one partner project, which is now well-regarded in the polkadot ecosystem, in dTrade.\n\nThere are about 2-3 other new projects we're working with at Commonwealth which, are at a similar stage as dTrade was when they raised their pre-seed round.\n\nIf we can figure out a way to eliminate platform risk for those projects, and get them to build on Edgeware (and use the extended Edgeware network to help them expand), then I think there is a clear path forward for the network.\n\nEach network's founders could also serve as governing members of Edgeware.\n\nHowever, making this work requires **clear alignment between Edgeware and dapps building on the network. **That means technical stability (continuing to supporting the EVM) and platform stability (a clear path to DOT and KSM bonds).",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-09T17:38:05.132Z",
+    "updated_at": "2021-06-09T17:38:05.132Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 3254,
+    "thread_id": 1307,
+    "address_id": 3218,
+    "body": "Adoption is a differentiator not necessarily EVM but if adoption comes with EVM then that's the strategy to go. We have several dapps starting on Edgeware utilizing EVM. These dapps might be a differentiator to onboard more dapps and so one.\nYour relay chain strategy is until today a dream. You A) don't have the developer and B) you don't have the funding to attract these developers. Ramsey is an EVM developer and inexperience with substrate. \nAnd in 3-6 month you will still probably \"brain storming\" in the agency channel. \nSo to summarize, you are criticizing without having any alternative.\n\nUltimately it all depends on, how Edgeware can give these projects leverage. \nIf we would see more exchange listings, better marketing and higher evaluation, than we would onboard DAPPS very quickly at least for a certain time. And with the leverage this gives us, we could try to pursue the relay chain model.\n\nIn short without a success story in a short time, this project will be dead because there won't be funding anymore, nor interest.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-09T12:31:27.932Z",
+    "updated_at": "2021-06-09T12:47:10.333Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "DostoPat"
+  },
+  {
+    "id": 3253,
+    "thread_id": 1307,
+    "address_id": 1335,
+    "body": "So the thing I just don't get is why everyone thinks EVM is a differentiator - or any sort of competitive moat when it comes to driving EDG value capture in the near future (next 3-6 months).\n\nI just haven't seen any arguments that seem convincing - can anyone give a better thesis for how EDG has value capture?\n\nSee for example Karura seems to be exactly what Hedgeware / Edgeware is - a smart contract enabled EVM chain, though as a canary-net for Acala it has exactly the same distribution, whereas [Hedgeware doesn't](https://commonwealth.im/edgeware/proposal/discussion/1159-why-hedgeware-is-currently-a-terrible-idea). \n\nI know the project set out to become a smart contract platform and this is great as a capability, I just can't see how it differentiates as a proposition in our messaging?\n\nSee this visual on Karura. \n\n![](https://pbs.twimg.com/media/E3ag7EeXoAkve4k?format=jpg&name=4096x4096)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-09T11:17:05.180Z",
+    "updated_at": "2021-06-09T11:22:07.529Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 3227,
+    "thread_id": 1307,
+    "address_id": 1004,
+    "body": "So we have parity with basic ETH functionality, except for the ETH-Wasm side intertransfer process?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-08T17:40:10.090Z",
+    "updated_at": "2021-06-08T17:40:10.090Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 3221,
+    "thread_id": 1307,
+    "address_id": 287,
+    "body": "I think all major issues with the EVM that were outstanding in the last release have been fixed. (Transaction receipts and gas estimation were the major issues. A lot of this was just confirmed over the weekend by Drew, and I made a second pass.)\n\nCrypto is going to change a lot in the next couple of years, as low-fee, high-performance chains are now common for the first time - which means that we will start seeing apps that don't look like DeFi or store of value/speculation for the first time.\n\nIn this world it's likely that we'll see new categories of applications emerge. For example, in the Terra ecosystem [mentioned in my earlier thread](https://commonwealth.im/edgeware/proposal/discussion/1065-lessons-from-terra), there are now personal and social applications like [Rerun](https://twitter.com/Rerun_Habits) which are crypto-native. Those may be natural places where Edgeware's DAO structure and public funding focus to do well.\n\nOne principle of building new tech is that you only try to **do one unknown thing at a time** - for many builders in this space, that precludes them from building on platforms other than EVM, which is why it remains critical to support EVM as a platform.\n\nRegardless, it would make sense for the treasury and public funds to invest heavily in **Ink!** as a platform as well, given that the most hardcore EDG devs will likely be building on there.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-07T18:45:35.803Z",
+    "updated_at": "2021-06-07T18:45:35.803Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 3219,
+    "thread_id": 1307,
+    "address_id": 2976,
+    "body": "I agree... long-term value in Edgeware is having more of a \"multi-chain minimalist\" ethos with a focus on governance and interoperability. Edgeware is and should be simply known as a new generation chain that is the best example of on-chain governance outside of the DOT/KSM, it's been around almost as long as Polkadot, has a burgeoning community spirit, and therefore is a hidden gem in relation to DOT and KSM.\n\nAnd, as \"on-chain governance\" prevails as a stronger weighted value across the entirety of blockchains, EDG would then be one of the most experienced and undervalued chains (in existence).\n\n!ink requires a bit of learning but not too much, and would naturally act as a filter for semi-serious projects that may end up just being a bloat. \n\nBut, as a \"pallet man\", smart contracts simply put the onus on a single chain ethos rather than multi-chain. Doing away with all forms of smart contracts may seem like a controversial idea, but would force a clarity of layer 1 values.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-07T16:54:05.963Z",
+    "updated_at": "2021-06-07T16:54:05.963Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey"
+  },
+  {
+    "id": 3218,
+    "thread_id": 1307,
+    "address_id": 1335,
+    "body": "Well articulated and completely agree. There is little chance to onboarding hundreds of apps and driving value capture with EVM compatible chains. I've just come off a call with [PalmNFT](https://palm.io) - who are launching an EVM compatible chain out of Consensys with a bunch of big partners and are setting out to eat Polygon's Layer 2 lunch, simply because they can turn key implement a whole host of ETH based apps and are working with an ETH compatible consensus system that is battle tested as it is based on Hyperledger Besu - used by JP Morgan etc.\n\nThe copy/paste formula is rapidly being competed away. \n\nWe should be playing to our - the community, ecosystem partners and Substrate's strengths.\n\n- Applied governance at the extreme end of community oriented\n- Deployment of public treasury funds    \n- Network of DAOs / collectives\n- Web2/3 media networks  \n\n\n**Building out publishing IS our marketing**.           \n\nI've been discussing with [@Ramsey](/edgeware/account/k44nJ5yAhFz3XHGeTPuKvegJ4GD1YCSVaPc7wj4miVL6epN) and in light of the upcoming dGOV proposal which will provide us a clear roadmap towards bridges and indeed relay chain status, it seems clearer and clearer that we should focus our attention on projects that can hit the ground running and make an outsized impact when it comes to making Edgeware truly differentiated in the Substrate space. \n\nWe should sit alongside Polkadot and Kusama as relay chains - not be deferential to them when it comes to our proposition.\n\nIf we build out media foundations on the funding / community / governance experience we can become a powerful ally to both networks - since we can tell more expansive and entertaining stories that appeal to a broader cross-section.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-07T16:47:45.814Z",
+    "updated_at": "2021-06-07T16:47:45.814Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

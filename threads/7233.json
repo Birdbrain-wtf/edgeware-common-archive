@@ -1,0 +1,15 @@
+{
+  "id": 7233,
+  "title": "EDG Community Update: Week of October 3rd, 2022",
+  "body": "## **Highlights**\n\n- One of the community validators, [kdpnetstake determined](https://twitter.com/EdgewareDAO/status/1578355962083155968)[a critical bug](https://twitter.com/EdgewareDAO/status/1578355962083155968) in the node client of the v4.0.0 pre-release on the testnet. Thus, we might need to wait for the next pre-release with the inclusion of the client fix which will be collectively tested on the Beresheet v4 testnet before proposing it on the mainnet.\n- All the Validators, RPC infrastructure providers, Exchanges and Ecosystem Projects are requested to wait for the next pre-release (and not to upgrade to the [pre-release v4.0.0](https://github.com/edgeware-network/edgeware-node/releases/tag/v4.0.0) if you haven't done already).\n- Upcoming Activities/Events: [Valorant Gaming Tournament](https://gov.edgewa.re/discussion/6514-edggaming-tournament)\n\n## **Ecosystem Updates**\n\n- Many Edgetributors (Edgeware contributors) attended the [crypto networking event 0xBreakfast](https://twitter.com/EdgewareDAO/status/1577697312373096449) in Mumbai and shared the word about the history of Edgeware, current ecosystem status and things in the pipeline.\n- Get to know more technical-oriented updates on the '[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-oct-2/)'.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/).\n- EDGizens are welcome to participate in [the research survey](https://forms.gle/XdjEyBEMY1EtZs3x9) by one of the ecosystem partners.\n- Community Treasury-funded Web3 Media platform, [New-Futures opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink's oracle nodes on EdgeEVM, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb ",
+  "content_url": "https://threads.common.xyz/82ac3f25-3757-4185-9466-34a796431586.md",
+  "created_at": "2022-10-12T19:36:47.740Z",
+  "updated_at": "2025-03-13T02:22:36.507Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/7233",
+  "body_complete": true
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 24131,
+    "thread_id": 5306,
+    "address_id": 1067,
+    "body": "**Date: 28th June 2022**\n\n**Treasury Proposal summary:**\nTotal incentives requested per month: 4500 USD equivalent in $EDG\n7-day trailing average: 0.0017 USD\nTotal in EDG: 2647058.82\nMultisig address: o8QDTYf5WQCFdQqE4MTzm4xqER87tkmnaPETXbKAbEDJ8b9\n\nType: Postpaid for contributions in June 2022\nOpted for SCU: Yes",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-06-28T22:18:05.182Z",
+    "updated_at": "2022-06-28T22:18:05.182Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 22561,
+    "thread_id": 5306,
+    "address_id": 1335,
+    "body": "Thsnks for response.\n\n> As a part of the inflation model, we would like to study the existing inflation model of Edgeware and analyze whether any tweaks to existing parameters/formulas would further optimize the token value. The same goes for treasury proposal parameters. This is basically a study of the existing processes in place and to determine whether further optimization is possible. \n\nOk, I get it, but I'd say you can't look to adjust parameters without considering the rest of the ecosystem / project.\n\nOne of the things we should always encourage is this kind of core changes to have a strategy that is derived from first principles.\n\nThis specific line:\n\n> _analyze whether any tweaks to existing parameters/formulas would further optimize the token value._\n\nLet's not use fancy language here - optimize the token value just means NGU. Don't set yourself that task, because if you say that, your work will be measured on that and no one can guarantee that, all we're doing is experimenting.\n\nIf we want to adjust the inflation parameters then it needs to be part of a coherent strategy about the whole of Edgeware's economic and organisational design.\n\nStart with thinking about Edgeware's core value capture - right now there are only two options on the table:\n\n1. Recouping KAB (via the funding of R&D). \n2. Transitioning into a relay, where EDG has potential demand from parachains, though in our own 'incubated' parachain model, we may not have auctions / crowdloans, hence this might not result in demand.\n\n\nI guess all I'm saying is we need to think holistically - and consider the whole project, all of its initiatives, and ambitions before having any idea what might be worth tweaking.\n\nI'll try and attend more financial analysts calls going forward - you're asking good questions, so take this as constructive, we just need to see the big picture, as well as the mechanisms. \n\n> Rather, this proposal benchmarking would be a possible collaborative effort with Shankar, where w",
+    "parent_id": null,
+    "content_url": "https://comments.common.xyz/f593ffaf-6370-48b0-bcff-dd7d3c12cd78.md",
+    "created_at": "2022-06-11T08:09:14.951Z",
+    "updated_at": "2022-06-11T08:09:14.951Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "mrbulb",
+    "full_text": "Thsnks for response.\n\n> As a part of the inflation model, we would like to study the existing inflation model of Edgeware and analyze whether any tweaks to existing parameters/formulas would further optimize the token value. The same goes for treasury proposal parameters. This is basically a study of the existing processes in place and to determine whether further optimization is possible. \n\nOk, I get it, but I'd say you can't look to adjust parameters without considering the rest of the ecosystem / project.\n\nOne of the things we should always encourage is this kind of core changes to have a strategy that is derived from first principles.\n\nThis specific line:\n\n> _analyze whether any tweaks to existing parameters/formulas would further optimize the token value._\n\nLet's not use fancy language here - optimize the token value just means NGU. Don't set yourself that task, because if you say that, your work will be measured on that and no one can guarantee that, all we're doing is experimenting.\n\nIf we want to adjust the inflation parameters then it needs to be part of a coherent strategy about the whole of Edgeware's economic and organisational design.\n\nStart with thinking about Edgeware's core value capture - right now there are only two options on the table:\n\n1. Recouping KAB (via the funding of R&D). \n2. Transitioning into a relay, where EDG has potential demand from parachains, though in our own 'incubated' parachain model, we may not have auctions / crowdloans, hence this might not result in demand.\n\n\nI guess all I'm saying is we need to think holistically - and consider the whole project, all of its initiatives, and ambitions before having any idea what might be worth tweaking.\n\nI'll try and attend more financial analysts calls going forward - you're asking good questions, so take this as constructive, we just need to see the big picture, as well as the mechanisms. \n\n> Rather, this proposal benchmarking would be a possible collaborative effort with Shankar, where we will prepare a consistent framework, based of a certain parameters(for eg: financial outcome, social good, marketing, ), \n\n- Financial outcome - no idea how you can assess this? we're doing experimental R&D or building tools to solve our own issues...\n- Social good - again, who defines this, against what metrics?\n- Marketing - we can argue everything we fund is marketing... i don't know how you assess / ringfence this... \n\n\nCould you not start simpler?- something i've been trying to work out for a while and have discussed with [@Ramsey](/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) how we create a 'form' - essentially standardising the inputs into our proposal system, which will ensure people commit the correct info at the start to make voters jobs easier."
+  },
+  {
+    "id": 22849,
+    "thread_id": 5306,
+    "address_id": 14385,
+    "body": "[@mrbulb](https://gov.edgewa.re/edgeware/account/jXC7ghviUzVcVySg3eD8prB7C9m6VzK6cw2MTyMTDTUye5q) apologies for the delayed response.\n\n>  _Don't set yourself that task, because if you say that, your work will be measured on that and no one can guarantee that, all we're doing is experimenting._\n> _I guess all I'm saying is we need to think holistically - and consider the whole project, all of its initiatives, and ambitions before having any idea what might be worth tweaking._\n\nCompletely agree with your views, whatever we'll do is experimental and we are actually interested in studying and analyzing the Edgeware inflation model. This study might lead us to some conclusion....if not we atleast learn more about the Edgeware economics, which might prove to be helpful for some other deliverable.\n\n> _Could you not start simpler?- something i've been trying to work out for a while and have discussed with [@Ramsey](https://gov.edgewa.re/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) how we create a 'form' - essentially standardising the inputs into our proposal system, which will ensure people commit the correct info at the start to make voters jobs easier._\n\nActually this is the exact approach I had initially discussed with Shankar. So, it would really make sense to start with a similar format and then go on building over the basic blocks of this framework.\n\n\nAgain, thanks and really appreciate your feedback on the deliverables.",
+    "parent_id": 22561,
+    "content_url": null,
+    "created_at": "2022-06-15T18:40:12.240Z",
+    "updated_at": "2022-06-15T18:42:29.769Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Advait"
+  },
+  {
+    "id": 22467,
+    "thread_id": 5306,
+    "address_id": 14385,
+    "body": "Firstly, thanks for your thoughts [@mrbulb](/edgeware/account/jXC7ghviUzVcVySg3eD8prB7C9m6VzK6cw2MTyMTDTUye5q) !\n\n1.\n- Can you be clearer as to what you mean by inflation model as this could cover a wide range of things.\n- Treasury proposal parameters\n\n\nAs a part of the inflation model, we would like to study the existing inflation model of Edgeware and analyze whether any tweaks to existing parameters/formulas would further optimize the token value. The same goes for treasury proposal parameters. This is basically a study of the existing processes in place and to determine whether further optimization is possible.\n\n2.\n\n> Honestly this is kind of an impossible task unless you 'rate' proposals with some generic metrics such as ensuring each proposal and team give consistent information and are timely with responses etc\n\nCompletely agree with your point here. It would be really difficult to rate proposal only via financial analysis or based on the financial value they add.\n\nRather, this proposal benchmarking would be a possible collaborative effort with Shankar, where we will prepare a consistent framework, based of a certain parameters(for eg: financial outcome, social good, marketing, ), which will be rated on a scale of 5 and the average of all those parameters will be taken to determine the final rating. Also, the framework will be open to all and we would want the proposer himself rate their proposal using the framework which we can then debate upon and decide the final value of the proposal.\n\n(added these points to the main post as well)\n\n 3.\n> Which exchanges is this focused on? Given Decent Partners are taking over Exchange B, we should chat about this.\n\nYes, we would like to connect with you on this. So right now, the plan is to understand how the bot actually works and design parameters based on that. My understanding is currently Depth (Adam) is experimenting with this on Kucoin.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-06-09T18:27:23.173Z",
+    "updated_at": "2022-06-09T18:27:23.173Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Advait"
+  },
+  {
+    "id": 22269,
+    "thread_id": 5306,
+    "address_id": 1335,
+    "body": "Hey both - have listened in to a few calls and followed your analysis and read most of the posts, you're well organised and the content is definitely useful. \n\nSome questions and thoughts:\n\n> This deliverable will consist of quantitative research and analysis activities related to the optimisation of network parameters like the inflation model, treasury proposal parameters, treasury tip parameters etc. \n\n- Can you be clearer as to what you mean by inflation model as this could cover a wide range of things. \n\n\n- Treasury proposal parameters\n\n\n- Do you have any examples of what you mean here? Ref this [previous post](https://commonwealth.im/edgeware/discussion/1110-edgeware-grant-programme-structure-discussion) which was focused on grant structures.\n- Right now there is a community wide agreement that we cap grants at around £25k/$30k, and now with Kabocha, there's a pretty clear narrative for us funding R&D in EDG, that Kabocha commercialises and EDG recoups KAB. Would be great to understand how this fits into your thinking.\n\n\n> where we benchmark the upcoming proposals based on the amount asked and the usefulness of the contribution to the community. \n\n- Could you outline what you mean by benchmarking?\n\n\nHonestly this is kind of an impossible task unless you 'rate' proposals with some generic metrics such as ensuring each proposal and team give consistent information and are timely with responses etc \n\nThe art of developing and putting forward good proposals and their future value is not reducible to financial analysis. In the end, we are funding experiments and R&D so it requires a whole heap of experience, intuition and good luck...  \n\n**>. Humming Bot parameters (planned)**\n\nWhich exchanges is this focused on? Given Decent Partners are taking over Exchange B, we should chat about this.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-06-07T23:27:28.771Z",
+    "updated_at": "2022-06-07T23:27:48.316Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

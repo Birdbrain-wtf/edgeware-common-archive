@@ -1,0 +1,15 @@
+[
+  {
+    "id": 8945,
+    "thread_id": 2253,
+    "address_id": 1004,
+    "body": "I think we break even on the pricing, as there is a service fee to Printful.  Obv I don't support losing money on these items, as we wouldn't be able to continue offering. **Edit: Moon has since messaged me to clarify he is interested in publically subsidizing the cost of merch using the treasury - in order to make obtaining more accessible. This is a cool idea.**\n\nInstead, maybe a pool of profits at the end of the year can be voted on to be spent according to community whim. \n\nWe do spend time and energy maintaining this store (Thanks to Jan for rebuilding it on our own stack!) So, in theory I'm also not opposed to a team in the future taking profits for the work of managing the platform. \n\nJohan can help with any orders that were cancelled - we had an issue with the Printful API connection at one point, but new orders should ship just fine. \n\nAs for accepting EDG, probably most feasible with a Moonpay like integration.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-14T15:32:40.969Z",
+    "updated_at": "2021-10-15T17:40:21.720Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": 4320,
+  "title": "Community Research: Document Page Hierarchy Refresh",
+  "body": "In union with our migration from Github to DocuSign. Below is a submission for a _Hierarchy Refresh_ of our Documents Page. \n\n                                                                                                                                                                                                                                                                                   Website: [https://docs.edgeware.wiki/](https://docs.edgeware.wiki/)\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/c8b87834-4d3f-4591-aa33-09aa95ea9292.1649646768645)\n## \n# Welcome\n-homepage\n\n# Read Me\n\n1. Why Develop on Edgeware\n2. RoadMaps\n3. Changelog\n\n\n# Resources\n\n## A.\tFAQ’s \n\n1. General\n2. New Users\n3. Validator(Staking)\n4. SCU\n5. Exchanges\n6. Glossary\n\n\n## B.\tCommunity Processes  \n\n1. Public Grant ( Grant Programs Tools )\n2. Simple-Majority Referenda’s\n3. Edgeware Agency\n4. Solo Contributions Union\n\n\n## C.\tHow-To Guides\n\n1. Networking\n- Validator Setup\n- Node Setup\n2. General\n- Create an Account\n- Sending/Receiving \n- Viewing Subscan\n- Governance Forum(*)\n- EdgeApps(*)\n3. Services\n- On-Chain Identity \n- Staking\n- Delegation\n\n\n## D.\tAdvanced\n\n1. Setup Multi Signature Account\n2. Setting Up a Public UI\n3. Validating on Edgeware\n4. Setting up monitoring\n5. Running Cross Chain Protocols\n6. XCMP\n7. Zero Knowledge Primitives \n\n\n\n# Edgeware Stack\n – Retain Layout \n\n# Development\n – Retain Layout \n\n\n# Ecosystem Tools\n\n1. Commonwealth/Governance Fourm \n2. Polkadot UI/EdgeApp \n3. Wallets\n4. Networking\n- Nodes and Deployment \n- Networking Monitoring & Reporting\n- Networks and Public Endpoints\n5. Block Explorers ( EDGScan)  \n6. Development Tools ( Smart Contract Tooling, Faucets, Key Generation and Conversion, Node-as-a-Service Providers ) \n7. Substrate Tools\n8. Clients & UI\n9. Exchanges\n10. Glossary\n\n\n# Libraries \n\n1. Polkadot. J/S Common, CLI, RPC and API (API Feeds) WASM, SCALE Codec, Data Crawling and Conversion\n\n\n# Archives\n\n1. Convert a lock drop Address \n2",
+  "content_url": "https://threads.common.xyz/cce3f2d6-c89e-4e48-81b4-bdd9694cf93d.md",
+  "created_at": "2022-04-11T03:24:40.148Z",
+  "updated_at": "2025-03-18T00:55:36.609Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Zovern",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4320",
+  "body_complete": true
+}

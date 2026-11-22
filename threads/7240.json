@@ -1,0 +1,15 @@
+{
+  "id": 7240,
+  "title": "Treasury Tip: Voluntary Beresheet v4.0.0 testing by KDPNETSTAKE",
+  "body": "Recently, one of our most active community members (Kdpnetstake) found a critical bug in the node client while testing on the testnet for v4.0.0.\nThis might have resulted in slashing of validators. The bug has been reported to the concerned individuals and will be taken care of in the coming days.\nThis active contribution of timely reporting the bug in the testing phase is appreciated and other community members with the respective domain knowledge are requested to participate in the testing. \nAlso, we would like to propose a treasury tip for Kdpnetstake for their valuable contribution.",
+  "content_url": null,
+  "created_at": "2022-10-13T17:10:08.010Z",
+  "updated_at": "2025-03-18T05:00:32.584Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "Advait",
+  "topic_id": 1051,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/7240",
+  "body_complete": true
+}

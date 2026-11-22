@@ -1,0 +1,15 @@
+{
+  "id": 4061,
+  "title": "Update Edgeware metadatas to v14",
+  "body": "## ![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/670ca363-75e8-44b6-bbf8-3283d85360d2.1648325651373)\n## \n## Date of proposal\n0.1.0 - 17/03/2022 - proposal create\n0.1.1 - 18/03/2022 - update grant value based on 7-day trailing\n0.1.2 - 21/03/2022 - added multisig\n\n## Authors\n\nTimothée Delabrouille - CEO of Rusty Cewmates - [https://github.com/tdelabro](https://github.com/tdelabro) - [https://www.linkedin.com/in/timotheedelabrouille/](https://www.linkedin.com/in/timotheedelabrouille/) - [https://rustycrewmates.com/](https://rustycrewmates.com/)\n\n## Proposal summary\nUpdate Edgeware Metadata to v.14\n\n## Partner support\nWe have the support of Rich (Decent Partners) and Ramsey (Decentration), with which we had a few meeting in order to put together our value proposition. They will create the actual on chain proposal, provide the 5% bonding fees and receive a 10% service fee.\n\n## Background information\nA few month ago Parity release the `v14` of the Substrate metadata. It introduce the crate `scale-info` and the trait `TypeInfo` that can be implemented on any type making it self descriptive for other programs, making the `#[pallet::metadata` macro obsolete. When using it you don't have to manually declare your custom types in order to interact with the chain API. For those familiar with ethereum-smart contract, it can be seen way for the runtime to self describe its ABI.\n\n## Problem statement\nThis feature being a really nice improvement to the metadata mechanism, it seems useful to adopt it for Edgeware, which is currently using the v12. The process of migrating to metadata v14 is not complex, but it require to be done consistently in all the pallets of the chain. A basic comprehension of Substrate is required to execute it properly.\nThis has been requested by @thomivy on github:[ https://github.com/edgeware-network/edgeware-node/issues/4]( https://github.com/edgeware-network/edgeware-node/issues/4)\n\n## Proposed solution\n My team and I will do this migration t",
+  "content_url": "https://threads.common.xyz/e3131b1f-5838-4878-8800-cfd92b294362.md",
+  "created_at": "2022-03-17T01:03:30.670Z",
+  "updated_at": "2025-03-18T00:31:35.262Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "tdelabro",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4061",
+  "body_complete": true
+}

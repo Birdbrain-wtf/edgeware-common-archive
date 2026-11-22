@@ -1,0 +1,15 @@
+{
+  "id": 4852,
+  "title": "Rusty Crewmates: \"pallet_mint\" development",
+  "body": "## ![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/79182a95-5d92-4cd6-a283-ef5db5cb74bb.1652289466903)\n\n## Date\nV 1.1\n17th May 2022\nUpdated 7 day moving average.\n\nV 1.0\n11th May 2022\n\n## Builders, support and steward\nNathan Gd\nTdelabro ([https://github.com/tdelabro)](https://github.com/tdelabro))\nDecentration ([https://github.com/decentration)](https://github.com/decentration))\n\n## Network Services \n[Decent Partners](https://gov.edgewa.re/discussion/3650-decent-partners-an-introduction-to-network-services)\n\n## Networks\n[Edgeware](https://edgewa.re)\n[Kabocha](https://kabocha.network)\n\n## Summary\nThis is a request for funding for **completed work** delivering \"pallet_mint\" that enables the direct minting of new network currency (KAB/EDG) to a project team or multisig after a public referendum has been approved.\n\nThis functionality is aimed at reducing the complexity of Substrate chains which have so far instituted chain treasuries, where inflation, fees and slashes of validators is redirected into a 'treasury address'.\n\nBy minting new currency upon a funding approval, network inflation is directly correlated to the creativity of project teams and the continued benevolence of holders. \n\nThe additional effect is to remove some of the psychological challenges that tend to occur with network treasuries that hold a native currency that fluctuates wildly. When the price is up, spending tends to be more profligate, whilst when the price decreases conservatism creeps in. \"Pallet_mint\" seeks to overcome short term thinking and prioritise longer term thinking. \n \n## Technical overview\nThe pallet adds functionality to mint a value on an account, and to optionally mint a percentage of this value on another account (as a fee). It also provides an extrinsic to change the percentage value.\n\nThe calls have to be from Root, so as a Democracy proposal, or as a sudo call.\n\n## How it works\nGet the proposal amount, and compute (if needed) the value of the fees\n\nThen use `depos",
+  "content_url": "https://threads.common.xyz/12f3e07d-c24f-4e7d-9386-75432c7d2857.md",
+  "created_at": "2022-05-11T18:01:55.440Z",
+  "updated_at": "2025-03-18T01:47:41.500Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "Decent Partners",
+  "topic_id": 990,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4852",
+  "body_complete": true
+}

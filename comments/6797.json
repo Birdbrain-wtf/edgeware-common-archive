@@ -1,0 +1,28 @@
+[
+  {
+    "id": 29357,
+    "thread_id": 6797,
+    "address_id": 1067,
+    "body": "Multi-sig address: hbgXkqoZBFDaW9KsaL2wgDm6xehvjMdaydNcRk673tHcrZG\nMulti-sig bias: 3/5\nMulti-sig signers: [Bharath](https://edgeware.subscan.io/account/i1tffC8QVVUgGb8RjazGRz72SDxtP35kqa2RB7vnVhjRHPV), [MoonY](https://edgeware.subscan.io/account/jcXrF5ECRfdeZEptnaD7Mp5kRmdxVV9DTnweVKN1jmwi76N), [Rama](https://edgeware.subscan.io/account/nMWS8rfjQsC9btKbx9AUo28k3xFNpz1KXhbvY1KbZTsti9D), [Ashutosh](https://edgeware.subscan.io/account/ks2mskYMYXiSRYvjvAv2xQfrW6uZ3DExT5FonByn7gfr87E), [Shankar](https://edgeware.subscan.io/account/jA7pLH65zgRNA4UgwqHEWWRxTgg51wuAUgfzmZoYWM2dMVS)\n\nTotal in USD: 10747 + 4000 + 1000 = 15747 USD\nContingency/Liquidation buffer: 10% \nTotal including buffer: 17321.7\nAs it is not a periodic proposal, 7-day trailing average will be used.\n7-day trailing average: 0.0013 USD per EDG\n\n## Total in EDG: 13324384.6",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-09-08T20:46:38.388Z",
+    "updated_at": "2022-09-08T20:46:38.388Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 29006,
+    "thread_id": 6797,
+    "address_id": 2923,
+    "body": "Looks like a good proposal to fund.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-09-02T04:14:12.120Z",
+    "updated_at": "2022-09-02T04:14:12.120Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Edge"
+  }
+]

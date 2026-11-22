@@ -1,0 +1,67 @@
+[
+  {
+    "id": 26271,
+    "thread_id": 1059,
+    "address_id": 54781,
+    "body": "nice!",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-18T12:11:50.588Z",
+    "updated_at": "2022-07-18T12:11:50.588Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "tuzi"
+  },
+  {
+    "id": 18248,
+    "thread_id": 1059,
+    "address_id": 44047,
+    "body": "nice!",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-04-03T11:24:58.009Z",
+    "updated_at": "2022-04-03T11:24:58.009Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "pansheng777"
+  },
+  {
+    "id": 4303,
+    "thread_id": 1059,
+    "address_id": 6203,
+    "body": "Nice, hold your $edg",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-09-07T03:26:12.688Z",
+    "updated_at": "2021-09-07T03:26:12.688Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Camel Huang"
+  },
+  {
+    "id": 2438,
+    "thread_id": 1059,
+    "address_id": 1004,
+    "body": "^ Added this call to the community Calendar. Let me know if its repeating [@aitheric](/edgeware/account/hZoTSNsKakARmMKY6CJAAvYscStsfuBbsBCqDnZvnAaM8yt)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-03-15T15:30:24.959Z",
+    "updated_at": "2021-03-15T15:30:24.959Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 2433,
+    "thread_id": 1059,
+    "address_id": 1335,
+    "body": "We can also add DAO working group call - [@aitheric](/edgeware/account/hZoTSNsKakARmMKY6CJAAvYscStsfuBbsBCqDnZvnAaM8yt) \n\nToday. 3pm EST [https://meet.jit.si/LexBridge](https://meet.jit.si/LexBridge)\n\n**Agenda: **\n- [Decent](https://commonwealth.im/decent) (Legal / dao structure) \n- Reviewing [Nexus Mutual structure and legal framework](https://nexusmutual.gitbook.io/docs/users/docs#legal-framework)\n- Multisigs, proxies and 'upgradeable governance'\n- Next steps\n- Moloch bridging - task force?\n- Introduction / overview\n- LexBridge update\n- BuilDAO (Series LLC?)  @dillchen \n- Strategy \n- Governance\n- Next steps\n- DAO Wish List / Roadmap @thom_ivy\n- Agency structure\n- Liabilities / agreement",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-03-15T11:27:11.238Z",
+    "updated_at": "2021-03-15T11:27:11.238Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

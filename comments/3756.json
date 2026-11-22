@@ -1,0 +1,56 @@
+[
+  {
+    "id": 15419,
+    "thread_id": 3756,
+    "address_id": 17657,
+    "body": "can you please share a scope of work + timeline for deliverables across Kabocha + Edgeware\nwhat is the additional token share given to Edg holders + treasury by funding this?  2 to 1 (kab to edg tokens)\nwhat is the monetary value that is added by the inclusion of this service? \ncan you negotiate a tighter vesting schedule?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-02-09T19:37:02.576Z",
+    "updated_at": "2022-02-09T19:54:09.567Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "ash|inthewild"
+  },
+  {
+    "id": 15647,
+    "thread_id": 3756,
+    "address_id": 1335,
+    "body": "Hey [@ash|inthewild](/edgeware/account/nT3foVZGs2JSEQtoehuJn7F1U9okugnhwdqQTUgLMcQDxaj) - thanks for the comments :)\n\n> can you please share a scope of work + timeline for deliverables across Kabocha + Edgeware \n\n- We can do - from previous experience its often better to get things up rather than trying to create the perfect outline. \n- In general pretty much every one of our grants has been for a specific product/project, but really its funding research / development / feasibility studies ahead of implementations, since things that look easy are generally not.  \n- We've been discussing how a relationship might work for about 6 months, so felt it was better to get people involved at an earlier stage where the direction can be shaped more collaboratively. \n\n\n> what is the additional token share given to Edg holders + treasury by funding this? 2 to 1 (kab to edg tokens) \n\n- This is TBD, but we now have a clear model for EDG recoup on funded proposals via the [1:1 outline](https://gov.edgewa.re/discussion/3806-kabocha-funding-and-edgeware-recoup) which you can view here. \n- Financially speaking this can be figured out, what is more difficult to decide given our focus on making this a pallet deployment rather than a simple porting of smart contracts, whether this is best saved just for Kabocha. \n- In the end, the tension here is between the philosophical differences of Edgeware being an EVM focused smart-contract solo chain and it developing into something more in keeping with building Substrate native tools which is where Kabocha will be focused. \n\n\n> what is the monetary value that is added by the inclusion of this service? \n\nCan you please clarify here? Are you talking generally - e.g. what is the value add to the community, or explicitly how much we expect an integration like this will add to the value of EDG / KAB? \n\nI can give a good answer on the first, but the second is impossible to predict as it would be with any proposal. \n\n> can you negotiate a tighter vesti",
+    "parent_id": 15419,
+    "content_url": "https://comments.common.xyz/5661cfb6-989a-4c1a-86be-18241d1b8b28.md",
+    "created_at": "2022-02-16T08:17:52.625Z",
+    "updated_at": "2022-02-16T08:25:24.342Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb",
+    "full_text": "Hey [@ash|inthewild](/edgeware/account/nT3foVZGs2JSEQtoehuJn7F1U9okugnhwdqQTUgLMcQDxaj) - thanks for the comments :)\n\n> can you please share a scope of work + timeline for deliverables across Kabocha + Edgeware \n\n- We can do - from previous experience its often better to get things up rather than trying to create the perfect outline. \n- In general pretty much every one of our grants has been for a specific product/project, but really its funding research / development / feasibility studies ahead of implementations, since things that look easy are generally not.  \n- We've been discussing how a relationship might work for about 6 months, so felt it was better to get people involved at an earlier stage where the direction can be shaped more collaboratively. \n\n\n> what is the additional token share given to Edg holders + treasury by funding this? 2 to 1 (kab to edg tokens) \n\n- This is TBD, but we now have a clear model for EDG recoup on funded proposals via the [1:1 outline](https://gov.edgewa.re/discussion/3806-kabocha-funding-and-edgeware-recoup) which you can view here. \n- Financially speaking this can be figured out, what is more difficult to decide given our focus on making this a pallet deployment rather than a simple porting of smart contracts, whether this is best saved just for Kabocha. \n- In the end, the tension here is between the philosophical differences of Edgeware being an EVM focused smart-contract solo chain and it developing into something more in keeping with building Substrate native tools which is where Kabocha will be focused. \n\n\n> what is the monetary value that is added by the inclusion of this service? \n\nCan you please clarify here? Are you talking generally - e.g. what is the value add to the community, or explicitly how much we expect an integration like this will add to the value of EDG / KAB? \n\nI can give a good answer on the first, but the second is impossible to predict as it would be with any proposal. \n\n> can you negotiate a tighter vesting schedule? \n\nDo you mean a 1 year vesting rather than 2 year vesting? If so I'd say this is the opposite of what we're trying to achieve given how we get more out of longer term relationships. So far our experience tells us that it takes 3-5x longer than you initially estimate to get even simple things done, simply because all of the underlying dependencies are shifting, strategies change and you need to evolve your scope."
+  },
+  {
+    "id": 15376,
+    "thread_id": 3756,
+    "address_id": 1335,
+    "body": "> Is CollabLand currently proposing or working with other substrate chains at this time? If so, I would rather work with those communities to develop a multi-grant. \nThey are in conversation with [Talisman](https://app.talisman.xyz/) who are developing a new skin and interface for Polkadotjs, and have had Moonbeam reach out. \n\nWe can discuss with Talisman and/or Moonbeam/river, but they will have different motivations and focus.\n\n> Does CollabLand have any prospects or plans with Kabocha to obtain KAB tokens as well, or is EDG footing this cost for KAB?\n\nCollab-Land will receive KAB tokens in line with their $100k vesting EDG. \n\nPer recent discussions, there are ways EDG can recoup these costs by putting proposals to Kusama or through more automated functions as discussed by [@Shankar Warang](/edgeware/account/jA7pLH65zgRNA4UgwqHEWWRxTgg51wuAUgfzmZoYWM2dMVS). Right now these are to be negotiated in good faith. \n\n> Why are we not pursuing the EVM port as well, for this cost? \n\nAfter discussions with James and the Collab-Land team, their preference is to figure out a native integration that unlocks Substrate's native advantages around governance, pallets and NFTs. \n\nIf it is an EVM implementation, then that will be reliant on another EVM focused chain such as Moonbeam funding them. \n\n> We should be detailed about a product vision and roadmap. I desire a token-gate for the Discord, but the cost here goes beyond that. \n\nThis is **not for a token gate to Discord**, this is a 2 year development partnership and retainer with Abridged/Collab-Land to develop an advanced version of their tooling and service in a Substrate native environment. \n\n> **By utilising Substrate's on-chain governance pallets alongside RMRK we can offer advanced NFT functionality that will enable Collab-Land to offer more advanced and upgradable capabilities than with ETH based DAOs, integrating the tool into the runtime of Substrate projects and providing a key organisational component within our emer",
+    "parent_id": null,
+    "content_url": "https://comments.common.xyz/c35539fc-993a-4805-9c47-4785c03a33a2.md",
+    "created_at": "2022-02-08T19:11:26.137Z",
+    "updated_at": "2022-02-08T19:12:03.843Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb",
+    "full_text": "> Is CollabLand currently proposing or working with other substrate chains at this time? If so, I would rather work with those communities to develop a multi-grant. \nThey are in conversation with [Talisman](https://app.talisman.xyz/) who are developing a new skin and interface for Polkadotjs, and have had Moonbeam reach out. \n\nWe can discuss with Talisman and/or Moonbeam/river, but it may add complexity. Worth discussion.\n\n> Does CollabLand have any prospects or plans with Kabocha to obtain KAB tokens as well, or is EDG footing this cost for KAB?\n\nCollab-Land will receive KAB tokens in line with their $100k vesting EDG. \n\nPer recent discussions, there are ways EDG can recoup these costs by putting proposals to Kusama or through more automated functions as discussed by [@Shankar Warang](/edgeware/account/jA7pLH65zgRNA4UgwqHEWWRxTgg51wuAUgfzmZoYWM2dMVS). Right now these are to be negotiated in good faith. \n\n> Why are we not pursuing the EVM port as well, for this cost? \n\nAfter discussions with James and the Collab-Land team, their preference is to figure out a native integration that unlocks Substrate's native advantages around governance, pallets and NFTs. \n\nIf it is an EVM implementation, then that will be reliant on another EVM focused chain such as Moonbeam funding them. \n\n> We should be detailed about a product vision and roadmap. I desire a token-gate for the Discord, but the cost here goes beyond that. \n\nThis is **not for a token gate to Discord**, this is a 2 year development partnership and retainer with Abridged/Collab-Land to develop an advanced version of their tooling and service in a Substrate native environment. \n\n> **By utilising Substrate's on-chain governance pallets alongside RMRK we can offer advanced NFT functionality that will enable Collab-Land to offer more advanced and upgradable capabilities than with ETH based DAOs, integrating the tool into the runtime of Substrate projects and providing a key organisational component within our emerging chain factory model. **\n> **This approach will enable the development of a more nuanced and productive environment for creative contributions, linked to an emerging system for Web3 reputation and identity baked into the core community. **"
+  },
+  {
+    "id": 15368,
+    "thread_id": 3756,
+    "address_id": 1004,
+    "body": "1. Is CollabLand currently proposing or working with other substrate chains at this time?  If so, I would rather work with those communities to develop a multi-grant. \n2. Does CollabLand have any prospects or plans with Kabocha to obtain KAB tokens as well, or is EDG footing this cost for KAB?\n3. Why are we not pursuing the EVM port as well, for this cost? \n4. We should be detailed about a product vision and roadmap.  I desire a token-gate for the Discord, but the cost here goes beyond that.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-02-08T16:28:38.155Z",
+    "updated_at": "2022-02-08T16:28:38.155Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  }
+]

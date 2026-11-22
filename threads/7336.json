@@ -1,0 +1,15 @@
+{
+  "id": 7336,
+  "title": "[Proposal]edgtreasury maintenance proposal for 02.2022 - 12.2022",
+  "body": "- Proponent: OpenSquare  \n- Date: 7th March 2022  \n- Requested EDG: $2,200($200/month, for 11 months)  \n- Proposal approval: Simple Majority   \n- The proposal: [#105](https://commonwealth.im/edgeware/proposal/treasuryproposal/105-proposal-for-2150310-edg)\n\nShort description: This proposal covers the maintenance fee for the edgtreasury from 02.2022 - 12.2022. The site: https://edg.dotreasury.com/\n\n----\n\n## Context of the proposal\nOpenSquare developed dotreasury implementation for edgeware with the support of #40 proposal. It outlines the income/outcome status of the treasury account, shows the list and detail of proposals, bounties and tips. Generally it makes the treasury status and workflow more clear.\n\n## Request details\nThe maintenance fee covers:\n- Server hosting and maintenance labor\n- Bug fixes\n- Small interfaces tweaks\n- Proposal information manual maintenance\n\nThe detailed work includes:\n- Home page total income/output precision fixup \n- Bounty overview fix up \n- Add curator column for proposals \n- Improve polkadot identity avatar \n- Daily monitor the scan process \n- Add context and links for proposals\n\nThe time scope is 02.2022 ~ 12.2022.",
+  "content_url": null,
+  "created_at": "2022-10-26T03:39:55.310Z",
+  "updated_at": "2025-03-16T15:04:17.404Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "OpenSquare",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/7336",
+  "body_complete": true
+}

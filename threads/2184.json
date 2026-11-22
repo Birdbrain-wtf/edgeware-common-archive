@@ -1,0 +1,15 @@
+{
+  "id": 2184,
+  "title": "The Cutting Edge: Week of September 27th",
+  "body": "**Highlights**\n- [Developer release of Edgeware App](https://twitter.com/HeyEdgeware/status/1443241167970357257?s=20) on Ledger Live is out.\n- [Sub.id](https://sub.id/) by Subsocial Network [supports Edgeware in their multichain tokens and NFTs explorer](https://twitter.com/HeyEdgeware/status/1443574367451955206?s=20).\n- Edgeware ecosystem contributor and Agency CEO, Thom Ivy talked about Substrate, Edgeware, the origins of his participation in blockchain and Edgeware Agency’s long term goal in ‘[Blockchain Recorded Podcast](https://twitter.com/recordedpodcast/status/1442908567162404869?s=20)’.\n- [Trading on ’Exchange C’ aka Kucoin Exchange](https://twitter.com/HeyEdgeware/status/1442432506846842885?s=20) was initiated at 10:00 am on Sep 27th.\n- All validators are requested to upgrade their nodes to the [release v3.3.3 or later](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP4/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP4/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n- Get to know more technical oriented updates on the ‘[EDG Dev Digest](https://blog.edgewa.re/edg-dev-digest-sep-26/)’.\n\n\n**Ecosystem Updates**\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n- Commonwealth partnered with [Injective Labs](https://twitter.com/hicommonwealth/status/1443583613774155788?s=20).\n- 4thpillar Technologies is [expanding to Solana](https://twitter.com/4thtechProject/status/1443857759439626241?s=20).\n\n\n**Governance**\n- Ongoing referendum: [ERUP4/Wako ",
+  "content_url": "https://threads.common.xyz/01f275f0-1de3-40b1-882c-2479b9979855.md",
+  "created_at": "2021-10-06T05:27:37.724Z",
+  "updated_at": "2025-03-17T22:57:10.162Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2184",
+  "body_complete": true
+}

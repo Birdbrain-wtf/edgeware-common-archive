@@ -1,0 +1,15 @@
+{
+  "id": 978,
+  "title": "Gov Feature: IPFS/Content link on Proposals",
+  "body": "Problem: Viewing a proposal in existing viewers does not connect it to a off-chain document/site/proposal text so that users can easily view context. \n\nSolution?\n\nWhen submitting a proposal, the user can enter a URL linking to an off-chain source of context or explanation\n\nAdditional feature consideration:\nOn-chain data can contain problematic links, so Council should also be able to add a flag when rejecting or purging proposals that wipes the URL field's content from the on-chain storage. This charges councillors with content moderation, but this seems unavoidable.   \n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/fbf912d9-75c1-4cf2-982c-88257f923067.1612369305371)",
+  "content_url": null,
+  "created_at": "2021-02-03T16:23:49.559Z",
+  "updated_at": "2025-03-18T00:12:57.749Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Thom Ivy",
+  "topic_id": 115,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/978",
+  "body_complete": true
+}

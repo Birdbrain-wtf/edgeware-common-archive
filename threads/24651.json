@@ -1,0 +1,15 @@
+{
+  "id": 24651,
+  "title": "Clarification on the Diversification Fund A account change",
+  "body": "# **Background:**\n\nThe diversification was an initiative to invest Edgeware treasury funds into other crypto assets as a part of diversifying the treasury.\n\nThe fund resulted in asset value preservation to an extent where it no longer requires active reallocation.\n\nAs active reallocation was no longer required the responsible team decided to retire the diversification fund A initiative.\n\nRelevant threads:\n\n- <https://gov.edgewa.re/discussion/3809-funding-asset-diversification-proposal_fund-a>\n- <https://gov.edgewa.re/discussion/13201-edg-diversification-fund-funds-recoup-proposal>\n\n## **Update:**\n\nRecently, we have made a change in the management of this fund. We decided to transfer the assets from the initial MetaMask wallet to a new one due to concerns that the original wallet might have been compromised.\n\nDetails:\n\n- **Reason for Transfer**: We suspected that the initial MetaMask wallet could have been compromised.\n- **Action Taken**: To ensure the safety and integrity of the fund, We securely transferred all assets within the diversification fund to a new MetaMask wallet.\n- **Future Steps**: We request the community to take a community mandate through a series of remark-based referenda to determine the further utility and custody of the retired diversification fund A.\n\nPrevious holding address: <https://debank.com/profile/0x29a1e8eBeF0523a15fD3c2fdb68686c7c2D7b278>\n\nNew holding address:\n\n<https://debank.com/profile/0x0c8b1f89160ae92b7bdad0bdec0d5a6ad4825596>\n\nWe are aware that Debank is showing sUSD balances in Kwenta which we are not able to access for now, but we will be contacting the Kwenta team to get it resolved using v1/v2 contracts and the retrieved balance will be transferred to the new account.",
+  "content_url": null,
+  "created_at": "2024-08-28T11:37:32.624Z",
+  "updated_at": "2025-03-22T06:37:53.007Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Vismay Joshi",
+  "topic_id": 139,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/24651",
+  "body_complete": true
+}

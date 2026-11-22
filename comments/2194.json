@@ -1,0 +1,68 @@
+[
+  {
+    "id": 8840,
+    "thread_id": 2194,
+    "address_id": 2976,
+    "body": "> Why couldn't Edgeware have teams of students around the world working on decentralised capstone projects, and participating in workshops and hackathons using Substrate? Edgeware could be an experimental melting pot, and proving ground for up and coming Substrate developers testing their skills in a supportive environment, mentored by experienced Substrate developers. \n\nBoom exactly! This is exactly what Edgeware is, but people like yourself help, with the sort of programme management experience to enable it. \n\n> why can't Edgeware be Secondary School/High School for learning and deploying projects, breaking stuff, and learning. All the while Edgeware would also be able to identify up and coming talent that could also contribute to core development on Edgeware. \n\nYeah nice, a High School for decentralised projects. (How about even a creche and kindergarten haha) In 15 years kids who have come out of school/university, may never go work for a company, they will instead be part of community-backed self-governing (DAO) chain/s. We can help to actualise that reality. They will ask wtf is a company and why would anyone work in one? \n\nEdgeware is like a community backed ashram for founders to come and meditate on blockchain, sweep some floors and then get entlightened to create their own blockchain reality. This is at least how it has at least been for myself and others. \n\nSomeone can be very good at Substrate and Rust, or be non-technical and have the enthusiasm to build something, but if they don't have the experience in a real-life community with governance and treasury then they're still basically an unevolved pokemon. Web 3.0 is about leveraging the power of community power to create better social technologies.\n\nI am keen to explore these ideas further and aim to create a pilot project, online and/or offline...",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-11T10:55:32.931Z",
+    "updated_at": "2021-10-11T10:55:32.931Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey"
+  },
+  {
+    "id": 8770,
+    "thread_id": 2194,
+    "address_id": 1004,
+    "body": "If we wait for emergent trends we may miss opportunities, I'm in favor of a degree of delegated central planning.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-08T18:01:35.542Z",
+    "updated_at": "2021-10-08T18:01:35.542Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 8768,
+    "thread_id": 2194,
+    "address_id": 1004,
+    "body": "I'm generally on the side that believes we can have a community strategy, as we have successfully developed a brand, website, copy, etc..  and I also think the OPs idea is one worth considering, if challenging given the current state of the network. I'm generally interested in capacity building however, through small grants,  funding materials and media, etc.\n\n Our developer experience team is also ramping up workshops of basics, but we could grow the technical side of things if the political will to fund is there. \n\nSeveral teams are making materials for DOT/KSM, we can reach out to those first, potentially. \n\nIn the near term, one item raised was to delegate EDG to student groups to participate in governance. This could come from the treasury potentially or something we activate with agency funds. If you have local contacts that would want to participate in onchain gov as a org, please connect us.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-08T16:20:19.777Z",
+    "updated_at": "2021-10-08T16:20:19.777Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 8769,
+    "thread_id": 2194,
+    "address_id": 1335,
+    "body": "> 'm generally on the side that believes we can have a community strategy, as we have successfully developed a brand, website, copy, etc.. \n\njust wanted to clarify - we funded the **website** and **agency** as two separate proposals, so this really follows on from the point that the community strategy / assets have followed on from discussions and funded proposals which act to focus resource on specific areas, otherwise we might have ended up with several competing websites, each claiming to be the one that best reps the community.",
+    "parent_id": 8768,
+    "content_url": null,
+    "created_at": "2021-10-08T18:00:01.121Z",
+    "updated_at": "2021-10-08T18:00:01.121Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 8761,
+    "thread_id": 2194,
+    "address_id": 1335,
+    "body": "Thanks for your post [@Virtualevil](/edgeware/account/iUnHebFtaiY5RXKMLpBqTakop7fM6VEtEWjWmLC1dx7y6ZU) - interesting background. \n\nYour vision is interesting and exciting:\n\n> If Kusama, Polkadot and their smart contract parachains like Acala/Karura, Moonbeam/Moonriver, Astar/Shiden and Major/Minor League for Dapps and web3 initiatives, **why can't Edgeware be Secondary School/High School for learning and deploying projects, breaking stuff, and learning. **\n\nYou've seen the debates - imo, they can all be settled by developing and inspiring new proposals that start small (let's walk before we run) but with a path to scaling over time. \n\nIn general we have debated a lot of things that are hard to turn into specific yay/nay proposals, attempting to strategise 'the community', when realistically, **we are what we fund. **\n\nWhat really matters now is how to boil that vision down into credible next steps, there is no lack of energy and excitement here, but often the major challenge is **who** is going to actually deliver the work.\n\nA few questions to kick this on... \n\n- What does this plan look like as an minimum viable proposal?\n- Can you develop up a clear offer and project plan for us to fund?\n- What is the team? \n- Could we start with a small Hackathon and then work from there?\n\n\nYou can see this [RMRK Hackathon ](https://rmrk.devpost.com/)as a good example of something we could run.\n\nOr do you see this more as an educational video series first up?\n\nBasically - **where do we/you start?**\n\nIf you think this will require work, then we can always fund a small R&D grant of a few $k to get you started, or if you think you have a strong path to figuring out an initial project, then feel free to request more per this discussion piece about our [grant structure](https://commonwealth.im/edgeware/proposal/discussion/1110-edgeware-grant-programme-structure-discussion). \n\nIn general, it seems good practice to level up funding requests over time - trust is built as people become fa",
+    "parent_id": null,
+    "content_url": "https://comments.common.xyz/420a9136-ab30-4cb6-870d-0601702a1c68.md",
+    "created_at": "2021-10-08T09:24:49.252Z",
+    "updated_at": "2021-10-08T09:25:29.457Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb",
+    "full_text": "Thanks for your post [@Virtualevil](/edgeware/account/iUnHebFtaiY5RXKMLpBqTakop7fM6VEtEWjWmLC1dx7y6ZU) - interesting background. \n\nYour vision is interesting and exciting:\n\n> If Kusama, Polkadot and their smart contract parachains like Acala/Karura, Moonbeam/Moonriver, Astar/Shiden and Major/Minor League for Dapps and web3 initiatives, why can't Edgeware be Secondary School/High School for learning and deploying projects, breaking stuff, and learning. All the while Edgeware would also be able to identify up and coming talent that could also contribute to core development on Edgeware. \n\nYou've seen the debates - imo, they can all be settled by developing and inspiring new proposals that start small (let's walk before we run) but with a path to scaling over time. \n\nIn general we have debated a lot of things that are hard to turn into specific yay/nay proposals, attempting to strategise 'the community', when realistically, **we are what we fund. **\n\nWhat really matters now is how to boil that vision down into credible next steps, there is no lack of energy and excitement here, but often the major challenge is **who** is going to actually deliver the work.\n\nA few questions to kick this on... \n\n- What does this plan look like as an minimum viable proposal?\n- Can you develop up a clear offer and project plan for us to fund?\n- What is the team? \n- Could we start with a small Hackathon and then work from there?\n\n\nYou can see this [RMRK Hackathon ](https://rmrk.devpost.com/)as a good example of something we could run.\n\nOr do you see this more as an educational video series first up?\n\nBasically - **where do we/you start?**\n\nIf you think this will require work, then we can always fund a small R&D grant of a few $k to get you started, or if you think you have a strong path to figuring out an initial project, then feel free to request more per this discussion piece about our [grant structure](https://commonwealth.im/edgeware/proposal/discussion/1110-edgeware-grant-programme-structure-discussion). \n\nIn general, it seems good practice to level up funding requests over time - trust is built as people become famililar with both you and your work.\n\nMore than happy to help craft a proposal / review as I'm sure others will."
+  }
+]

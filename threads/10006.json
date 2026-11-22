@@ -1,0 +1,15 @@
+{
+  "id": 10006,
+  "title": "A Liquity fork to bring stable DeFi to Edgeware",
+  "body": "\"Liquity is a decentralized borrowing protocol that allows you to draw interest-free loans against Ether used as collateral. Loans are paid out in LUSD (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%.\n\nIn addition to the collateral, the loans are secured by a Stability Pool containing LUSD and by fellow borrowers collectively acting as guarantors of last resort. Learn more about these mechanisms in our documentation. \"\n\nSource: [https://docs.liquity.org/](https://docs.liquity.org/)\n\n------\n\nLiquity has proven its resilience and effectiveness. It is a simple mechanism yet a very interesting one that could bring more liquidity to the Edgeware ecosystem. IMHO we need this. What do you think?",
+  "content_url": null,
+  "created_at": "2023-02-15T03:09:49.615Z",
+  "updated_at": "2025-03-14T23:35:29.141Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "d.gen",
+  "topic_id": 495,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/10006",
+  "body_complete": true
+}

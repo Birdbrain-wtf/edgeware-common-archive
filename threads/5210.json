@@ -1,0 +1,15 @@
+{
+  "id": 5210,
+  "title": "EDG Community Update: May 23rd, 2022",
+  "body": "**Highlights**\n- [Neatcoin announced the NEAT airdrop](https://twitter.com/neatcoin/status/1529506410400210944?s=20&t=2XjgMhPH2Nl_9OxIxNv4Jg) for EdgeFrenZ PizzaDrop participants.\n- [Kabocha’s investment deck](https://twitter.com/kabochanetwork/status/1529209058212954118?s=20&t=Ns9CflzTj-kGCve1d3nSEg) is out!\n- [The crowdloan waitlist](https://kabocha.network/) is open for Kabocha.\n- All validators are requested to upgrade their nodes to the [release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP5/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP5/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n\n\n**Ecosystem Updates**\n- [OnFinality published the April 2022 usage report](https://docs.google.com/spreadsheets/d/1OWZ5TpL2PmEWrZSDot_mtBzjgl4DDP9JjBGsQQMrFpM/edit?usp=sharing) of their load-balancing RPC infrastructure for Edgeware solochain mainnet. Overall there were 223m requests with 2.468 TB of data traffic.\n- EDGizens are welcomed to participate in [the research survey](https://forms.gle/XdjEyBEMY1EtZs3x9) by one of the ecosystem partners.\n- Get to know more technical oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-may-22/)’.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/).\n- Community Treasury-funded Web3 Media platform, [New-Futures opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transact",
+  "content_url": "https://threads.common.xyz/a39c923f-81d9-48ea-a517-60b52a500140.md",
+  "created_at": "2022-06-01T15:42:55.355Z",
+  "updated_at": "2025-03-14T20:27:56.196Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/5210",
+  "body_complete": true
+}

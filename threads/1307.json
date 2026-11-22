@@ -1,0 +1,15 @@
+{
+  "id": 1307,
+  "title": "EVM: Updating our Strategy for Frontier",
+  "body": "**Summary: **This article discusses the challenges of Frontier, and asks where it fits in Edgeware technical priorities in light of ecosystem and strategic changes since network launch.\n\n-- \n\nCommonwealth Labs has been working extremely hard on integrating , debugging, and improving our EVM compatibility layer 'Frontier'-  and one of our largest platforms, DTrade, will be leveraging this in a multichain fashion.\n\nWhen we first began working with Frontier, XDai had just begun to see adoption as a L2 for ETH, and the EVM-specific platform, and within Polkadot, it wasn't yet clear how Moonbeam and other EVM platforms would evolve. \n\nToday, Polygon and other roll-up platforms have gained not-insignificant share, and we may in a good position to update our priorities.\n\n\n1. EVM today faces usability issues and eats up a significant portion of our community engineering attention, from my perspective. (Take with a grain of salt, as I may not have the clearest or most up-to-date view.)\n2. Dtrade is reliant on EVM working and is one of the larger and more anticipated projects on EDG.\n3. ETH Bridges and EVM help facilitate asset transfer to the network, improving some traditional metrics for EDG. \n\n\nThe existing strategy for EVM is, as I understand it, to enable a 'copy paste' level of deployment ease for teams in ETH who are looking to enter the DOT ecosystem. \n\nWith unfinished research around the parabridge / parachain direction, and the possibility of swappable consensus, I am concerned that encouraging more teams to launch on EVM at this time may be premature - not only because we cannot provide determinative guidance on the direction (bridge/parachain) but because of the current status of EVM.\n\nIf we can resolve this functionality soon, and offer at minimum a 1x-- ideally a 10x experience over ETH deployment, I am comfortable continuing with the notion that we can rapidly onboard potentially tens of existing ETH Dapps. \n\nIf we expect continued issues with Frontier, face E",
+  "content_url": "https://threads.common.xyz/191f9347-c2e6-4ff5-b483-7d30bcf3d461.md",
+  "created_at": "2021-06-07T16:27:40.021Z",
+  "updated_at": "2025-03-18T13:51:25.839Z",
+  "last_edited": null,
+  "comment_count": 7,
+  "profile_name": "Thom Ivy",
+  "topic_id": 109,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1307",
+  "body_complete": true
+}

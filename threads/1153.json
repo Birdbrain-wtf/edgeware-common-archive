@@ -1,0 +1,15 @@
+{
+  "id": 1153,
+  "title": "Announcing Hedgeware, a Kusama parachain for Edgeware",
+  "body": "**![](https://lh6.googleusercontent.com/zB2HQImcbZRcYKMW2ub4vK7-SLXIKMggrlHO8g69zqny03PUrcXeQmRXMHfu5NVAAYeX3ygIihl5EzKb3f1UDGPc2Qcp8kKsKJnb1y4jxOui4jjvn8qd2UgNnJahLMS6mKgMGgoB)**\n\nWith the rapid growth of the Polkadot community in the last year, many projects have announced their plans to launch canary networks connected to the Kusama ecosystem.\n\nThese canary networks serve several purposes: they are places to deploy new and unproven technology, they support governance experimentation, and they reduce the risks posed by unforeseen events.\n\nFor those reasons, **we are excited to announce Hedgeware, a Kusama parachain and canary network for Edgeware**.\n\nThe network serves several purposes which are complementary to Edgeware:\n- It allows us to experiment with the process of parachain bonding, inter-chain message passing, and building multi-chain Polkadot applications\n- It serves as a canary network for Edgeware runtime upgrades, allowing us to identify issues that might not be easily demonstrated on a testnet\n- It serves as a parabridge, allowing Edgeware to access early Polkadot tech as soon as it goes live on Kusama\n\n\nWe’ve chosen the name Hedgeware to reflect the fact that this is a canary network for Edgeware, rather than a separate network.\n\nWe expect that most Hedgeware activity will go through Edgeware or Kusama. And like other Edgeware DAOs, Hedgeware will have its own distribution of ownership, but it will also serve as an independent chain with a technically focused community.\n\nWhile Edgeware will continue to be a community-oriented smart contract chain, Hedgeware will serve as a place to deploy and test cutting-edge technology before it’s ready for broader use.\n\nIn line with these priorities, the Hedgeware native token HEDG will follow an altered distribution:\n\n- 50% to holders of Edgeware on the snapshot date of May 1st UTC 00:00\n- 20% to participants in the Kusama crowdloan and parachain auction. We anticipate that half of this amount will be allocated fo",
+  "content_url": "https://threads.common.xyz/8f84c8bb-9456-491c-bf1a-0f933740fd5c.md",
+  "created_at": "2021-05-17T16:16:21.676Z",
+  "updated_at": "2025-03-20T21:58:01.427Z",
+  "last_edited": null,
+  "comment_count": 10,
+  "profile_name": "dillchen",
+  "topic_id": 95,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1153",
+  "body_complete": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4842,
+  "title": "EDG Community Update: May 2nd, 2022",
+  "body": "**Highlights**\n- Introducing the [new URL for the new Edgeware Docs](https://www.edgeware.wiki/) powered by Docusaurus.\n- [The crowdloan waitlist](https://kabocha.network/) is open for Kabocha.\n- All validators are requested to upgrade their nodes to the [release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP5/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP5/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n\n\n**Ecosystem Updates**\n- Nathan | Erudyx along with Ramsey (Decentration) [built the pallet_mint](https://twitter.com/Decentrations/status/1521868687585722368?s=20&t=vjnBWFnqSKjufrMOGYw6Fg), opening up the way for treasury proposals to mint native tokens (KAB).\n- New Kabocha project to Edgeware: [AUTOFABRICA](https://www.autofabrica.com/)\n- Get to know more technical oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-may-1/)’.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/).\n- Community Treasury-funded Web3 Media platform, [New-Futures opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n- Activities in coming weeks: [Weekly Quiz competition](https://twitter.com/EdgewareDAO/status/1516405032702418946?s=20&t=oaeDaUpj-_RGeVGDOI3rug), Kabocha’s Technical AMA ft. Ramsey, Kabocha’s Community Mods Onboarding Quiz.\n\n\n**Governance*",
+  "content_url": "https://threads.common.xyz/bec025ea-d40a-4580-97c3-f9439d24e90c.md",
+  "created_at": "2022-05-10T23:12:16.427Z",
+  "updated_at": "2025-03-17T20:20:21.710Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4842",
+  "body_complete": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1137,
+  "title": "OnFinality is now providing free Shared Node Access for Edgeware",
+  "body": "The team at OnFinality is proud to announce that we have delivered and implemented public shared node services to the Edgeware community (as per [Treasury Proposal #16](https://commonwealth.im/edgeware/proposal/treasuryproposal/16-onfinality-public-nodes-for-edgeware)). OnFinality is the leading IaaS (infrastructure as a service) platform providing mission critical infrastructure to the Polkadot ecosystem. We now completely support Edgeware on our platform, allowing free community shared node API endpoints and one-click dedicated node deployments. \n\nThere are three ways that the Edgeware community can access free high performance shared nodes on the OnFinality platform: \n\n## 1. Directly via the Public API Endpoint\nEdgeware community users can quickly access OnFinality's public endpoint using the following two endpoints:\n\nHTTPS: `https://edgeware.api.onfinality.io/public`\n\nWebsocket: `wss://edgeware.api.onfinality.io/public-ws`\n\n## 2. Directly via their own Private API Endpoint\nEdgeware community users can create their own account in OnFinality to receive their own private API endpoint. An advantage over the public API endpoint is that we provide insightful statistics and metrics to each API key holder about their requests. Free private API keys can be requested from [app.onfinality.io](https://app.onfinality.io) \n\n![Private Endpoint](https://miro.medium.com/max/1400/1*d8Nx6ygEtcf6B_5P667SHg.jpeg \"Private Endpoint\") \n\n## 3. Through Polkadot.js\nYou'll now see that [Polkadot.js](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fedgeware.api.onfinality.io%2Fpublic-ws#/explorer) has OnFinality listed as a provider for Edgeware. Connect to us today! \n\n![PolkadotJS](https://miro.medium.com/max/1400/1*7WagbarGTJU26Y2_3EI8vw.png \"PolkadotJS\") \n\n## Bonus: Dedicated Nodes \nIf the Edgeware community has needs above and beyond what our free API service providers, we also provide one-click dedicated node access for Edgeware that users can deploy from ",
+  "content_url": "https://threads.common.xyz/0d108167-b643-44ba-b3c7-c4ad55ab39bf.md",
+  "created_at": "2021-05-02T22:58:41.119Z",
+  "updated_at": "2025-03-22T17:55:25.766Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "OnFinality",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1137",
+  "body_complete": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2937,
+  "title": "Proposal: High Performance Public Infrastructure (Q3 2021)",
+  "body": "**Proponent**: jH3nezdr2kn7M4jqoqVz27AUcPP99WgB1QgkhL5UJCu8b2d\n\n**On Chain Proposal**: https://commonwealth.im/edgeware/proposal/treasuryproposal/42-proposal-high-performance-public-infrastructure-q3-2021\n\n**Date**: 8th December 2021\n\n**Requested EDG**: 326,663 EDG\n\n**Short description**: Ongoing costs for the running of high performance, scalable, and reliable public infrastructure for Edgeware.\n\n[**Full description of the proposal can be read here**](https://docs.google.com/document/d/1659z8ML_LLIHxGn2M9222KypZMfcWtWvV7Lke5orpmI/edit?usp=sharing)\n\n---\n\n# Original Motivation\n\nOver the last 3 months (July, August, September 2021) we've provided a scalable free public API service so that everyone can access public pools of managed Edgeware nodes. This provides the following three outcomes:\n\n- Grow the ecosystem by reducing the barriers to entry to access a high performance nodes\n- Help scale existing projects in the ecosystem by providing infrastructure  services that can be depended on\n- Assist with the testing of all networks by providing valuable data back to the community on how validator nodes are running and scaling as the network traffic increases (we’ve made Github issues based on behaviour we’ve observed)\n\n# Service Details\n\nBetween 2021-07-01 and 2021-09-30 our Edgeware API service has:\n\n- Served an unprecedented total of 99,464,662 (99 million) requests in the period\n- Accumulated almost 191 GB of data egress\n- The highest daily total was 4,596,882 requests in a single 24 hour period\n- Our rolling 7 day average at the end of this period was over 4 million requests each day.\n- All time totals for Edgeware is 120,768,223 (120 million) since September\n\nNote: We have implemented custom middleware in our platform that counts and logs these requests.\n\n![](https://docs.google.com/spreadsheets/d/e/2PACX-1vT3m6mijhE1yFZBBHCKFWjvFQXUL_LIAUsCU9gb3bZxdi9DhtGxNM5aZhDc5E-iI0UBOu6un7bwioBJ/pubchart?oid=577419954&format=image)\n\n# Enhancements\n\nAdditionally, we are proud t",
+  "content_url": "https://threads.common.xyz/b5af4b59-6535-47e7-822d-516dcf8a80a0.md",
+  "created_at": "2021-12-09T07:34:03.902Z",
+  "updated_at": "2025-03-17T19:47:47.055Z",
+  "last_edited": null,
+  "comment_count": 4,
+  "profile_name": "OnFinality",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2937",
+  "body_complete": true
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 3486,
+    "thread_id": 1398,
+    "address_id": 287,
+    "body": "**#1 - Censorship resistant receipts for Commonwealth posts:**\n\nA service that retrieves the latest posts and comments on Commonwealth from [/api/bulkOffchain?chain=edgeware](https://commonwealth.im/api/bulkOffchain?chain=edgeware), and stores them in an organized format on Github, formatting them in Markdown in a layout like [https://github.com/aragon/AGPs/blob/master/AGPs/AGP-130.md](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-130.md). \n\nEach thread is its own folder, named with its datetime, thread ID, and title, and each comment is stored inside the folder. Images and other attachments should also be downloaded and stored.\n\nIf a post is edited, the service should commit an edit to the file on Github. By using Git anyone can trivially see the edit history of the thread.\n\nIf a thread is deleted, it could be deleted from the repo, or renamed to `-deleted`.\n\nThis would serve as a reliable third-party repository that provides assurance against censorship or deleted threads and posts.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-23T20:58:38.503Z",
+    "updated_at": "2021-06-23T20:58:55.742Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  }
+]

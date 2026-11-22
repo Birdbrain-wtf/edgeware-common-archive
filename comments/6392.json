@@ -1,0 +1,81 @@
+[
+  {
+    "id": 26920,
+    "thread_id": 6392,
+    "address_id": 2923,
+    "body": "IMO\n\nI think people should be upfront if they are looking to get EDG or need USD for their proposal.\n\nIf the person is looking for USD the NSP should  propose the appropriate amount of EDG and liquidate the funds for the person and provide proof to the chain that the funds have been liquidated and the correct amount given to the person.\n\nIf the person is looking for EDG we should fund them in EDG and not link the price to USD, they can do that themselves but not list it on the proposal because it doesn't matter they are just looking to hold EDG anyway.\n\nThis will then lead into what the max cap needs to be for each role based on if the person is an investor or seller of the project.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-28T11:43:04.276Z",
+    "updated_at": "2022-07-28T11:43:04.276Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Edge"
+  },
+  {
+    "id": 26902,
+    "thread_id": 6392,
+    "address_id": 21315,
+    "body": "I’m in agreement with Gmesiter, Rich and Ramsey, regarding the higher thresholds and combining ideas and comments from previous post/discussion with Rich….  \n\nHow about:\n\nHighest Responsibility [Senior & Core Contributors]\nAccountability: Maximum Scrutiny\nTime Expectation: 40 hrs+ weekly\nThreshold: 8-12K Monthly (native currency) \n\nHigh Responsibility: [Experienced Contributors]  \nAccountability: High Scrutiny \nTime Expectation: 30 hrs+ weekly\nThreshold: 4-8K Monthly (native currency) \n\nMedium Responsibility: [Advanced Contributors]\nAccountability: Medium Scrutiny\nTime Expectation: 20 hrs+ weekly\nThreshold: 1-4K Monthly (native currency) \n \nStarter Responsibility: [Tips, Community Moderation] \nAccountability: Starter Scrutiny\nTime Expectation: 10hrs+ weekly\nThreshold: 500-1K Monthly (native currency) \n\nNotable: All contributors levels would retain option to leverage their reputation for NSP services. Usually this rate is 10%, this and additional terms are negotiated with their chosen NSP.  \n\nOutstanding Discussion: Measurements for project success \nResponse for unsuccessful projects. The current approach from the community (CWRoadmap) has been declining of additional disbursement of project funding.  \n\nProposal Curation is a service currently executed by existing contributors for their own proposals (sole contributor) and often on behalf of others as a service beneficial to Edgeware citizens. \n\nFinal Note/Thought for Higher Thresholds: Volatility\n3/4 Months ago our DFS team performed Bounty Parameter Optimization because of the 10+ day period required for this onchain disbursement. The result was a reduction in the bounty payout delay. \n \nCurrently disbursement for proposals is approx ~14 days \nThe consensus here has been that longevity in contribution would eventually account for the difference in volatility.\nI believe then, higher thresholds will help to grant contributor stability.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-28T04:03:47.715Z",
+    "updated_at": "2022-07-28T20:33:17.194Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Zovern"
+  },
+  {
+    "id": 26870,
+    "thread_id": 6392,
+    "address_id": 17524,
+    "body": "I like this, Certainly something that should be discussed. But I see this being used as more of a reference than something that should be followed. If someone believes they should be earning more than set Max Cap then they should be allowed to make there statement to negotiate an incentive that is more than the Max Cap.  I could be having a wrong take on it, so feel free to correct me.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-27T20:05:38.879Z",
+    "updated_at": "2022-07-27T20:05:38.879Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Gmeister7"
+  },
+  {
+    "id": 26854,
+    "thread_id": 6392,
+    "address_id": 48279,
+    "body": "Interesting thoughts. My position is, if this is implemented as it is, especially having a Hard cap, it will deter talent from this community:\n\na) who dont believe in such a structure. \nb) It is less than web3 average, and it will de-incentivise talent (also myself) from going and working contributing elsewhere, who would simply offer more.  \n\nI have a connection to Edgeware, however this approach to rewarding contribution would moving in the opposite directions of the types of systems i think are \"better than before\".\n\nIn essence talent should be remunerated proportional to what they can bargain for. It's clear principle in the participatory economic model. (https://rozenbergquarterly.com/what-is-participatory-economics-an-interview-with-michael-albert/)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-27T14:17:38.736Z",
+    "updated_at": "2022-07-27T14:17:38.736Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey_Decentration"
+  },
+  {
+    "id": 26849,
+    "thread_id": 6392,
+    "address_id": 1335,
+    "body": "Thanks for putting this together [@Shankar Warang](/edgeware/account/jA7pLH65zgRNA4UgwqHEWWRxTgg51wuAUgfzmZoYWM2dMVS).\n\n**General thoughts:**\n\nI'm in agreement with the need to set standards across all aspects of the community, including remuneration.\n\nIf we don't have standards, we won't have consistency and if we don't have consistency, we end up with uncertainty. \n\nImo this need for consistency is **the primary reason** to agree benchmarks and frameworks because this is something unchanging that is not affected by market conditions outside of our control. \n\nThe market conditions should not change things and is less important given our current run rate, with a limited set of contributors and a now proven out chain factory model.\n\nWe also need to escape the psychological hurdle of us seeing the 'treasury' as running out - if we do, we can use Pallet_Mint and print more for contributors.\n\nThis is exactly the reason we have included it in Kabocha, because of the psychological tricks boom and bust cycles have on a communities spending habits.\n\nWe should spend consistently through market cycles, and not be too concerned at the worries of _premium bounty hunters - _I'm not even sure what that means?\n\n**Specific thoughts **\n\nRelated to my work and contributions more generally - since you note Decent Partners, I don't understand why my earning would be restricted for doing one full time job, whilst also onboarding other projects and proposals.\n\n1. 7000 USD per month for contributors who have these incentives as an additional income source to their NSP commissions but are not direct recipients of any grants. (For example, Decent Partners) \n\n\nThis inverts the intended incentives and actually disincentivises me to do the extra work and onboard projects, since it's better to just do one job.\n\nSo I wouldn't support this, because its clearly against the basic incentive model for network services which is effectively a 'curation' bonus. \n\nFurther, I have already structured and h",
+    "parent_id": null,
+    "content_url": "https://comments.common.xyz/b6244892-1028-46ce-9ab9-c2c80dd6702f.md",
+    "created_at": "2022-07-27T14:00:54.986Z",
+    "updated_at": "2022-07-27T14:02:29.594Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb",
+    "full_text": "Thanks for putting this together [@Shankar Warang](/edgeware/account/jA7pLH65zgRNA4UgwqHEWWRxTgg51wuAUgfzmZoYWM2dMVS).\n\n**General thoughts:**\n\nI'm in agreement with the need to set standards across all aspects of the community, including remuneration.\n\nIf we don't have standards, we won't have consistency and if we don't have consistency, we end up with uncertainty. \n\nImo this need for consistency is **the primary reason** to agree benchmarks and frameworks because this is something unchanging that is not affected by market conditions outside of our control. \n\nThe market conditions should not change things and is less important given our current run rate, with a limited set of contributors and a now proven out chain factory model.\n\nWe also need to escape the psychological hurdle of us seeing the 'treasury' as running out - if we do, we can use Pallet_Mint and print more for contributors.\n\nThis is exactly the reason we have included it in Kabocha, because of the psychological tricks boom and bust cycles have on a communities spending habits.\n\nWe should spend consistently through market cycles, and not be too concerned at the worries of _premium bounty hunters - _I'm not even sure what that means?\n\n**Specific thoughts **\n\nRelated to my work and contributions more generally - since you note Decent Partners, I don't understand why my earning would be restricted for doing one full time job, whilst also onboarding other projects and proposals.\n\n1. 7000 USD per month for contributors who have these incentives as an additional income source to their NSP commissions but are not direct recipients of any grants. (For example, Decent Partners) \n\n\nThis inverts the intended incentives and actually disincentivises me to do the extra work and onboard projects, since it's better to just do one job.\n\nSo I wouldn't support this, because its clearly against the basic incentive model for network services which is effectively a 'curation' bonus. \n\nFurther, I have already structured and had approved the ongoing R&D proposal for quarterly grants of £25k/$30k, agreed in 'good faith'.\n\nAs I've indicated in the invoices, since the funding is done in arrears (post paid), the currency risk is all on me, and so what should effectively have been £75k for the first 3 quarters is effectively £32k when I received the funds.\n\nThis model incentivises long term contributors since it is all about driving the positive appreciation of the token, else the model doesn't work. \n\nThis is an equivalent of dollar cost averaging, but as a contributor.\n\nAs EDG market picks up the earnings should flip in the other direction, but again, that is the risk/reward we undertake.\n\n**Overall** \n\nI feel that the proposal for R&D that I've put forward is fair and also importantly sustainable. \n\nThis is equivalent to $10,000 month - not the $9000 you mention above.\n\nI also think there should be a weighting given the relative contributions and the experience / time with the project.\n\nTo that end, I would suggest thinking through a structure that gave weight to this - e.g.\n\n- Senior: $10,000 max cap\n- Mid: $7,000 max cap \n- Junior: $4,000\n- Trainee: $1500"
+  },
+  {
+    "id": 26844,
+    "thread_id": 6392,
+    "address_id": 16921,
+    "body": "Great idea, Indeed. All the points are worth implementing. Awaiting our Contributors' statement on the same.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-27T12:54:29.489Z",
+    "updated_at": "2022-07-27T12:54:29.489Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Frogman"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": 8434,
+  "title": "EDG Community Update: Week of November 28th, 2022",
+  "body": "## **Highlights**\n\n- Bharathcoorg proposed the [development of basic tools for EdgeEVM](https://gov.edgewa.re/discussion/8013-basic-evm-tools-for-edgeware-network) (aka Evolution of EdgeEVM 2.0 roadmap).\n- [The Switch](https://twitter.com/EdgewareDAO/status/1598006639164284928) aka change to newer consensus standards (node client-level upgrade) occurred successfully concluding the two-stage v4.0.2 Upgrade.\n- All the Validators, RPC infrastructure providers, Exchanges and Ecosystem Projects are requested to upgrade their node(s) to the [release v4.0.1](https://github.com/edgeware-network/edgeware-node/releases/tag/v4.0.1) or [higher](https://github.com/edgeware-network/edgeware-node/releases/tag/v4.0.2).\n- Upcoming Activities/Events: [Valorant Gaming Tournament](https://gov.edgewa.re/discussion/6514-edggaming-tournament) and [Reddit Meme Competition](https://gov.edgewa.re/discussion/7259-reddit-meme-competition).\n\n## **Ecosystem Updates**\n\n- New early-stage ecosystem project: [W3Pass](https://devfolio.co/projects/wpass-23f5)\n- [Kabocha's Referendum #0](https://twitter.com/EdgewareDAO/status/1597307341111984128) for democracy launch and enabling transfers is live.\n- Get to know more technical-oriented updates on the '[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-nov-20/)'.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/).\n- EDGizens are welcome to participate in [the research survey](https://forms.gle/XdjEyBEMY1EtZs3x9) by one of the ecosystem partners.\n- Community members interested in running bridge relayers or Chainlink's oracle nodes on EdgeEVM, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)'s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n\n## **Governance**\n\n- Referendum #130: [Community Web ",
+  "content_url": "https://threads.common.xyz/883560c6-ae8d-4593-aa2b-ac2c606b1919.md",
+  "created_at": "2022-12-08T18:48:52.688Z",
+  "updated_at": "2025-03-12T13:43:34.084Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/8434",
+  "body_complete": true
+}

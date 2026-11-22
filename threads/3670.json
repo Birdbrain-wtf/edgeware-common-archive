@@ -1,0 +1,15 @@
+{
+  "id": 3670,
+  "title": "Convertible Note Grants: A new funding type idea for the chain/protocol factory model",
+  "body": "## The Problem: \n- In the chain factory model, until the incubated chain/protocol gets live, the contributors of the incubated chain/protocol can’t get incentivised from the future treasury of that chain/protocol.\n- Price momentum risk: Given the uncertainty of market conditions, the contributors also need to consider the timing of the market rather than just focusing on their deliverables.\n- If all the supplementary grants* of the incubated chains are treated just like normal grants, over time altogether they could imply too much pressure on Edgeware’s treasury and sustainability of the ecosystem.\n\n\n* [The grants focusing on incentivisation of the contributor(s) of the incubated chain/protocol apart from the primary grant are referred to in this thread as ‘Supplementary Grants’.]\n\n## Solution: Introducing Convertible Note Grants [🥁](https://emojipedia.org/drum/) \n- Convertible Note Grants aims to provide the incubated chain/protocol flexibility without any compromise on the incentivisation of their current & future contributors.\n- Utilizing Convertible Note Grant, the contributor(s) of the incubated chain/protocol can get incentivised in $EDG and after the full-fledged launch of the incubated chain/protocol and it’s/their treasury, the Edgeware treasury can be reimbursed^ in form of the token(s) of the incubated chain/protocol. This reimbursement is supposed to be done on the chain/protocol level and not directly by the contributors. \n\n\n^ [The reimbursement can be preferably done directly to the Edgeware’s on-chain treasury or to a 4/7 multisig with known Edgeware contributors as the signers.]\n\n## Unintended benefits: \n- Multi-assets public treasury: Convertible Note Grants could play an important role in the diversification of the public treasury and thus reduction in the risk of Edgeware the community’s holdings. In future, community grants can also become multi assets’ grants subject to the choice of the proposer to diversify the grants’ risk.\n- The incubated c",
+  "content_url": "https://threads.common.xyz/95cb2701-9801-4094-bd88-433538900b2f.md",
+  "created_at": "2022-01-31T17:15:34.894Z",
+  "updated_at": "2025-03-21T01:11:36.239Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "Shankar Warang",
+  "topic_id": 1045,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/3670",
+  "body_complete": true
+}

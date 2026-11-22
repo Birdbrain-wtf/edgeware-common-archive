@@ -1,0 +1,15 @@
+{
+  "id": 6666,
+  "title": "EDG Community Update: Week of August 8th, 2022",
+  "body": "## **Highlights**\n\n- The [Sticker Competition](https://twitter.com/EdgewareDAO/status/1558680581864505344) aka the 4th campaign from [The Cutting Edge Conquest series](https://gov.edgewa.re/discussion/5848-the-cutting-edge-conquest-a-community-campaigns-series-partially-postpaid) had been kicked off and open for entries until 28th August.\n- All the Validators, RPC infrastructure providers, Exchanges and Ecosystem Projects can upgrade their nodes to the [pre-release v3.5.1](https://github.com/edgeware-network/edgeware-node/releases/tag/v3.5.1) to be prepared in advance for the upcoming ERUP5 upgrade's on-chain democracy proposal.\n- Upcoming Activities/Events: The Cutting Edge Conquest campaigns, Kabocha's Technical AMA ft. Ramsey and Rusty Crewmates, Kabocha's Community Mods Onboarding Quiz\n\n## **Ecosystem Updates**\n\n- [OnFinality published the July 2022 usage report](https://docs.google.com/spreadsheets/d/1vXkWOn4TSIRa1AXkz4inWF2oExnoAaTlKkQhMmh_LAc/edit?usp=sharing) of their load-balancing RPC infrastructure for Edgeware solochain mainnet. Overall there were 64 million requests with 55GB of data traffic.\n- Get to know more technical-oriented updates on the '[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-aug-7/)'.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/).\n- EDGizens are welcomed to participate in [the research survey](https://forms.gle/XdjEyBEMY1EtZs3x9) by one of the ecosystem partners.\n- Community Treasury-funded Web3 Media platform, [New-Futures opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink's oracle nodes on EdgeEVM, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)'s transaction relayers on Ed",
+  "content_url": "https://threads.common.xyz/91bb38f4-b18e-4686-aa90-4c4acb68a693.md",
+  "created_at": "2022-08-17T14:30:40.133Z",
+  "updated_at": "2025-03-18T15:05:20.111Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/6666",
+  "body_complete": true
+}

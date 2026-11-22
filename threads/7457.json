@@ -1,0 +1,15 @@
+{
+  "id": 7457,
+  "title": "Multi-Sig Overview/FAQ",
+  "body": "Multi-Sig Overview/FAQ\n\n\nWhat is a Multi-Sig\n\n\nA Multi-Signature account is Keyless Account. Where a single Edgeware account key and it’s signatory for transactions are _determined*_ by multiple citizens. The participants (accounts) would be responsible for signing transactions to complete the transfer of funds and other on-chain actions. (ie. declaration of a chain Identity) \n\n\nThe Multi-Signature account transactions are secured via the set participation**_ _threshold.** This is  the required amount of approvers for transactions.\n\n[*This type of account is categorized as **deterministic.**]\n\nBelow is an overview of creating a Multi-Sig account on the Edgeware chain using one of our decentralized interfaces. For this following example we’ll use 3 citizens with a threshold of approvers being 2.\n\nExample:\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/8db2a4b3-5484-485f-8a27-d683fffa6a5b.1667342888635)\n\n\n\nYour Account \niL6rMgnABLeVMnC9eWPVtJXQz8yLmjr593m1z22vkCg93mZ\n\n\t2nd Citizen\nniJDVbmP95mN9vo8iP7vUnZXHg9xjVUM8TA2YWxc3VEQcbv\n\t\n\t3rd Citizen \nmQw6Uwcofso6pzDmg9SKS6gXkua2kicXuv4HgsArDGobmwd\n\n1)  Step Add your contacts to your address book\n             A. Navigate to _Accounts _\n             B. Select _Add Contact_ (on the right) \n             C. Add the address and name of your participants\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/03f255ad-b667-477b-a500-aec4a8bc3cb7.1667343023253)\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/473c8f70-8efd-4c6c-9078-6246795dfa6a.1667343087939)\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/ee0beac4-72da-4fc5-a050-292d21ef66d4.1667343132337)\n\nOnce complete, your contacts will be listed and available for Multi-Sig creation… \n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/e06ed31d-c3c5-467f-9458-179d379f1b7c.1667343332032)\n\n2) Creating your Multi-Sig\n        A. Select Multi-Sig from your account options bar\n        B. Select all approvers for future transac",
+  "content_url": "https://threads.common.xyz/f05055be-fe8f-47ce-937e-b54044f3c3d0.md",
+  "created_at": "2022-11-01T23:23:53.617Z",
+  "updated_at": "2025-03-15T09:24:39.145Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Zovern",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/7457",
+  "body_complete": true
+}

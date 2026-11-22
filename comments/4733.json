@@ -1,0 +1,82 @@
+[
+  {
+    "id": 20826,
+    "thread_id": 4733,
+    "address_id": 21315,
+    "body": "Hey Rich, \n\nHonestly, I'm confused..  \n\nI think i understand the basis of being caution for onboarding someone new. Concerns about dedication, commitment and work ethic. I've began contributing since February. For the last 3 months, I've worked through sickness, family emergencies and even a passing. I've continued to build a reputation.     \n\nAnd to answer the question directly, Yes. This isn't a precedent, please see our most recent onboarding in April.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-05-21T16:08:19.391Z",
+    "updated_at": "2022-05-21T16:08:19.391Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Zovern"
+  },
+  {
+    "id": 20793,
+    "thread_id": 4733,
+    "address_id": 1335,
+    "body": "Thinking this over, I do wonder if this is a little on the high side [@ZOMBII](/edgeware/account/jYv1mozd5KbFGabpj9btRk6PhqoDpoASXhzsCgzc2QQXPHE) - not sure we've had anyone go from nothing to a relatively high salary this quick, just worth considering if there's maybe an intermediate stage?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-05-20T21:20:46.774Z",
+    "updated_at": "2022-05-20T21:20:46.774Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 20668,
+    "thread_id": 4733,
+    "address_id": 1335,
+    "body": "one other thing i'd add is maybe some better curation / updates on proposals going into vote - basically we need to keep reminding people to vote.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-05-19T09:21:46.515Z",
+    "updated_at": "2022-05-19T09:21:46.515Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 20639,
+    "thread_id": 4733,
+    "address_id": 21315,
+    "body": "Hey Rich!, Thanks for the feedback... replies below\n\n\nFew thoughts working through:\n> **NSP: **Shankar Warang, Edgeware Agency\nGreat to see another [NSP](https://gov.edgewa.re/discussion/3650-decent-partners-an-introduction-to-network-services), just for clarity, are you saying Edgeware Agency is the NSP, with you doing the work?\n\n\nYes, Shankar is from the Agency. \n\n\n> **Incentives**\n_Nicely broken down, its nice to see how Zovern has contributed first, then asked for funding after building trust / connections and understanding the gaps that need to be filled._\n_Total in USD: $ 7407.4 per month_\n_Non-incentivized contribution months: March & April 2022_\n_Are we agreeing the contract for one month or ongoing?_\n_How are you tackling the monthly re-price needed for $$$ payments?_\n_This is a challenge we all face - and maybe worth us developing as a task with Rusty Crew Mates - the way to approve a single 6 month salary, that automatically reprices from an oracle and executes a transaction end of each month, to ensure consistent monthly income in fiat._\n_What do you think [@Ramsey](https://commonwealth.im/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) ?_\n \nYes is ongoing. Shankar drafted it to become part of the SCU monthly distribution.\nYes i Rust Crew's pallet post and I'm always eager to integrate our advancements throughout the chains. This might help to streamline the funding for the support groups. Currently, I believe the support teams (Agency/ SCU) are  annually and semi-annual funded through proposals. \n\n_(Part1)_\n_Final question and this is now about rates - how did you get to: $ 52.91/hour_\n_My thinking is evolving with the structure of core member salaries... I'm wondering if we keep things simple and create a very easy to understand remuneration format:_\n_Example:_\n_Starter - £2500 per month_\n_Mid - £5000 per month_\n_Senior - £7500 per month_\n_Core - £10,000 per month_\n\n\noh, It was based hours. I'm actually committing over 45+ weekly. I l",
+    "parent_id": null,
+    "content_url": "https://comments.common.xyz/a9c69b30-db2d-4b79-909d-8d94514dec23.md",
+    "created_at": "2022-05-18T16:43:51.608Z",
+    "updated_at": "2022-05-18T19:16:32.155Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Zovern",
+    "full_text": "Hey Rich!, Thanks for the feedback... replies below\n\n\nFew thoughts working through:\n> **NSP: **Shankar Warang, Edgeware Agency\nGreat to see another [NSP](https://gov.edgewa.re/discussion/3650-decent-partners-an-introduction-to-network-services), just for clarity, are you saying Edgeware Agency is the NSP, with you doing the work?\n\n\nYes, Shankar is from the Agency. \n\n\n> **Incentives**\nNicely broken down, its nice to see how Zovern has contributed first, then asked for funding after building trust / connections and understanding the gaps that need to be filled.\n_Total in USD: $ 7407.4 per month_\n_Non-incentivized contribution months: March & April 2022_\nAre we agreeing the contract for one month or ongoing?\nHow are you tackling the monthly re-price needed for $$$ payments?\nThis is a challenge we all face - and maybe worth us developing as a task with Rusty Crew Mates - the way to approve a single 6 month salary, that automatically reprices from an oracle and executes a transaction end of each month, to ensure consistent monthly income in fiat.\nWhat do you think [@Ramsey](https://commonwealth.im/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) ?\n \nYes is ongoing. Shankar drafted it to become part of the SCU monthly distribution.\nYes i Rust Crew's pallet post and I'm always eager to integrate our advancements throughout the chains. This might help to streamline the funding for the support groups. Currently, I believe the support teams (Agency/ SCU) are  annually and semi-annual funded through proposals. \n\n(Part1)\nFinal question and this is now about rates - how did you get to: $ 52.91/hour\nMy thinking is evolving with the structure of core member salaries... I'm wondering if we keep things simple and create a very easy to understand remuneration format:\nExample:\nStarter - £2500 per month\nMid - £5000 per month\nSenior - £7500 per month\nCore - £10,000 per month\n\n\noh, It was based hours. I'm actually committing over 45+ weekly. I lowered the rate in consideration to something more appropriate to salary. Being from corporate, I understand the demand for required will never match actual time. It's about success.\n\nPart2\nI think we can develop this idea a bit, I know others will disagree, but I see no reason why anyone needs a 'basic' above £10,000 per month.\nWe need to develop a basic structure, rather than everyone just creating another initial payment structure.\n\nThere are ways to bonus this / add incentives on top, but I think it'd be worth formalising something like this.\nCurrently [@Thom Ivy](https://commonwealth.im/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) is the 'best paid' in the community, I haven't taken a salary despite it being my sole job - though will be putting in a proposal for my time to date and ongoing and [@Ramsey](https://commonwealth.im/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) is still working on project fee, but when he moves to being an NSP, i think that would mean he also assumes a 'core' role in the community and accesses the 'benefit' of a stable salary.\n\nClearly, i'm aligned and I think Tiers work great toward a framework for benchmarking. I caution if it applied to stringently though.  They are those in Technology (Networking & Security) earning closer to 200K annually, based purely on their proficiency and experience.  Limiting the on-boarding structure, may also impact the level of contribution available to our chains. ( EDG & KAB )\n\n\nCurrently [@Thom Ivy](https://commonwealth.im/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) is the 'best paid' in the community, I haven't taken a salary despite it being my sole job - though will be putting in a proposal for my time to date and ongoing and [@Ramsey](https://commonwealth.im/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) is still working on project fee, but when he moves to being an NSP, i think that would mean he also assumes a 'core' role in the community and accesses the 'benefit' of a stable salary.\n\n\nYes, as I understand ( from previous posts) Decent Partners receives an NSP amount for contribution. I wondered why not a salary, I understand the value of creating a structure. Would help streamling onboarding and would help to highlight the contributions of a core citizen such as Ramsey. The rate, again is something I'll avoid being stringent.\n\n\n-I've hired about 20+ employees and learned that baselines are great guidelines for clearly defined roles.  Here i feel, most contributions are unique as the citizens contributing."
+  },
+  {
+    "id": 20583,
+    "thread_id": 4733,
+    "address_id": 1335,
+    "body": "Great to see.\n\nFew thoughts working through:\n\n> **NSP: **Shankar Warang, Edgeware Agency \n\nGreat to see another [NSP](https://gov.edgewa.re/discussion/3650-decent-partners-an-introduction-to-network-services),  just for clarity, are you saying Edgeware Agency is the NSP, with you doing the work?\n\n> **Incentives**\n\nNicely broken down, its nice to see how Zovern has contributed first, then asked for funding after building trust / connections and understanding the gaps that need to be filled.\n\n\t_Total in USD: $ 7407.4 per month _\n_\tNon-incentivized contribution months: March & April 2022 _\n\nAre we agreeing the contract for one month or ongoing?\nHow are you tackling the monthly re-price needed for $$$ payments? \n\nThis is a challenge we all face - and maybe worth us developing as a task with Rusty Crew Mates - the way to approve a single 6 month salary, that automatically reprices from an oracle and executes a transaction end of each month, to ensure consistent monthly income in fiat.\n\nWhat do you think [@Ramsey](/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) ? \n\nFinal question and this is now about rates - how did you get to: $ 52.91/hour \n\nMy thinking is evolving with the structure of core member salaries... I'm wondering if we keep things simple and create a very easy to understand remuneration format:\n\nExample:\n\nStarter - £2500 per month\nMid - £5000 per month\nSenior - £7500 per month\nCore - £10,000 per month\n\nI think we can develop this idea a bit, I know others will disagree, but I see no reason why anyone needs a 'basic' above £10,000 per month.\n\nWe need to develop a basic structure, rather than everyone just creating another initial payment structure.\n\nThere are ways to bonus this / add incentives on top, but I think it'd be worth formalising something like this. \n\nCurrently [@Thom Ivy](/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) is the 'best paid' in the community, I haven't taken a salary despite it being my sole job - ",
+    "parent_id": null,
+    "content_url": "https://comments.common.xyz/bc477395-ae10-487e-859f-5e1b6450ac69.md",
+    "created_at": "2022-05-17T13:57:00.114Z",
+    "updated_at": "2022-05-17T13:57:00.114Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb",
+    "full_text": "Great to see.\n\nFew thoughts working through:\n\n> **NSP: **Shankar Warang, Edgeware Agency \n\nGreat to see another [NSP](https://gov.edgewa.re/discussion/3650-decent-partners-an-introduction-to-network-services),  just for clarity, are you saying Edgeware Agency is the NSP, with you doing the work?\n\n> **Incentives**\n\nNicely broken down, its nice to see how Zovern has contributed first, then asked for funding after building trust / connections and understanding the gaps that need to be filled.\n\n\t_Total in USD: $ 7407.4 per month _\n_\tNon-incentivized contribution months: March & April 2022 _\n\nAre we agreeing the contract for one month or ongoing?\nHow are you tackling the monthly re-price needed for $$$ payments? \n\nThis is a challenge we all face - and maybe worth us developing as a task with Rusty Crew Mates - the way to approve a single 6 month salary, that automatically reprices from an oracle and executes a transaction end of each month, to ensure consistent monthly income in fiat.\n\nWhat do you think [@Ramsey](/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) ? \n\nFinal question and this is now about rates - how did you get to: $ 52.91/hour \n\nMy thinking is evolving with the structure of core member salaries... I'm wondering if we keep things simple and create a very easy to understand remuneration format:\n\nExample:\n\nStarter - £2500 per month\nMid - £5000 per month\nSenior - £7500 per month\nCore - £10,000 per month\n\nI think we can develop this idea a bit, I know others will disagree, but I see no reason why anyone needs a 'basic' above £10,000 per month.\n\nWe need to develop a basic structure, rather than everyone just creating another initial payment structure.\n\nThere are ways to bonus this / add incentives on top, but I think it'd be worth formalising something like this. \n\nCurrently [@Thom Ivy](/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) is the 'best paid' in the community, I haven't taken a salary despite it being my sole job - though will be putting in a proposal for my time to date and ongoing and [@Ramsey](/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) is still working on project fee, but when he moves to being an NSP, i think that would mean he also assumes a 'core' role in the community and accesses the 'benefit' of a stable salary."
+  },
+  {
+    "id": 19795,
+    "thread_id": 4733,
+    "address_id": 3471,
+    "body": "Excellent! We need more people around like Zovern",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-05-05T01:22:48.120Z",
+    "updated_at": "2022-05-05T01:22:48.120Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "BUGZ"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": 3905,
+  "title": "EDG Community Update: Feb 21st, 2022",
+  "body": "**Highlights**\n- [The public release of Edgeware’s Ledger app](https://twitter.com/EdgewareDAO/status/1497225535746805765?s=20&t=ohVYh9-pcCqggpOzINphxw) developed by Zondax and audited by LedgerHQ is now on Ledger Live.\n- [The crowdloan waitlist](https://kabocha.network/) is open for Kabocha.\n- All validators are requested to upgrade their nodes to the [release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP5/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP5/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n\n\n**Ecosystem Updates**\n- Get to know more technical oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-feb-20/)’.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/).\n- [4thPillarTech’s 4-in-1 multi-chain staging solution](https://twitter.com/4thtechProject/status/1497217586815143943?s=20&t=kNPHMzHEewj4ICufIH4x9Q)’s testnet is live.\n- Community Treasury-funded Web3 Media platform, [New-Futures have opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n- Upcoming: Community domain email and distribution campaign (EDGPass Perk) ft. EDG Pizzadrop\n\n\n**Governance**\n- Referendum #58: [Kabocha's Para-ID deposit for Kusama](https://gov.edgewa.re/discussion/3759-proposal-kabochas-paraid-deposit-for-kusama) {Referendum type: SimpleMajority,",
+  "content_url": "https://threads.common.xyz/7a31c418-3839-4946-a77d-351e9ad8bdd1.md",
+  "created_at": "2022-03-01T22:39:34.086Z",
+  "updated_at": "2025-03-15T21:12:00.041Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/3905",
+  "body_complete": true
+}

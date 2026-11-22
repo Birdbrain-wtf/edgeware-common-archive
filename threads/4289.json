@@ -1,0 +1,15 @@
+{
+  "id": 4289,
+  "title": "Solo Contributors' Union (SCU)",
+  "body": "**Summary:**\n**\t**Solo Contributors’ Union aims to reduce the friction from the solo contributors’ side as well as the on-chain governance side for the monthly incentives and to disburse them promptly and under an equal scenario.\n\n**Problems: **\n- Limited bandwidth for proposals: With the decentralisation of the agency (one of the major contributing teams) in the coming months combined with the limitation of the external queue, the referenda stage could be bottlenecked leaving near to no bandwidth available for other kinds of proposals.\n- On-chain governance can’t process the incentives at once and thus creating differences due to price/market momentum.\n- Funding for multiple months is not reliable at this (growth) stage and if the market goes down, the contributors would need to propose a top-up proposal.\n\n\n**Solution:**\n- Introducing 'Solo Contributors' Union (aka SCU)'. SCU will allow the contributors to acquire the community mandate through their initial/first month's proposal and then be a part of SCU from next month.\n- Clubbing multiple proposals together: The total amount in EDG will be calculated based on the 7-day average of the total monthly incentives of all SCU members.\n- A new multisig will be set up on the 24th of every month if there are any new members added to the SCU. This could be replaced with the multi-sender EdgeWASM smart contract in future. But until then, the multisig threshold ratio will be determined as follows:\n- If n = Total number of solo contributors in the SCU,\n- And ⌊⌋ represents ‘[Greatest Integer Function](https://www.cuemath.com/algebra/greatest-integer-function/)’,\n- Then, the multisig threshold ratio = ⌊(n/2)⌋+1 : n\n- To avoid manipulation using multiple accounts, the _primary threads_ with the topic “Solo Contributors' Union” will need a minimum of 100000 EDG holding to post/comment.\n\n\n**Criteria:**\n- Only solo individuals and smaller groups with no hierarchy (ex: Community Mods) will become members of the Solo Contributors' Un",
+  "content_url": "https://threads.common.xyz/d77b1cde-d01d-4f40-a012-99439a7e7df2.md",
+  "created_at": "2022-04-07T14:46:28.677Z",
+  "updated_at": "2025-03-18T01:07:15.767Z",
+  "last_edited": null,
+  "comment_count": 5,
+  "profile_name": "Shankar Warang",
+  "topic_id": 1045,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4289",
+  "body_complete": true
+}

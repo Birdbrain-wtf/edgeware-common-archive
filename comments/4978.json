@@ -1,0 +1,54 @@
+[
+  {
+    "id": 26857,
+    "thread_id": 4978,
+    "address_id": 48279,
+    "body": "Quick update here:\n\n#001 Law Decoded has been delivered, a 5 part mini series that can be shared as education materials far and wide. \n\nReminding that this project is totally unfunded. And thanks to everyone involved in this project: James (Beej), Shankar, Frogman, Rich and all the live participants, and of course Frank. \n\nYou can view the Decoding Law playlist here: https://www.youtube.com/watch?v=0H_sDJhQPIM&list=PLzmYj--zwoaelqCgTME1T3kqX9SUEM8xn\n\nI suspect this could be one of the most engaging courses coming out of the community so far.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-27T14:24:23.150Z",
+    "updated_at": "2022-07-27T14:24:23.150Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey_Decentration"
+  },
+  {
+    "id": 23606,
+    "thread_id": 4978,
+    "address_id": 21680,
+    "body": "Would be cool if these seminars where recorded and put out as a podcast. Would that be doable?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-06-23T14:56:01.861Z",
+    "updated_at": "2022-06-23T14:56:01.861Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Flipchan"
+  },
+  {
+    "id": 26855,
+    "thread_id": 4978,
+    "address_id": 48279,
+    "body": "Hey Filip, your wish is my command! [https://www.youtube.com/watch?v=0H_sDJhQPIM&list=PLzmYj--zwoaelqCgTME1T3kqX9SUEM8xn](https://www.youtube.com/watch?v=0H_sDJhQPIM&list=PLzmYj--zwoaelqCgTME1T3kqX9SUEM8xn)",
+    "parent_id": 23606,
+    "content_url": null,
+    "created_at": "2022-07-27T14:21:00.407Z",
+    "updated_at": "2022-07-27T14:21:00.407Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey_Decentration"
+  },
+  {
+    "id": 21913,
+    "thread_id": 4978,
+    "address_id": 48279,
+    "body": "https://jur.io/\nHere is a platform that are working at creating dispute resolution tech, and courts for digital networks. Similar to Aragon. They were started in 2018, and seem to have partnered with polkadot.\n\n**Offline Jurisdictions Are Unfit For The Digital Economy**\n_Traditional jurisdictions are founded and governed according to geographic divisions of the world into political nation states. However, the regulatory framework of the digital economy doesn't fit within existing legal and political geographies. The internet is global. This jurisdictional dilemma, which began with the era of globalization, continues with Web3, and has already overwhelmed the system._\n\nIt still seems like law on a pirate ship, though. There's key components missing. \n\nSolutions they don't seem to offer are: how can a DAO /network own title to land? What is this jurisdictioin law based on? What about a physical presence? How can we create a nation state that is sovereign both physically and digitally?\n\nOn Monday 6th June on Edgeware Discord at midday BST, we have the first group AMA where we talk to Frank, to discuss concepts of law, and build up a group understanding.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-06-03T18:41:17.919Z",
+    "updated_at": "2022-06-05T09:09:16.816Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey_Decentration"
+  }
+]

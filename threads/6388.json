@@ -1,0 +1,15 @@
+{
+  "id": 6388,
+  "title": "Proposal of an Alternate Approach for KAB Distribution",
+  "body": "## Proposal of an Alternate Approach for KAB Distribution\n\nIn reference to: [https://gov.edgewa.re/discussion/6007-kabocha-genesis-issuance-treasury-and-edg-and-crowdloan-distributions](https://gov.edgewa.re/discussion/6007-kabocha-genesis-issuance-treasury-and-edg-and-crowdloan-distributions)\n\n**Brief:**\n\nThis mechanism was discussed in the Community Financial Call of 19th July’22.\n\nThis approach will be as follows: \nInstead of the proposed KAB treasury of 6,437,924.018517766 (~ 9.32% of the total KAB supply), the treasury will be around ~5.1% of the total KAB supply(4.9% = crowd-loan rewards + 0.2% = contingency buffer)\n\n**Reason:**\n\nNow that Kabocha is equipped with the Pallet Mint functionality, there is no concrete need(open for discussion) to have a treasury. So instead the remaining amount i.e. the ~4.22% (9.32% - 5.1%) will be distributed to the EDG holders, which will make it ~94.9% of the total KAB supply for the EDG holders effectively.\n\nThis will result in two major benefits: \n\n(a) EDG holders get slightly higher than 1:1 network share in the KAB ecosystem \n\n(b) KAB will be inflationary in nature, as new tokens will be minted for new proposals, so it makes sense to incentivize the holders by rewarding them with higher network shares during initial distribution.\n\n(c) The rewards for crowd-loan participants remain the same as promised before. \n\nFor this mechanism, the 1.5% founder's rewards as well as the Edgeware recoup can be done using the Pallet Mint functionality, instead of keeping it as a part of the initial treasury.\n\n**Effective Distribution**:\n\n94.9% - EDG holders\n5.1% - Treasury- {4.9%(crowd-loan reward)+0.2%(contingency buffer)}\nTotal - 100%\n\nOthers - Minted Using Pallet Mint via democracy after genesis allocation\n\n- Founder's Reward( 1.5% of genesis supply)\n\n                                  = 69,106,787.37701199 (69M) * 1.5%\n                                  = 1,036,601.8 KAB\n\n- EDG Recoup - (53,918,777 EDG equivalent)\n\n= 53,918,7.77 KAB (~0.",
+  "content_url": "https://threads.common.xyz/2db7e11f-5e92-4229-aa49-de9df30d51e7.md",
+  "created_at": "2022-07-27T10:28:10.168Z",
+  "updated_at": "2025-03-17T23:02:03.728Z",
+  "last_edited": null,
+  "comment_count": 4,
+  "profile_name": "Advait",
+  "topic_id": 990,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/6388",
+  "body_complete": true
+}

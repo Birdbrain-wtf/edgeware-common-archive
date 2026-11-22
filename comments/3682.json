@@ -1,0 +1,41 @@
+[
+  {
+    "id": 15247,
+    "thread_id": 3682,
+    "address_id": 1067,
+    "body": "Waiting for the [distribution criteria for the crowdloan NFTs](https://gov.edgewa.re/discussion/3440-proposal-kabocha-visuals-and-crowdloan-nfts?comment=15043). I expected that to be announced before the the treasury proposal for 'Kabocha visuals and crowdloan NFTs' approves.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-02-07T09:29:05.427Z",
+    "updated_at": "2022-02-07T09:29:05.427Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 15522,
+    "thread_id": 3682,
+    "address_id": 1335,
+    "body": "Still working that out, we've been trying to figure out best structure. \n\nIt can still be an open discussion, nothing is set in stone on any of this",
+    "parent_id": 15247,
+    "content_url": null,
+    "created_at": "2022-02-11T17:28:59.369Z",
+    "updated_at": "2022-02-11T17:29:39.182Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 15568,
+    "thread_id": 3682,
+    "address_id": 1335,
+    "body": "> I expected that to be announced before the the treasury proposal for 'Kabocha visuals and crowdloan NFTs' approves. \n\nThe funding was for 'Kabocha Visuals + Crowdloan NFTs', these are separate conversations... the visuals has nothing to do with the number / ratio of Seeds, that's what the crowdloan parameters are for...",
+    "parent_id": 15522,
+    "content_url": null,
+    "created_at": "2022-02-13T22:46:08.528Z",
+    "updated_at": "2022-02-13T22:46:08.528Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

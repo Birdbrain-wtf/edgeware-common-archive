@@ -1,0 +1,93 @@
+[
+  {
+    "id": 14077,
+    "thread_id": 2221,
+    "address_id": 1335,
+    "body": "**18/02/22**\nBrief update - the community film is now in pre-production. \n\nWith Commonwealth Labs leaving the project and the focus of the project evolving alongside the recruitment of new core team members we have waited until there are a few more concrete proposals to bring the community to life, rather than risking making something that is instantly out of date and backwards looking. \n\nOther challenges - (now solved) have been the setup of institutional accounts with Kucoin and Kraken to ensure compliant transfer and exchange of funds from EDG to GBP and into Lemonade Money's corporate account. \n\n[@Jamie_J](/edgeware/account/jqCACU9fQzGpzRzMkoZLyWKsCwtkG5zTpUgXkYvfPqwZ3Rt) will update as things move on.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-01-18T09:30:15.029Z",
+    "updated_at": "2022-01-18T09:30:15.029Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 14085,
+    "thread_id": 2221,
+    "address_id": 3336,
+    "body": "Is Kraken exchange in the pipeline?",
+    "parent_id": 14077,
+    "content_url": null,
+    "created_at": "2022-01-18T15:08:01.228Z",
+    "updated_at": "2022-01-18T15:08:01.228Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Gediminas"
+  },
+  {
+    "id": 14108,
+    "thread_id": 2221,
+    "address_id": 1335,
+    "body": "We have filled in a listing form, but we have at a number of other exchanges. So you could say it's in the pipeline, but we have zero control over that timeline.\n\nI know Shankar mentioned something about this on a call.\n\nIt's worth noting that any corporate entity with a meaningful interest and connection to Edgeware can approach exchanges about listings, whether they say yes or not, is another matter.\n\nGiven Commonwealth Lab's absence, Decent Partners is probably the only other entity currently able to start these convos.",
+    "parent_id": 14085,
+    "content_url": null,
+    "created_at": "2022-01-19T08:03:22.555Z",
+    "updated_at": "2022-01-19T08:07:13.813Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 9269,
+    "thread_id": 2221,
+    "address_id": 2976,
+    "body": "Awesome, telling stories will capture all of our hearts and minds, very much look forward to this.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-25T13:29:16.605Z",
+    "updated_at": "2021-10-25T13:29:16.605Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey"
+  },
+  {
+    "id": 9097,
+    "thread_id": 2221,
+    "address_id": 4902,
+    "body": "Sounds great, green light for me",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-19T09:08:06.930Z",
+    "updated_at": "2021-10-19T09:08:06.930Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Lokvar"
+  },
+  {
+    "id": 9044,
+    "thread_id": 2221,
+    "address_id": 1911,
+    "body": "Updated 17/10/21 for on-chain treasury proposal",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-17T18:28:41.960Z",
+    "updated_at": "2021-10-17T18:28:41.960Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Lemonade Money"
+  },
+  {
+    "id": 8946,
+    "thread_id": 2221,
+    "address_id": 1004,
+    "body": "I support this proposal without disclaimer. Community engagement has been lonnnngg and good, the challenge with this film is not insignificant, and it adds to our cultural canon in a meaningful way.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-14T15:38:41.765Z",
+    "updated_at": "2021-10-14T15:38:41.765Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  }
+]

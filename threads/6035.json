@@ -1,0 +1,15 @@
+{
+  "id": 6035,
+  "title": "EDG Community Update: June 27th, 2022",
+  "body": "**Highlights**\n- The Event Trilogy series comes to an end with the triumphant conclusion of the third and final campaign ‘[Crypto Quiz](https://discord.com/invite/fHyucD4VHx)’.\n- [Nova Wallet added support](https://twitter.com/NovaWalletApp/status/1543989670979174404) for the Kabocha parachain.\n- All validators are requested to upgrade their nodes to the [release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP5/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP5/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n- Upcoming Activities: AMA with Placeholder Labs, AMA with Rusty Crewmates, Kabocha’s Technical AMA ft. Ramsey, Kabocha’s Community Mods Onboarding Quiz\n\n\n**Ecosystem Updates**\n- Edgeware ecosystem developers can take advantage of [OnFinality’s newest addition to their workspace suite aka ‘Multi-Apps’](https://twitter.com/OnFinality/status/1542037285100584960?s=20&t=TQwGwziug-5C6tqB2ZlHIg), a container for the set of API keys, dashboards, and analytics all organised in one place.\n- Get to know more technical-oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-june-26/)’.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/).\n- EDGizens are welcomed to participate in [the research survey](https://forms.gle/XdjEyBEMY1EtZs3x9) by one of the ecosystem partners.\n- Community Treasury-funded Web3 Media platform, [New-Futures opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on EdgeEVM, please reach out to ops@edgeware.agency.\n- Community mem",
+  "content_url": "https://threads.common.xyz/e1d1f2e0-897a-4ec1-af35-578a9de62988.md",
+  "created_at": "2022-07-05T22:00:33.301Z",
+  "updated_at": "2025-03-18T05:53:27.860Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/6035",
+  "body_complete": true
+}

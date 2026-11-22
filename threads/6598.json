@@ -1,0 +1,15 @@
+{
+  "id": 6598,
+  "title": "EDG Visual Analysis - [Volume, Price, Correlation, Deviation, Market, Extrinsic]",
+  "body": "Below is visual analysis of our Edgeware asset. \n\nThis brief 6 page report providing an overview of:\n(LockDrop - August '22)\n\n- Average Daily Price\n- Total Volume Exchanged\n- Correlation\n- Price Deviation / Volatility \n- Market Capitalization and Asset Performance \n- Extrinsic Volume \n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/789139d0-e23c-4699-9519-2588a21feece.1660178880416)\n\n\n- Our running price average has reduced from .011 cents to .01\n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/ab49bc9d-9b03-450c-8e04-a8903b04999f.1660178930096)\n\n\n- Annual monthly comparison of our Total Volume (Top).\n- Annual monthly comparison of the Average Price (Bottom).\n\n\n- Notable August has already experienced the same 1M in volume received in July.\n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/6e8aeb1b-c9fe-4f36-a5c2-194aa6bf6b5d.1660178946233)\n\n\n- Linear Regression of the Price (green), providing the correlation of our Volume & Price.\n- Reference:  The closer the volume to the linear regression line, the higher the correlation. \n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/71bd577e-6567-4721-b54d-af9608adf61d.1660180384279)\n\n\n- Annual Price Deviation compared monthly.\n- Opinion: The correlation between volatility and volume is more apparent than price. \n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/dd554fd0-1fa2-49e7-a9a1-47d6b19900a3.1660180404937)\n\n\n- Comparative breakdown of Edgeware's Market Capitalization and performance since 2020. \n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/14c78086-9cad-4fce-9926-9ee6e85cbb4b.1660194366009)\n\n- Annual comparison of our Extrinsic Volume sorted monthly.\n- Notable: The chain activity for June & July maintained their volume, despite the decrease in exchange volume.",
+  "content_url": null,
+  "created_at": "2022-08-11T03:40:45.913Z",
+  "updated_at": "2025-03-17T23:17:15.650Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Zovern",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/6598",
+  "body_complete": true
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 18694,
+    "thread_id": 4119,
+    "address_id": 1067,
+    "body": "[@mrbulb](/edgeware/account/jXC7ghviUzVcVySg3eD8prB7C9m6VzK6cw2MTyMTDTUye5q) Can you please share the invoices/receipts from the law firm here?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-04-12T12:25:27.480Z",
+    "updated_at": "2022-04-12T12:25:27.480Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 18721,
+    "thread_id": 4119,
+    "address_id": 1335,
+    "body": "initial invoice is already there...",
+    "parent_id": 18694,
+    "content_url": null,
+    "created_at": "2022-04-12T18:13:05.210Z",
+    "updated_at": "2022-04-12T18:13:05.210Z",
+    "deleted_at": null,
+    "reply_count": 2,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 19597,
+    "thread_id": 4119,
+    "address_id": 1067,
+    "body": "Can you please add all the invoices with the amounts visible? Or can you please explain the purpose of hiding the amounts? (Asking just for maximum possible transparency.)",
+    "parent_id": 18721,
+    "content_url": null,
+    "created_at": "2022-05-01T13:49:23.704Z",
+    "updated_at": "2022-05-01T13:49:23.704Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 17882,
+    "thread_id": 4119,
+    "address_id": 1910,
+    "body": "**28.03.22 **\n\n- updated 7 day trailing average to £0.004 and reduced request from 3,125,000 to 1,875,000 EDG.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-03-28T17:51:54.244Z",
+    "updated_at": "2022-03-28T17:51:54.244Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Decent Partners"
+  }
+]

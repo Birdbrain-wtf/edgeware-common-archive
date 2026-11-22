@@ -1,0 +1,15 @@
+{
+  "id": 6007,
+  "title": "Kabocha genesis issuance, treasury and EDG and crowdloan distributions",
+  "body": "# ![](https://lh3.googleusercontent.com/eMEGCYsBxoDzAozCMcMxK_KoXy7ZZlU1KI49bXiJArrVF9t3F2Fe33DlMuyZ6uvOoqR7ZMkbiY0u83BWJzK0MzoUXHQow2ezPT_aNnp1M2hNZeVT4hiftmmSl301fUcujZH0d3x2WSWifQkJYg)**Kabocha genesis issuance, treasury and EDG and crowdloan distributions**\n# \n## **Total crowdloan contributions **\n\n[12,644 KSM from 478 contributors](https://parachains.info/auctions/kusama-36-41)\n\n## **Edgeware Snapshot block**\n\nKabocha's Edgeware allocation was determined via a snapshot of the chain at block number 12,186,935\n\n## **Total EDG supply at snapshot block**\n\n6,910,678,737.701199 (6.9B)\n\n## **KAB supply 1:1 EDG**\n\n6,910,678,737.701199 (6.9B)\n\nThe supply is then redenominated Kabocha 1/100 with EDG.\n\nThis leaves the genesis supply as:\n\n69,106,787.37701199 (69M)\n\n## **KAB Treasury**\n\nThe Kabocha treasury is created from the KAB issued to the Edgeware treasury at this snapshot block.\n\nKAB treasury = 6,437,924.018517766\n\nThis treasury has been set aside for crowdloan rewards and for Decentration's founder's reward and other setup costs, including[ Edgeware's recoup](https://gov.edgewa.re/discussion/3806-kabocha-funding-and-edgeware-recoup) which we are currently calculating, collators and general network contingency. \n\nMoving forward, Kabocha will not direct inflation into the treasury, but instead use our new[ Pallet_Mint](https://gov.edgewa.re/discussion/4852-rusty-crewmates-pallet_mint-development) which mints coins associated to approved proposals. \n\nThose new coins go into the beneficiary’s “Supersig” account, (enabled by [Pallet_Supersig](https://gov.edgewa.re/discussion/5374-pallet_supersig-joint-funding-proposal-with-w3f), which is another Kabocha innovation), Minting via Pallet_Mint is capped at a max inflation of 20% in year 1.\n\nThe first proposal to use the Pallet_Mint function will be the Decent Partner's founders year 1 crowdloan reward of 1.5% which is the same as Decentration Technical Steward). \n\n## **Crowdloan rewards ambiguity**\n\nThere is an ambiguity of ",
+  "content_url": "https://threads.common.xyz/56e780bd-ad28-4461-bd22-433ba7022691.md",
+  "created_at": "2022-07-04T13:10:08.212Z",
+  "updated_at": "2025-03-18T04:47:25.747Z",
+  "last_edited": null,
+  "comment_count": 4,
+  "profile_name": "Decent Partners",
+  "topic_id": 990,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/6007",
+  "body_complete": true
+}

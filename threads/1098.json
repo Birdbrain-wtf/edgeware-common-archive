@@ -1,0 +1,15 @@
+{
+  "id": 1098,
+  "title": "First Chrome Edgeware account management extension",
+  "body": "Dear all,\nI have written the first plugin for Edgeware Account management Chrome Extension :\n\nIt \n1) help user to send EDG to other accounts\n2) retrieve all information related to your Edgeware accounts such as balance, address and description name\n3) retrieve all block explorer information on Edgeware account address on https://edgeware.subscan.io/ link\n\nYou need to install polkadot{.js}  Chrome extension before.\n\nEdgeware Dapp is open source and is on below path:\n[https://github.com/comprobot/edgeware](https://github.com/comprobot/edgeware)\n\nEdgeware chrome extension is open source and is on below path:\n[https://github.com/comprobot/chrome_extension_edgeware](https://github.com/comprobot/chrome_extension_edgeware)\n\nWeb3 java script library is open source and is on below path:\n[https://github.com/comprobot/EdgewareWeb3JS](https://github.com/comprobot/EdgewareWeb3JS)\n\nThe link for Chrome plugin attached on below:\n[https://chrome.google.com/webstore/detail/edgeware-wallet/ophbpjjgeacldniaanhkjianakdioplh](https://chrome.google.com/webstore/detail/edgeware-wallet/ophbpjjgeacldniaanhkjianakdioplh)",
+  "content_url": null,
+  "created_at": "2021-03-30T04:01:27.038Z",
+  "updated_at": "2025-03-14T13:58:05.622Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "ronald",
+  "topic_id": 109,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1098",
+  "body_complete": true
+}

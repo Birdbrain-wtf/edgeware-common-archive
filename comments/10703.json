@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1166,
+    "thread_id": 10703,
+    "address_id": 1171,
+    "body": "**Hip-hip upgrade!**",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-09-05T00:04:25.971Z",
+    "updated_at": "2020-09-05T00:04:25.971Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Luis"
+  },
+  {
+    "id": 1161,
+    "thread_id": 10703,
+    "address_id": 6,
+    "body": "Woo!!! Amazing! Thank you for all the hard work Drew! This is yours and Alex's victory for sure.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-09-04T17:30:42.314Z",
+    "updated_at": "2020-09-04T17:30:52.062Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 1160,
+    "thread_id": 10703,
+    "address_id": 599,
+    "body": "Linking to ERUP 1 post: https://commonwealth.im/edgeware/proposal/discussion/541-edgeware-runtime-upgrade-proposal-1",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-09-04T16:55:07.996Z",
+    "updated_at": "2020-09-04T16:55:07.996Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  }
+]

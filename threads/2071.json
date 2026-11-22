@@ -1,0 +1,15 @@
+{
+  "id": 2071,
+  "title": "Developer Experience Update (1/3) Edgeware's focus on smart contracts -- 9/28/21",
+  "body": "## Month in advance and beyond\n\nHello everyone! September has been a big month for Edgeware as we have departed from Summer. There are quite a few things coming up for the developer community on Edgeware, and the posts over the next few days will be talking about some future plans, followed by strategies for developer growth. \n\n## **Edgeware’s focus on smart contracts**\n\nCurrently our smart contracts are able to be written and compiled through the use of both WASM and the EVM. However, as these technologies begin to mature, there seems to be a much greater shift towards Rust, and technologies that are built on top of Rust such as ink!. With this in mind, over the next 6-12 months we will continue building out our EVM presence on Edgeware, providing tools, resources and support. However, after this period of time, we should re-evaluate our options and establish a long term goal, due to the fact that Rust is becoming the more favorable option in this ecosystem. Although EVM is the dominant choice currently, this does not seem to be the case in a couple years as we begin to see more blockchains looking for more sophisticated software to be built from scratch which is hard to do with the EVM. This post will be a couple of highlighted point as to why we should slowly begin expanding our rust developer community, and the amount of resources that we have available from the treasury, pivoting in the direction of Rust and ink! smart contracts on Edgeware. This may prove extremely beneficial in the context of sustainability as it will give Edgeware the slight edge necessary to outperform competing smart contract chains, in turn capturing more of the developer market.\n\n**Why Rust?**\n\nWe need a better virtual machine than the EVM (Ethereum Virtual Machine), and especially we need something that is more efficient. We chose [WebAssembly](https://webassembly.org/) (Wasm). This is a virtual machine specification that is intended to match the semantics of physical machines in the re",
+  "content_url": "https://threads.common.xyz/d395aa8d-485a-483f-9fef-85dea5214c84.md",
+  "created_at": "2021-09-26T21:19:12.926Z",
+  "updated_at": "2025-03-15T18:13:00.926Z",
+  "last_edited": null,
+  "comment_count": 3,
+  "profile_name": "Cameron Nazarko",
+  "topic_id": 114,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2071",
+  "body_complete": true
+}

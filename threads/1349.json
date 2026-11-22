@@ -1,0 +1,15 @@
+{
+  "id": 1349,
+  "title": "The Cutting EDG: Week of June 7th",
+  "body": "**Highlights**\n- Edgeware Runtime Upgrade 4 is merged to the Edgeware testnet aka Beresheet. \n- Grant Dever shared the summary of his [‘Edgeware Culture and Values’ survey](https://commonwealth.im/edgeware/proposal/discussion/1335-culture-and-values-survey-summary-and-continued-discussion).\n- Drew Stone shared an [update to the Webb Mixer’s Grant](https://commonwealth.im/webb/proposal/discussion/1314-edgeware-grant-update-webb-mixer). \n- Edgeware Ecosystem through [Blockonomi’s vision](https://blockonomi.com/edgeware-guide/).\n- Upcoming AMAs: [PicoSwap](https://commonwealth.im/edgeware/proposal/discussion/1138-introducing-picoswap-and-pico) and [AllianceBlock](https://blog.edgewa.re/allianceblock-announces-decentralized-capital-market-on-edgeware-with-unique-defi-nft-approach/).\n\n\n**Ecosystem Updates**\n- Webb’s public test deployment of the first mixer is live on the Edgeware testnet aka Beresheet. Read more in the [Webb’s tech update](https://www.webb.tools/blog/tech-update-1).\n- Common Protocol [integrated Crust Network](https://blog.commonwealth.im/crust-integration/).\n\n\n**Governance**\n- The [proposal by Zien.io](https://commonwealth.im/edgeware/proposal/discussion/1129-proposal-bring-zien-nfts-via-whatsapp-to-edgeware) got funded by treasury for their social media-based NFT platform on Edgeware EVM is open for public voting through Referendum 42. {Referendum type: SuperMajorityApprove, Democracy Proposal ID:37, Treasury Proposal ID:32}\n- During the creation of the SimpleMajorityApprove referendum, the ‘How to make it in Crypto Media - an Original Podcast Series’ proposal was accidentally passed as a Council Motion 48 {Treasury Proposal ID:33}. As this goes against the community principles, [Remz immediately refunded the amount to the treasury](https://edgeware.subscan.io/extrinsic/0x3aab403c7929a9554028f622e265c4b992049d38f8a8c223767f2150c7c73da5) on the behalf of Joon Ian Wong and Pet Berisha with the promise that Remz will be refunded the exact amount they wil",
+  "content_url": "https://threads.common.xyz/e6c20268-4586-4847-ba3f-4d0975d8b657.md",
+  "created_at": "2021-06-14T16:08:58.490Z",
+  "updated_at": "2025-03-17T22:40:22.176Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1349",
+  "body_complete": true
+}

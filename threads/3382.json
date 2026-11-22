@@ -1,0 +1,15 @@
+{
+  "id": 3382,
+  "title": "EDG Community Update: Jan 10th, 2022",
+  "body": "**Highlights**\n- Edgeware solochain achieved [the milestone of 10,000,000 blocks](https://twitter.com/EdgewareDAO/status/1482446243401977864?s=20)!\n- [The crowdloan waitlist](https://kabocha.network/) is open for Kabocha.\n- All validators are requested to upgrade their nodes to the [release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP4/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP4/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n\n\n**Ecosystem Updates**\n- Get to know more technical oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-jan-9th/)’.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/). \n- Community Treasury-funded Web3 Media platform, [New-Futures have opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n\n\n**Governance**\n- No active referendum. Expected upcoming proposal: [GMI Crypto Media (How to make it in Crypto Media) - Top up proposal](https://gov.edgewa.re/discussion/3255-gmi-crypto-media-how-to-make-it-in-crypto-media-top-up-proposal).\n\n\n**Community**\n- The Calendar of events has many items each week, meetings on NFTs, DAOs, chain strategy and governance- whatever you're interested in, [take a look](https://gov.edgewa.re/proposal/discussion/1059-edgeware-community-calendar-add-to-your-gcal).\n- Recent/trending ",
+  "content_url": "https://threads.common.xyz/bc3a3b3a-a92f-47fc-b895-b18bf28c38e2.md",
+  "created_at": "2022-01-19T14:40:00.691Z",
+  "updated_at": "2025-03-17T23:58:48.752Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/3382",
+  "body_complete": true
+}

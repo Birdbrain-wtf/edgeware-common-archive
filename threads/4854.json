@@ -1,0 +1,15 @@
+{
+  "id": 4854,
+  "title": "Decentration: Completed and ongoing work",
+  "body": "## Version 2 (post vote)\n29th May 2022\n\n- Added responses in comments from main thread into main proposal in 'Additional Clarity' section.\n\n\n## Date\n11th May 2022\n\n## Builder\nDecentration ([@Ramsey](/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT))\n\n## Network Services \n[Decent Partners](https://gov.edgewa.re/discussion/3650-decent-partners-an-introduction-to-network-services)\n\n## Networks\n[Edgeware](https://edgewa.re)\n[Kabocha](https://kabocha.network)\n\n## Summary\nThis proposal is to cover completed and ongoing work by Decentration (aka [@Ramsey](/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT)) across a range of areas. \n\nDate from: 2nd April 2022 \nDate to: 8th May 2022\n\n## Previous milestones (already funded)\n\n- Edgeware Road\n- Parachain, relay and bridge research \n- Done\n\n\n- Kabocha Steward\n- Startup Kabocha and Launch Crowdloan\n- Done\n\n\n## Pallets design/development \n\n- Kabocha startup steward duties \n- General technical startup founder role\n- Ongoing\n\n\n- (pallet_mint) v1 -     \n- Minting functionality for Kabocha\n- Done \n\n\n- (pallet_dorg)\n- multisig improvements for Edgeware, Kabocha and all Substrate Chains\n- ongoing\n\n\n-  (pallet_proposals) - spec design\n- on-chain proposals\n- ongoing\n\n\n- Steward Kitchen recipes\n- Working with Elio \n- done \n\n\n- Steward Rusty Crewmates\n- Onboard Rusty crewmates (Timothee, charles and Nathan)\n- done\n\n\n- Steward kabocha repos\n- (front end (Jan, Johan), docs, design, refinement)\n- ongoing\n\n\n- Kabocha: Simplification of messaging\n- Working with [@mrbulb](/edgeware/account/jXC7ghviUzVcVySg3eD8prB7C9m6VzK6cw2MTyMTDTUye5q) \n- ongoing\n\n\n- Kanban board coach\n- Edgeware, kabocha public boards \n- ongoing \n\n\n- Steward Edgeware tasks trello board - \n- Guide on upgrade strategy (unblocking)\n- ongoing \n\n\n- Multi-chain work \n- Maintaining Pop-Art relay \n- ongoing \n\n\n## **Additional clarity**\n\nAfter milestone 1 completed: \n\n[@Decentration](/edgeware/account/mHDNswFgLQiiXGwkWCXgpwE27eppYppa96cMNWzT2kQF27z) pla",
+  "content_url": "https://threads.common.xyz/295d39af-ed3e-4b14-97f4-5eb120012b44.md",
+  "created_at": "2022-05-11T18:56:19.773Z",
+  "updated_at": "2025-03-18T05:20:44.723Z",
+  "last_edited": null,
+  "comment_count": 19,
+  "profile_name": "Decent Partners",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4854",
+  "body_complete": true
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 41520,
+    "thread_id": 8455,
+    "address_id": 11475,
+    "body": "Hi [@Bharathcoorg](https://gov.edgewa.re/edgeware/account/i1tffC8QVVUgGb8RjazGRz72SDxtP35kqa2RB7vnVhjRHPV) would it be possible to have a bridge on to Arbitrum?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-12-15T18:34:53.074Z",
+    "updated_at": "2022-12-15T18:34:53.074Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Depth"
+  },
+  {
+    "id": 41534,
+    "thread_id": 8455,
+    "address_id": 43331,
+    "body": "Yes. It's already supported. All popular EVM blockchains are supported. You want me to add EDG to Arbitrum?",
+    "parent_id": 41520,
+    "content_url": null,
+    "created_at": "2022-12-15T20:04:10.072Z",
+    "updated_at": "2022-12-15T20:04:10.072Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "bharathcoorg"
+  },
+  {
+    "id": 41226,
+    "thread_id": 8455,
+    "address_id": 1335,
+    "body": "Hey [@Bharathcoorg](/edgeware/account/i1tffC8QVVUgGb8RjazGRz72SDxtP35kqa2RB7vnVhjRHPV) are any of these options 'trustless' or do they require a multisig escrow type account? Just wondering if there was any recommendation you'd make on the security of each.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-12-12T21:00:46.578Z",
+    "updated_at": "2022-12-12T21:00:46.578Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 41375,
+    "thread_id": 8455,
+    "address_id": 43331,
+    "body": "This bridge is decentralized and trustless, just like the Anyswap/Multichain Bridge. We want smart contract audits and have already requested quotes from Certik, Verichain, and Hacken.\nBridges are always a favorite place for hackers. We have nodes running in AWS for this bridge; currently, it's a single account used for signing transactions. I want to add more nodes and keys using multi-signature in the next upgrade.",
+    "parent_id": 41226,
+    "content_url": null,
+    "created_at": "2022-12-14T10:15:59.769Z",
+    "updated_at": "2022-12-14T10:15:59.769Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "bharathcoorg"
+  }
+]

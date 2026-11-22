@@ -1,0 +1,81 @@
+[
+  {
+    "id": 42639,
+    "thread_id": 8522,
+    "address_id": 2923,
+    "body": "Hi Bharathcoorg,\n\nI like this particularly the Neo bank idea.\nThese types of things that have potential to really boost Edgeware.\n\nLooking forward to seeing this progress.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-12-29T04:12:34.621Z",
+    "updated_at": "2022-12-29T04:12:34.621Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Edge"
+  },
+  {
+    "id": 42637,
+    "thread_id": 8522,
+    "address_id": 3471,
+    "body": "[@Bharathcoorg](/edgeware/account/i1tffC8QVVUgGb8RjazGRz72SDxtP35kqa2RB7vnVhjRHPV) I fully support your recovery plan. It is pleasing to see someone is focusing on a solution not just the problems.\n\n\nBugz",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-12-29T03:53:15.502Z",
+    "updated_at": "2022-12-29T03:53:15.502Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "BUGZ"
+  },
+  {
+    "id": 42420,
+    "thread_id": 8522,
+    "address_id": 17657,
+    "body": "100k for marketing incentives on the dex is steep considering the current treasury. \n\nin your previous proposals you requested for around roughly 20k for the delivery of a dex and a bridge, but made no mention of the costs require to operate them or any token economics in relation to fees and value capture to the dapp itself - im guessing however you must have ideated / modeled this however and i must have just missed it in reading up on the proposal / project - if so that should account for how to launch your dex i suppose? \n\nwhile the idea of investing in rwa via neo is interesting; instead i would suggest you pivot your dex / bridge into a functionality that would allow exposure to rwa directly (a hard task i agree), or building cross platform parternships with dapp that provide exposure to rwa on a dapp level not on a single user acting as gateway to rwa.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-12-27T18:54:07.207Z",
+    "updated_at": "2022-12-27T18:54:07.207Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "ash|inthewild"
+  },
+  {
+    "id": 42650,
+    "thread_id": 8522,
+    "address_id": 43331,
+    "body": "I proposed $10k for EVM Tools Development that includes DEX, Bridge, Faucet, Multisender, Farming, Lending/Borrowing, and a multichain wallet that makes it easy to trade EDG on other blockchains in a single dapp. \nWe don't have a chance to compete with QuickSwap, PancakeSwap, and others because they are already used by millions of users. But we have to target new blockchains; they're hard to find but will be helpful. They will add liquidity for new tokens. It's a multichain DEX; we can add any new blockchain easily.\nThere is no tokonomics for these types of small projects. If we get good liquidity, then we can distribute fees to Edgeware stakeholder. \nI already have my ID card from a European country. Registration will take 2-3 days for a company, but a special licence is required for crypto only in case I can provide legal services to Edgeware.\nFor Neo Bank, we don't need a banking license; it's a white-label service that includes compliance as a service. An open banking dashboard is possible. We can integrate our own fiat-to-crypto gateway, like Banxa, with the DEX. \nI will write a separate thread about Neo Bank once everything is ready.",
+    "parent_id": 42420,
+    "content_url": null,
+    "created_at": "2022-12-29T05:23:47.369Z",
+    "updated_at": "2022-12-29T05:24:40.184Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "bharathcoorg"
+  },
+  {
+    "id": 42698,
+    "thread_id": 8522,
+    "address_id": 17657,
+    "body": "ty for the explanation. \n\nimo the neo banking route for a on/off ramp for users and potential future users sounds great; but has regulatory issues in terms of how value flows of edge and onto rwa's directly and vice versa. it is my opinion that this risk is mitigated by looking to build value for edge with other dapps in the system for liquidity flows while creating a value for the underlying asset or token.",
+    "parent_id": 42650,
+    "content_url": null,
+    "created_at": "2022-12-29T14:21:41.642Z",
+    "updated_at": "2022-12-29T14:21:41.642Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "ash|inthewild"
+  },
+  {
+    "id": 42237,
+    "thread_id": 8522,
+    "address_id": 2168,
+    "body": "This is a bit depressing that nobody really comments on this message, but I guess that people are being a bit overwhelmed or intimidated: this is not often that people bring in some positive vibes, especially since many people feel depressed. Also your plans are very ambitious and this is hard to comment or have a view on them. \nI don't exactly know how to answer this either so I'll share some random thoughts.\n\nA/ Your plan for DEXes and struggle with investors:\nYes liquidity is paramount for exchanges to function well, and there is a huge competition for those. You can see that the distribution of the funds available follow a power law for equivalent functionalities, which means that there is only one player. So to overcome this in practice, different DEXes play on two levels: 1/ introducing other functionalities that cover a different set of financial tradeoffs not available with the major player, and 2/ introduce the same thing, but on a different chain. In the case of 2, this only gets meaningful if the hosting chain itself can get enough traction.\nThat's why people most likely won't be bullish on funding DEXes unless they bring something totally specific in the financial spectrum. I think this makes sense because dislodging existing players, even with a much better UX seems to be a dead battle.\nYou've proven that you can deliver better and faster than many project that are backed by major players, so I think your issues with VC funding should really be solvable. But this is probably much more difficult if you are in India, the sad truth being that being in SV makes things much easier to get contacts. This is still where most of the money is. Maybe you also had bad timing, since 2022 was the year of a bear market. This is not clear to me whether we have hit the bottom, but I know for sure that some people and investors think so, and are aggressively starting to deploy capital again. If you think the bottom is priced in, you should invest massively right now. \nFr",
+    "parent_id": null,
+    "content_url": "https://comments.common.xyz/4d660890-e656-4e4a-ae8d-df14ac1aec3b.md",
+    "created_at": "2022-12-24T20:02:20.093Z",
+    "updated_at": "2022-12-25T03:01:35.168Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "remz",
+    "full_text": "This is a bit depressing that nobody really comments on this message, but I guess that people are being a bit overwhelmed or intimidated: this is not often that people bring in some positive vibes, especially since many people feel depressed. Also your plans are very ambitious and this is hard to comment or have a view on them. \nI also don't exactly know how to answer this so I'll share some random thoughts.\n\nA/ Your plan for DEXes and struggle with investors:\nYes liquidity is paramount for exchanges to function well, and there is a huge competition for those. You can see that the distribution of the funds available follow a power law for equivalent functionalities, which means that there is only one player. So to overcome this in practice, different DEXes play on two levels: 1/ introducing other functionalities that cover a different set of financial tradeoffs not available with the major player, and 2/ introduce the same thing, but on a different chain. In the case of 2, this only gets meaningful if the hosting chain itself can get enough traction.\nThat's why people most likely won't be bullish on funding DEXes unless they bring something totally specific in the financial spectrum. I think this makes sense because dislodging existing players, even with a much better UX seems to be a dead battle.\nYou've proven that you can deliver better and faster than many project that are backed by major players, so I think your issues with VC funding should really be solvable. But this is probably much more difficult if you are in India, the sad truth being that being in SV makes things much easier to get contacts. This is still where most of the money is. Maybe you also had bad timing, since 2022 was the year of a bear market. This is not clear to me whether we have hit the bottom, but I know for sure that some people and investors think so, and are aggressively starting to deploy capital again. If you think the bottom is priced in, you should invest massively right now. \nFrom a seed investor perspective, there is an incentive to fund every (realistic) deal you can as long as you have capital. It may sound crazy but there has been an old study on more than 3000 deals that showed exactly this: the marginal benefit in investing in one more project at seed stage exceeds the cost on average. This is only true for seed though, and for an expected holding period of 4 years or more, if I recall correctly. In crypto, it is likely to apply too, but with a lower holding period, so many VCs are just incentivised to invest in anything they can without even needing to understand. You just want to conduct basic DD to avoid the most obvious scams.\nMaybe you should talk to Ryan Zurrer. He has exited capital from the project 18 months ago, but he has been backing up the founders of Edgeware so he knows the project. He runs an investment boutique (I would not call him a VC per se) and has been an investor in crypto for many years. Whatever the outcome is, I'm convinced that talking to someone like him would not hurt, as he has years of experience into the investment business, and he is the kind of person that would give you some detailed feedback, which is worth a ton in itself.\n\nB/ Treasury \nThere is an adverse game played by the treasury. This is true for all chains, but it has a strong negative feedback loop in bear markets. This is simply that fixed USD costs denominated in terms of the token increase as the token value decreases, and the tokens to cover those costs are (at least partly) sold in the market. So there is a point at which, the operating costs only are responsible for a major part of the token value decrease, and this effects can only get worse and worse. I recall some quote from Tetranode (a big defi player on Ethereum), that is involved in helping with tokenomics for many projects, on the importance of slow growth in bear markets to prevent \"to bleed to treasury to oblivion\". I like this way of putting it because I think it really describes exactly what the projects are struggling with.\n\nThere was a simple way to prevent this, and we all wanted to do it: selling tokens for USD when we were in a much better position. This is not that we forgot to do it, or that we were lazy, but there was no way for the treasury to acquire assets in spring 2021, when we floated the idea (now, we could in theory do it through bridging layer, but it would not make any sense). Using multisig would not have been a good way of doing it and also would have brought lots of legal constraints, so nothing was done. We could still have done it last year, but this was a much harder decision: when your token is down 10x is it a great decision to sell a massive amount to acquire some stable asset? Yes if you think that it can drop 10x more, but you just can't forecast this. I am not sure the vote would have been popular. So here we are. \nIt's not like we made no mistake: we should have been better on the execution side, and force it through in any way we could, but the worst thing is that there are not many lessons to learn there: we knew what to do, but did not do it for various reasons.\n\nI think we agree that marketing is no solution to our problem. It could be a very short term positive in bull markets, if made very aggressively, but in bear market, it's pretty much useless. It's also unlikely to bootstrap any real growth. The point of marketing should not be to create a short term pump to allow some people to exit at a better price, but to help bootstrapping growth. \nOn airdrops, I don't think it's a good idea at all: we saw it when Binance released their tokens, and it mostly created a short pump (due to the announcement, more than from people getting airdropped suddenly getting interested) and then a bigger dump overall. Again timing matters, but there are many issues with airdrops, not only about the fact that 95% of the recipients would be hunters that would sell directly but most likely the last 5% would not do anything with them. This is because in many jurisdictions, this is a taxable income, and so spam airdrops are a pain, because you don't want to miss taxable events, often the price is badly defined, etc. This is a huge legal struggle.\n\nC/ Legal entity\nHaving a legal entity is still paramount for many operations, and a pain that's not worth it in the absolute. \n\n- Note aside, I think we should just drop the case on the Binance listing that has been on hold for many months and does not make any sense now. I know many people are waiting for this, but being totally rational, we should all realise that this won't have any positive price effect as people hope, and the process will be expensive since we don't have sustained liquidity, our deposit would be eaten within a couple of months and we would get delisted. Again, if only to allow a couple of folks to exit at a better price, this is far too high of a price to pay. A listing on Binance could start make sense again when we are back to a top 300. Now, it's just a waste of time, efforts and money. -\n\nBut back to your idea of a neobank that's blockchain backed. I truly think there is a real win-win there, and eastern market are better prepared for this. One of the earliest player in that field, Bitwala (later renamed Nuri), just closed out of insolvency last week, but there is still a huge demand for better financial tools, the problem of Bitwala was that its crypto business got choked by a lot of uncertain regulatory constraints, while on the pure fiat neobank side, having to compete with major players like Revolut, with little resources, resulting in a vastly inferior UX. I think your focus on total transparency is something that people will demand, and this is neobanking \"done right\" in my opinion. If any such app could get traction, it would set a de-facto standard, as there should be no justification to operate differently. \nThe plan you have is so ambitious with lots of moving parts (although you seem to have already spent time dealing with many of them), that I feel a bit scared. In its current form, it is unclear that Edgeware has the shoulders to bear with this alone, even if we assume positive feedback loops would reinforce both entities increasingly."
+  }
+]

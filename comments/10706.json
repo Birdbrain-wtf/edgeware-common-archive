@@ -1,0 +1,80 @@
+[
+  {
+    "id": 545,
+    "thread_id": 10706,
+    "address_id": 599,
+    "body": "This should be updated in a soon-to-be-released release!",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-03-02T05:22:36.672Z",
+    "updated_at": "2020-03-02T05:22:36.672Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 543,
+    "thread_id": 10706,
+    "address_id": 246,
+    "body": "already voted a week ago, but why the title here shows unknown proposal?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-02-29T14:50:52.780Z",
+    "updated_at": "2020-03-04T00:22:13.919Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "J Leon Y"
+  },
+  {
+    "id": 586,
+    "thread_id": 10706,
+    "address_id": 170,
+    "body": "This is fixed now :)",
+    "parent_id": 543,
+    "content_url": null,
+    "created_at": "2020-03-04T00:22:13.762Z",
+    "updated_at": "2020-03-04T00:22:13.762Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "dillchen"
+  },
+  {
+    "id": 359,
+    "thread_id": 10706,
+    "address_id": 574,
+    "body": "Any reason why there is no Title?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-02-19T09:10:49.638Z",
+    "updated_at": "2020-02-19T09:13:15.303Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "corkus"
+  },
+  {
+    "id": 360,
+    "thread_id": 10706,
+    "address_id": 599,
+    "body": "We're looking into it now!",
+    "parent_id": 359,
+    "content_url": null,
+    "created_at": "2020-02-19T09:13:14.961Z",
+    "updated_at": "2020-02-19T09:13:14.961Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 358,
+    "thread_id": 10706,
+    "address_id": 185,
+    "body": "This is the first democracy proposal! We want to increase the validate count by 25 nodes from input by Melea and others in a recent thread: [https://commonwealth.im/edgeware/proposal/discussion/309-increase-the-number-of-active-validators-on-mainnet](https://commonwealth.im/edgeware/proposal/discussion/309-increase-the-number-of-active-validators-on-mainnet)\n\nIn addition, we'll work to tidy up this UI so that the proposal contents are clearer on Commonwealth.\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/16274499-8e7f-465d-84da-bcfec0b4c3cc.1582102616740)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-02-19T08:58:17.455Z",
+    "updated_at": "2020-02-19T08:58:17.455Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Drew"
+  }
+]

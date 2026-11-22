@@ -1,0 +1,15 @@
+{
+  "id": 1105,
+  "title": "Validator Campaign: JelliedOwl",
+  "body": "I'm not sure that the community validator program is still active, but this seemed like a good way to introduce my validators anyway. I hope that you will consider adding them to your nominated set.\n# Questions for Validators\n## What is your experience as a validator or node operator?\nI’ll be up front and say that I’m not coming from a commercial server operations background – I have 20 years of computer-based mechanical engineering experience. I’ve been running various non-blockchain development cloud servers for a while, for various small personal projects. I have, however, been running a bank of three validators on the Beresheet testnet for a few weeks without incident (other than a few intentional tests to make sure I understand what not to do).\nI am also abundantly cautious with updates – I keep my machines up-to-date, but non-urgent updates are done gradually and always tested on non-critical machines first.\n## What’s your technical setup? (cloud vs. on-premise; software stack; key management)\nCurrently, the servers are on AWS virtualised instances, in three different regions with everything firewalled away from the servers apart from the Edgeware P2P traffic. The deployment is based on the Polkadot secure validator project (with a few adjustments to close unnecessary ports), which also allows me to quickly add / replace servers if needed.\nThey are all running monit for monitoring, which should catch issues early, and they are sending updates to a mmonit server which sends email alerts on detected errors.\nKeys are generated on-server, with an off-line copy transferred to my personal machine (and stored on a disconnected USB key) in case I critically need to move a key set to another server - though I would always use the key rotation options for preference if I need to move validation to another machine.\nI am also running a script (off-validator) that should automatically claim the era payout rewards within an hour or so of them becoming available, so nobody s",
+  "content_url": "https://threads.common.xyz/51f3011e-8954-4933-b026-2e3bfbe2251d.md",
+  "created_at": "2021-04-05T15:40:42.251Z",
+  "updated_at": "2025-03-17T22:25:27.816Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "JelliedOwl",
+  "topic_id": 117,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1105",
+  "body_complete": true
+}

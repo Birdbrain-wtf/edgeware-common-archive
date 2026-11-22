@@ -1,0 +1,15 @@
+{
+  "id": 5655,
+  "title": "Website V3 QA Audit - //edgewa.re",
+  "body": "Website V3 QA Audit\n(6/16/2017)\n\n\nDetails of this audit have been discussed on this week's Design and Mission Planning call\n\n\nTotal Link Updates:  21\nDocumentation Updates: 2\nLinks for Removal: 3\n\n\n# Footer\n\nBelow is a submission for a layout update \n\n- Community lists links to restructured services\n- Society appears twice change to Interface\n\n\n\n**Community **(_**1 **removal_)\n\n1. Interface - [https://www.edgeware.app/?rpc=wss%3A%2F%2Fmainnet.edgewa.re#/explorer](https://www.edgeware.app/?rpc=wss%3A%2F%2Fmainnet.edgewa.re#/explorer)\n2. Governance [https://gov.edgewa.re/](https://gov.edgewa.re/)\n3. Newsletter/Blog - [https://blog.edgewa.re/](https://blog.edgewa.re/)\n4. Discord - [https://discord.com/invite/edgeware](https://discord.com/invite/edgeware)\n5. Society - [https://edgeware-website-git-jan-website-v3-edgeware-agency.vercel.app/collectives](https://edgeware-website-git-jan-website-v3-edgeware-agency.vercel.app/collectives)\n6. Swag Store - [https://edgeware.store/#](https://edgeware.store/#) (_Dead Link_)\n\n\n\n**Developers**\n\n1. Build - [https://edgeware-website-git-jan-website-v3-edgeware-agency.vercel.app/developers](https://edgeware-website-git-jan-website-v3-edgeware-agency.vercel.app/developers)\n2. Block Explorer - [https://edgeware.subscan.io/](https://edgeware.subscan.io/)\n3. GitHub - [https://github.com/edgeware-network](https://github.com/edgeware-network)\n4. Documentation - [https://docs.edgeware.wiki/](https://docs.edgeware.wiki/)\n5. Validators - [https://docs.edgeware.wiki/quickstart/set-up-a-validator](https://docs.edgeware.wiki/quickstart/set-up-a-validator)\n6. Keygen - [https://edgeware-website-git-jan-website-v3-edgeware-agency.vercel.app/keygen](https://edgeware-website-git-jan-website-v3-edgeware-agency.vercel.app/keygen)\n\n\n\n**Decentralization **(_**1** link & **1** document update_)\n\n1. Privacy Policy - [https://edgeware-website-git-jan-website-v3-edgeware-agency.vercel.app/privacy](https://edgeware-website-git-jan-website-v3-edgeware-agency.v",
+  "content_url": "https://threads.common.xyz/afcc06da-c84d-4465-ac81-d17efe145137.md",
+  "created_at": "2022-06-16T22:19:19.936Z",
+  "updated_at": "2025-03-18T16:26:04.414Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Zovern",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/5655",
+  "body_complete": true
+}

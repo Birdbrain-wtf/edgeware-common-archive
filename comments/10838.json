@@ -1,0 +1,15 @@
+[
+  {
+    "id": 15706,
+    "thread_id": 10838,
+    "address_id": 1782,
+    "body": "**Proponent:** jH3nezdr2kn7M4jqoqVz27AUcPP99WgB1QgkhL5UJCu8b2d\n\n**Date: 18th February:** 2022\n\n**Requested EDG:** 525,391.29\n\n**Short description**: Ongoing costs for the running of high performance, scalable, and reliable public infrastructure for Edgeware Network.\n\n---\n\nOver the Q4 2021 period OnFinality served a total of 112,444,934 responses through our Edgeware API service and over 193 GB of data egress. Our highest day saw over 8 million responses in a single 24 hour period and at the end of the period the 7 day average is 786,994 responses each day.\n\n![](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdqAQJTJDnsQEIXUwgZllnAq6WyAUDSHoXY9vlqznLwe20pbRw4E3shaPulL4pJ31_hS9_To2mi62m/pubchart?oid=577419954&format=image)\n\n[Full description of the proposal can be read here](https://docs.google.com/document/d/11sRpRJk68IC7udGY-xLSPd6CyFj258wlff7d_lEqU2o/edit?usp=sharing)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-02-17T21:03:53.248Z",
+    "updated_at": "2022-02-17T21:05:32.060Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "OnFinality"
+  }
+]

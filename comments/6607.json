@@ -1,0 +1,28 @@
+[
+  {
+    "id": 28016,
+    "thread_id": 6607,
+    "address_id": 21680,
+    "body": "I support this and I can help you get setup in Germany if you want.\n\nSidenote:, Something I think we should look more into is deploying nodes with podman(podman.io), this would be cool to make edgeware and kabocha the first substrate chains that support podman as more and more devops people are switching to that and ditching docker",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-08-15T09:31:04.849Z",
+    "updated_at": "2022-08-15T09:31:04.849Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Flipchan"
+  },
+  {
+    "id": 27926,
+    "thread_id": 6607,
+    "address_id": 13474,
+    "body": "I fully support this, and support JelliedOwl as one of the best examples of community contributors to the Edgeware and Kabocha community. \n\nThis is a healthy variation from just relying on OnFinality as infrastructure. It's a grassroots version, with more hands on support. \n\nOne thing missing here, which you did touch upon, is the expenses from the start of testing on Kabocha, which required time and resources, which i can definitely vouch for. RPC node, testnet and mainnet collators. Though we can make a separate proposal for the infrastructure expenses.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-08-13T10:47:11.044Z",
+    "updated_at": "2022-08-13T11:00:23.743Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey_Decentration"
+  }
+]

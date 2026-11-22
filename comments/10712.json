@@ -1,0 +1,28 @@
+[
+  {
+    "id": 2076,
+    "thread_id": 10712,
+    "address_id": 287,
+    "body": "This proposal would approve a treasury proposal to fund the first phase of interface improvements: [https://commonwealth.im/edgeware/proposal/discussion/960-proposal-extending-commonwealth-with-a-focus-on-edgeware](https://commonwealth.im/edgeware/proposal/discussion/960-proposal-extending-commonwealth-with-a-focus-on-edgeware)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-01-29T18:20:42.969Z",
+    "updated_at": "2021-01-29T18:20:42.969Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 2062,
+    "thread_id": 10712,
+    "address_id": 2697,
+    "body": "What is this exactly?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-01-28T02:32:21.570Z",
+    "updated_at": "2021-01-28T02:32:21.570Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "The Kid"
+  }
+]

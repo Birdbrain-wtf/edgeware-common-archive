@@ -1,0 +1,15 @@
+{
+  "id": 10306,
+  "title": "Builders Program - New Updates and Roadmap",
+  "body": "Hello Everyone, I am posting on this forum after a long time. This is not a proposal. I just want to post something about what I'm doing for Edgeware now. Let's take this as a small roadmap too.\n\nHere is the current status of my funded projects:\n\n**Block Explorer: **Hybrid Explorer is 75% finished; the smart contract verification process is pending. I will complete this once we get more transactions. Only a few people use the EVM side, and that's bad. Kabocha and Soupcan Explorers are offline for now. Currently, Mainnet and Beresheet EVM Explorers are online.\n\n**Android Wallet:** The first version of the wallet is in the Play Store and is running without any bugs. First, I thought I could upgrade this wallet by adding some functions, but now I have different plans. You can read about it in the \"New Plans\" section below.\n\n**Browser Wallet:** The Browser Wallet extension is in the Firefox web store. Google Chrome and other browsers are forcing Manifest V3. It's a big task to do it later, once all the priority tasks are done.\n\n**iOS wallet: **Submitted to the Apple Store, but it's in \"pending\" status. They want me to remove the embedded Dapps browser. Like the Android app, I have a different plan for this.\n\n**IDO launchpad:** I tried my best to design a unique IDO launchpad and gave this project to a development team. It's 95% complete. I will write a separate thread on this once it's ready. It was in the first funding request. The average rate for the funding was 0.00342, but I had to use this to fill the rate of my third proposal. As we are using a development firm for full functionality, it's around $25/hour and 250+ hours spent on this. It's already over the budget; I need at least 70% of the budget as a top-up with a higher reference price (0.001), that will be used for liquidity in DEX and Bridge. I won't sell any tokens from now on. I prefer to hold EDG. I couldn't hold EDG from my last proposal because I must use USDT for my work.\n\n**EVM Tools: **I delivered DE",
+  "content_url": "https://threads.common.xyz/388ff2d3-2009-45a2-9ad3-9f73743f3605.md",
+  "created_at": "2023-03-05T18:42:48.466Z",
+  "updated_at": "2025-03-18T15:38:19.110Z",
+  "last_edited": null,
+  "comment_count": 7,
+  "profile_name": "bharathcoorg",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/10306",
+  "body_complete": true
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 41276,
+    "thread_id": 8013,
+    "address_id": 1067,
+    "body": "Total incentives for 2 milestones: 10000 USD\n30-day trailing median price per EDG: 0.00049 USD\n\nIncentives in EDG: 20408163.3\nLiquidation buffer (10%): 2040816.33 {Unused buffer will be returned back to the treasury.}\n\nTotal in EDG: 22448979.63\nMulti-sig address (3/5): hbgXkqoZBFDaW9KsaL2wgDm6xehvjMdaydNcRk673tHcrZG",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-12-13T17:31:48.644Z",
+    "updated_at": "2022-12-13T17:34:47.112Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 40879,
+    "thread_id": 8013,
+    "address_id": 43331,
+    "body": "Edgeverse EVM Bridge  : [https://bridge.edgeverse.exchange](https://bridge.edgeverse.exchange)\n\nMore Information : [Edgeverse-crosschain-evm-bridge](https://gov.edgewa.re/discussion/8455-edgeverse-crosschain-evm-bridge)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-12-09T20:16:16.225Z",
+    "updated_at": "2022-12-09T20:16:49.838Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "bharathcoorg"
+  }
+]

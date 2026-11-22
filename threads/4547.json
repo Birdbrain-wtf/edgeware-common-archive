@@ -1,0 +1,15 @@
+{
+  "id": 4547,
+  "title": "Treasury Tip: Voluntary contribution by a whitehat bounty hunter",
+  "body": "This is an appreciation post for the voluntary contribution of reporting the possibility of email spoofing for the Edgeware Agency email. The contributor tipped us off about a setting in the Edgeware Agency email DNS that would have allowed spoofing the agency emails. \n\nThe details are mentioned below:\n\nThe issue is related to Misconfigured DMARC on Email Domain.\n\nBug classification :   Server Security Misconfiguration < Mail Server Misconfiguration < No Spoofing Protection on Email Domain description :\n\nWhat is DMARC?\n\nDomain-based Message Authentication Reporting and Conformance (DMARC) is a free and open technical specification that is used to authenticate an email by aligning SPF and DKIM mechanisms. By having DMARC in place, domain owners large and small can fight business email compromise, phishing and spoofing.\n\nWhy Use DMARC for Email?\n\nEmail is involved in more than 90% of all network attacks and without DMARC, it can be hard to tell if an email is real or fake. DMARC allows domain owners to protect their domain(s) from unauthorized use by fighting phishing, spoofing, CEO fraud, and Business Email Compromise\n\nsteps to check:\n\nVisit the url : [https://mxtoolbox.com/SuperTool.aspx?action=mx%3aedgeware.agency&run=toolpage](https://mxtoolbox.com/SuperTool.aspx?action=mx%3aedgeware.agency&run=toolpage)\n\nYou can see : No DMARC record found\nSteps to Reproduce:\n\n    <?php $to = \"VICTIM@example.com\"; $subject = \"Get Free Airdrops\"; $txt = \"Click below to get airdrops - [VIRUS LINK HERE]l\"; $headers = \"From:  ops@edgeware.agency \"; mail($to,$subject,$txt,$headers); ?>\n\nimpact:\n\nDue to this vulnerability, any hacker can send a forged email to your customers using your domain .Thus, getting sensitive information of your customers like login details,personal information,forced-download of a virus/malware etc.\nAlso when an attacker sends an email to your customers asking them to change their password or to get airdrops of your coin/token or even buy your product on disco",
+  "content_url": "https://threads.common.xyz/df331ff2-58a1-477c-a67d-2644c35600a6.md",
+  "created_at": "2022-04-23T03:06:22.769Z",
+  "updated_at": "2025-03-15T09:23:41.637Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Vismay Joshi",
+  "topic_id": 1051,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4547",
+  "body_complete": true
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 88634,
+    "thread_id": 24944,
+    "address_id": 1067,
+    "body": "The batched **Referendum #152** with the **Remark-based proposal** (for the community's mandate to spend 1550 USDT from the diversification fund A) and the **Treasury proposal #123** has been approved by the community through Democracy Proposal #97 with SuperMajorityApprove bias:\n\nProposed Treasury proposal #123: https://edgscan.ink/#/extrinsics/24049105-2\n\nNoted Preimage with batched proposals: https://edgscan.ink/#/extrinsics/24066816-2\n\nVerifiable decoded Preimage: https://www.edgeware.app/#/extrinsics/decode/0x01000800013503546869732070726f706f73616c20617070726f76657320746865207370656e64696e67206f66203135353020555344542066726f6d2074686520726574697265642027446976657273696669636174696f6e2046756e6420412720616c6f6e67207769746820363539353734343620454447207468726f756768207468652054726561737572792050726f706f73616c20233132332e204b6e6f77206d6f726520686572653a2068747470733a2f2f676f762e6564676577612e72652f64697363757373696f6e2f32343934340f02ed01\n\nPreimage submission to Democracy: https://edgscan.ink/#/extrinsics/24066820-2\n\nTabled Referendum #152 from Democracy Proposal #97: https://edgscan.ink/#/events/24076800-5\n\nVoting initialised on Referendum #152: https://edgscan.ink/#/events/24076800-6\n\nProof of Referendum approval: https://edgscan.ink/#/events/24177600-2\n\n{Treasury disbursement corresponding to the approved Treasury Proposal #123 is set to occur in approximately 18 hours from now as per the enactment delay and time left in the current treasury spend cycle.}",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2024-10-01T10:25:43.765Z",
+    "updated_at": "2024-10-01T10:25:43.765Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 88679,
+    "thread_id": 24944,
+    "address_id": 1067,
+    "body": "**Update:** The treasury disbursement didn't occur at the end of the last treasury spend cycle. Maybe the enactment delay concluded little later than the corresponding treasury spend cycle's conclusion.\nSo the treasury disbursement actually occurred after the conclusion of the most recently concluded treasury spend cycle i.e. ~17 hours ago.\n\nDetails for the same can be seen here:\n\nhttps://edgscan.ink/#/events/24235200-5\n\nor\n\nhttps://beta.edgscan.ink/event/24235200/5",
+    "parent_id": 88634,
+    "content_url": null,
+    "created_at": "2024-10-05T21:43:46.300Z",
+    "updated_at": "2024-10-05T21:43:46.300Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  }
+]

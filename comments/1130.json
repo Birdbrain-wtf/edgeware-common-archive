@@ -1,0 +1,93 @@
+[
+  {
+    "id": 2794,
+    "thread_id": 1130,
+    "address_id": 1004,
+    "body": "I support the development of a smart lock system - for sure. Any insight on costs?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-05-19T18:53:08.385Z",
+    "updated_at": "2021-05-19T18:53:08.385Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 2759,
+    "thread_id": 1130,
+    "address_id": 1335,
+    "body": "this is a good project for Sascha and the team at IOTA to play around with too.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-05-16T07:48:49.592Z",
+    "updated_at": "2021-05-16T07:48:49.592Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 2755,
+    "thread_id": 1130,
+    "address_id": 249,
+    "body": "Bumping this for [@drewstone](/edgeware/account/hwR8hAatmmdupBLXQSxLUPBa8GhRomLD9hf6iRtFeXs8fcY), we can almost certainly get the precompiles in!\n\n[@cameron](/edgeware/account/iyDRREzJqZJEb12VqLwB6Q8h8wdc1YnZQMWGTgubjzGdYeJ) and [@Thom Ivy](/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) is there a longer proposal we should put together to make the prop for an EDGPort + NFC smart door locks a reality?\n\nLet's do it!!!",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-05-15T16:24:33.280Z",
+    "updated_at": "2021-05-15T16:24:33.280Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "dillchen"
+  },
+  {
+    "id": 2751,
+    "thread_id": 1130,
+    "address_id": 3738,
+    "body": "Reviving...ironically in my previous life I made smart door locks, so NFC readers on doors is eerily familiar :)\n\nAll of these are super cool. A technical request: a native precompile for ECDSA P256 (instead of the classic secp256k1) would make this insanely straightforward to pull off.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-05-14T23:10:30.472Z",
+    "updated_at": "2021-05-14T23:10:30.472Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "cameron"
+  },
+  {
+    "id": 2659,
+    "thread_id": 1130,
+    "address_id": 249,
+    "body": "[@cameron](/edgeware/account/iyDRREzJqZJEb12VqLwB6Q8h8wdc1YnZQMWGTgubjzGdYeJ) that would be super insanely cool. If we: \n\n1) had NFC / readers on doors / EDGPorts\n2) tied this to EDG verified identities\n3) Kong.cash or kong.land, type interactions if I am able to guess what Cameron is actually thinking about ahaha\n4) had some type of \"membership / citizenship tax\" where (staking towards some kind of EDGPort) validator was enough.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-04-29T00:03:58.977Z",
+    "updated_at": "2021-04-29T00:03:58.977Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "dillchen"
+  },
+  {
+    "id": 2656,
+    "thread_id": 1130,
+    "address_id": 3738,
+    "body": "This is fantastic -- as [@dillchen](/edgeware/account/hcgMhR61jUS55naSR5uW4JjN92zdFp3V91TtSCJmdnuxZAL) noted, we're also super interested in the physical/digital boundary of crypto and have been heads down building easy, secure hardware to enable interactions in spaces like this via kong.cash and soon kong.land. EDGPort passports?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-04-27T20:28:56.361Z",
+    "updated_at": "2021-04-27T20:28:56.361Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "cameron"
+  },
+  {
+    "id": 2655,
+    "thread_id": 1130,
+    "address_id": 249,
+    "body": "This is very cool, some related thoughts would be the Balaji piece which [@mrbulb](/edgeware/account/jXC7ghviUzVcVySg3eD8prB7C9m6VzK6cw2MTyMTDTUye5q) previously shared as well as the exciting work that [http://kong.land/](http://kong.land/) and [http://kong.cash/](http://kong.cash/) are doing. Cameron from Kong needs to set up an Edgeware Address to post but I'll send to him!",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-04-27T17:15:35.198Z",
+    "updated_at": "2021-04-27T17:15:35.198Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "dillchen"
+  }
+]

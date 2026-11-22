@@ -1,0 +1,41 @@
+[
+  {
+    "id": 2064,
+    "thread_id": 10704,
+    "address_id": 287,
+    "body": "[@William Sullivan](/edgeware/account/mQJbvRxGVrV9gxNihvowrjPKqcgYDVaAnNDvzWjzDK1VwwR) it is slightly complicated but definitely possible! Will take a look at it in Feb.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-01-28T03:14:08.476Z",
+    "updated_at": "2021-01-28T03:14:08.476Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 2063,
+    "thread_id": 10704,
+    "address_id": 2415,
+    "body": "[@raymondz](/edgeware/account/mae7JWE1EEMLcno2ZSB8dahwPqVPEyh8zik6dgNpQTvvucq) - Someone else had a great idea, and I am more so just repeating their idea.   Is there any way to link the discussions to the actual 'Refereda' / Proposals to make them more user friendly for the community?  The above example, like you have done, is perfect!   For instance, we can see the proposal or referendum on polkadot.js.org/apps - but no context is there - as in we the community cannot easily see any discussion about what this vote is referencing.  And this is the same in the Commonwealth site, the discussions are separate from the referenda and proposals.  It would be great to link these!",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-01-28T02:38:24.493Z",
+    "updated_at": "2021-01-28T02:50:16.275Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "William Sullivan"
+  },
+  {
+    "id": 1887,
+    "thread_id": 10704,
+    "address_id": 287,
+    "body": "This proposal approves the treasury spend for EDG integration with Frontier Wallet.\n\nFull thread: [https://commonwealth.im/edgeware/proposal/discussion/760-proposal-fund-edg-integ-into-frontier-mobile-wallet](https://commonwealth.im/edgeware/proposal/discussion/760-proposal-fund-edg-integ-into-frontier-mobile-wallet)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-12-31T09:20:40.274Z",
+    "updated_at": "2020-12-31T09:20:40.274Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": 6607,
+  "title": "Public RPC and bootnodes - JelliedOwl",
+  "body": "I have had a few expressions of interest in my providing bootnodes and RPC servers for Edgeware, so I'd like to describe what I think I can offer and see if there's more general interest before I spend too much time on it.  I'm happy to provide the service or for someone else to do so - but I think it is potentially needed.\n\n## Proposed infrastructure\n\nI'm proposing to run the following:\n- 5 geographically distributed public RPC nodes (providing both substrate native websocket and EVM RPCs)\n- Those nodes would also be full archive bootnodes, which can be added to the chainspec - they will have fixed DNS addresses so new nodes can find them.\n- The RPCs would be behind a load balancer, so there's a single DNS address for them all (the bootnode part can't be load balanced).\n\nI will aim to provide monthly performance stats when I can - this might not be immediately.\n\n## Potential variations\n\nThere are some unknowns in this for me, so the above is the minimum I think I will need.  If I find that I need to separate the RPC and bootnodes, I will - they will all remain full archive nodes.  I won't be increasing the invoice to cover these extra nodes, unless there's desire for me to provide a completely different service.  If I find that I can't provide the services without an excessive number of nodes, I might end up giving a full refund instead - but I don't expect that to happen.\n\nIn practice, I will probably run at least 6 nodes to cover outages.\n\n## Load balancing options\n\nThe load balancer is my biggest unknown.  I am intending to implement a geographically-aware load balancer (potentially using Cloudflare), which would direct traffic to the nearest node.  I think this is feasible at a reasonable cost, but I might find a showstopper - it's not clear to me that Cloudflare works well with websockets, for example.  If I can't make this work - I might have to fall back to something like a round-robin load balancer.\n\n## Price\n\nI can offer this for £3,000 (three thousand GBP",
+  "content_url": "https://threads.common.xyz/a9219ea1-08da-4201-b9ee-361bbc3ef333.md",
+  "created_at": "2022-08-12T10:13:44.097Z",
+  "updated_at": "2025-03-18T14:13:44.303Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "JelliedOwl",
+  "topic_id": 1044,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/6607",
+  "body_complete": true
+}

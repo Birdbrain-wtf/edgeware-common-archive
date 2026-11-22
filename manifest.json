@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-22",
+  "status": "incomplete",
+  "api_reported_threads": 986,
+  "inventory_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "unique_threads_in_inventory": 977,
+  "full_bodies_saved": 977,
+  "comment_threads_saved": 431,
+  "blocker": "Common returned HTTP 429 during capture. API body previews are limited to 2,000 characters. Attachments are linked, not backed up.",
+  "comments_saved": 1048
+}

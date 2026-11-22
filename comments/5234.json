@@ -1,0 +1,41 @@
+[
+  {
+    "id": 24130,
+    "thread_id": 5234,
+    "address_id": 1067,
+    "body": "**Date: 28th June 2022**\n\n**Treasury Proposal summary:**\nIncentives requested per month:  2500 USD equivalent in $EDG\n7-day trailing average: 0.0017 USD\nTotal in EDG: 1470588.24\nRecipient address: kvZxfzpnJxBP2qh9ZrXSuWuzuPgbMs6gdUMPzTX2hYABzeJ\n\nType: Postpaid for contributions in June 2022\nOpted for SCU: Yes",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-06-28T22:06:23.689Z",
+    "updated_at": "2022-06-28T22:06:23.689Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 22270,
+    "thread_id": 5234,
+    "address_id": 1335,
+    "body": "hey - sorry been slow on reviewing proposals lately. Good one, see its passing. \n\n- Create Infographics.\n\n\nYou can collaborate with [@Dissolved | Jacob](/edgeware/account/jvZ4sAptnvVxdkWNdxo6SQAKGYz1ecJ3R2Wcz5o6eTws6xe) on his Edgeware visualised project, that would ensure higher quality output.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-06-07T23:30:31.165Z",
+    "updated_at": "2022-06-07T23:30:31.165Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 22300,
+    "thread_id": 5234,
+    "address_id": 17524,
+    "body": "That would be great",
+    "parent_id": 22270,
+    "content_url": null,
+    "created_at": "2022-06-08T05:22:39.461Z",
+    "updated_at": "2022-06-08T05:22:39.461Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Gmeister7"
+  }
+]

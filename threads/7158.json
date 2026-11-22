@@ -1,0 +1,15 @@
+{
+  "id": 7158,
+  "title": "Edgeware upgrade to substrate 4.",
+  "body": "The upcoming upgrade of Edgeware - which is not only a runtime upgrade, otherwise there would be no need for validators to upgrade their node - brings us in line with substrate 4. There are little changes that are specific to Edgeware, but some of those are functional changes that people should keep in mind. Here are the ones I see as very important for everybody to know about. I am trying to be exhaustive, but may extend the list if I think of more later.\n\n1. The confidence voting delay has been corrected back from 1 day to 1 week. It was always supposed to be 1 week, but had been set to 1 day only by mistake since the last releases. It is meant to be long to really allow people with personal conviction to leverage their funds more than others. It affects how long tokens are locked when someone votes with conviction. There is an exponential multiplier that goes from 0 to 32 times the locking period. Votes with no conviction count for only 10% (0.1x) but don't lock tokens, votes with 1x lock with multiplier 1, votes with 2x lock with multiplier 2, votes with 3x lock with multiplier 4, etc. till votes with 6x that lock with multiplier 32. Currently voting 6x is locking the tokens for 32 days. With the release it is going to be 32 WEEKS so please, bear this in mind when voting! Now people with high conviction can really leverage their votes vs others as it will require a much stronger belief to vote with full power. Take care especially of the UI that shows some locking information based on what it sees on chain at a given time. For instance, if you build a transaction just before the upgrade and vote 6x, you may be locked for much longer than expected depending on when the lock expires. So keep this in mind when voting.\n2. The staking pallet now handles the case too many nominators (128+) differently than before. The additional ones are put in a queue, but the choice of which is included and which isn't is not purely on stake, but nominators are batched within bags o",
+  "content_url": "https://threads.common.xyz/a1dd1132-d238-4b8b-9201-4babf7a6e5e0.md",
+  "created_at": "2022-10-05T11:03:12.089Z",
+  "updated_at": "2025-03-23T23:04:37.585Z",
+  "last_edited": null,
+  "comment_count": 7,
+  "profile_name": "remz",
+  "topic_id": 981,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/7158",
+  "body_complete": true
+}

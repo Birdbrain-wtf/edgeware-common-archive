@@ -1,0 +1,15 @@
+{
+  "id": 4300,
+  "title": "Proposal: Kabocha's Para-thread deposit for Kusama (recoup)",
+  "body": "![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/95f98cfd-d068-4841-befa-9b572b4c6919.1649441256362)\n\n# Proposal: Kabocha's Para-thread deposit for Kusama\n\n## Date\n\n_v1 8th April 2022 _\n_v2 12th April 2022_\n\n\n## Contributor** **\n\n[@Ramsey](https://gov.edgewa.re/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) (Decentration)\n\n## Network Services\n\n[Decent Partners](https://decent.partners)\n\n## Summary\n\nThis proposal seeks funding to recoup costs for the acquisition of a Kusama 'para thread' by [@Ramsey](/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) which is secured through a refundable KSM registration fee and follows the acquisition of the [Kusama Para-ID](https://gov.edgewa.re/discussion/3759-proposal-kabochas-paraid-deposit-for-kusama) deposit.\n\nThis is one of the last stages before the launch of a crowd loan, acting as an on-ramp for new parachains into the relay.\n\n> Parathreads are an idea for parachains to temporarily participate (on a block by block basis) in Kusama security without needing to lease a dedicated parachain slot.\n\nYou can read more about para-threads [here](https://guide.kusama.network/docs/learn-parathreads/).\n\nHere is [the outline](https://docs.substrate.io/how-to-guides/v3/parachains/connect/) of the process for securing a registration and working out the correct fees.\n\n## Funding address\n\nDecentration - jBshCuzLrPGmE6tEQJsZLTkPnhTsb4cMchttKafzzRSXNMC\n\n## Funding request\n\nAs of 12th April 2022\n\n1 KSM = £122 (spot price w/ 10% contingency)\n60 KSM = £7320\n\n£0.0039: calculated using the [7 day trailing average](https://replit.com/@thomivy1/7-Day-Trailing-Avg-dollarEDG)\n\nTotal EDG = 1,876,923\n+ 10% network services\n= 187,692\n\nTotal EDG = 2,064,615\n\n## Funding terms\n\nThe 60 KSM will be returned to Edgeware if Kabocha does not secure a slot and at the end of 48 weeks if Kabocha does not secure a second year as a parachain.\n\nIf Kabocha retains the slot for a second year, the 60 KSM will remain locked.\n\n",
+  "content_url": "https://threads.common.xyz/7e8cfccb-5860-4b94-972b-c8d0f2b1f56b.md",
+  "created_at": "2022-04-08T18:07:20.498Z",
+  "updated_at": "2025-03-18T00:54:07.637Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "Decent Partners",
+  "topic_id": 990,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4300",
+  "body_complete": true
+}

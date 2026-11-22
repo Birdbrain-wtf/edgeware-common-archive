@@ -1,0 +1,41 @@
+[
+  {
+    "id": 37980,
+    "thread_id": 2423,
+    "address_id": 78434,
+    "body": "That's a great idea.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-12-01T16:18:35.024Z",
+    "updated_at": "2022-12-01T16:18:35.024Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "sykt023"
+  },
+  {
+    "id": 35369,
+    "thread_id": 2423,
+    "address_id": 72874,
+    "body": "That's a great idea.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-11-18T09:59:48.759Z",
+    "updated_at": "2022-11-18T09:59:48.759Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Dimjn59"
+  },
+  {
+    "id": 9544,
+    "thread_id": 2423,
+    "address_id": 1004,
+    "body": "Thanks so much for documenting this process- I've[ included it in our docs under the Community section.](https://docs.edgeware.wiki/community/launch-a-simple-majority-referenda)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-11-03T21:28:41.552Z",
+    "updated_at": "2021-11-03T21:28:41.552Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  }
+]

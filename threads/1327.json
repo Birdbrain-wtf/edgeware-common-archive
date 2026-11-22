@@ -1,0 +1,15 @@
+{
+  "id": 1327,
+  "title": "Edgeware Road: parachains and bridges *core development*",
+  "body": "# Edgeware Road: Parachains and bridges\n\n**Objective:** To enable bi-directional transactions between Edgeware and other substrate standalone chains and parachains. \n\n20,000 USD equiv. \n\n1. Parachain Preparation\n2. Parabridge Research, Viability Study and Testing \n3. Deployment and testing of the Bridge Common palette, enabling inter-Substrate communication.  \n4. Relaychain Module Research \n5. Substrate chain partners: Bridge with 5 other established chains in the Substrate ecosystem (e.g. phala, akala, kusama, moonbeam… etc.) \n6. Edgeware multi-chain: explore the development of a multi-chain ecosystem within the Ecosystem. \n\n\n## Outcomes\n\n- Edgeware para-bridge established and ready for runtime upgrade. a. EDG can be sent to accounts managed by other chains. \n- Other chain treasuries can send their coins (such as KSM) to an account managed by EDG treasury. \n- Set up a chain and connect to rococo.\n- Connect Edgeware para-bridge to Rococco para-chain. \n\n\n8 to 13 weeks\n\n## Payment Terms\nPaying Ramsey (Decentration) for working on para-bridge development.\n75% deposited into a 2/3 multi-sig containing 2 council members. \n25% on delivery\n\nMulti-sig address: k8gZKBkrgyXieRtDVXT8VKUuQ6fdKtLbkKKq2WpuVpgUiP5\n\n**![](https://lh4.googleusercontent.com/CD_-ZydIcFmeZ70H0RmcS6edJovt6TW-Vt4KgHGikXHo3PWj3lPJBJCe_pAhHkKqwLMTb1TcujcH47HyONEzZYHmL5eBOtgVlWkiuyKPIOgh4bVV10Cq6TkaU40P5yNa33H8sESI)**",
+  "content_url": null,
+  "created_at": "2021-06-10T15:50:26.088Z",
+  "updated_at": "2025-03-21T09:06:58.620Z",
+  "last_edited": null,
+  "comment_count": 22,
+  "profile_name": "Ramsey",
+  "topic_id": 990,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1327",
+  "body_complete": true
+}

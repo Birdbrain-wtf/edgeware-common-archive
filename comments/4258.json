@@ -1,0 +1,54 @@
+[
+  {
+    "id": 20601,
+    "thread_id": 4258,
+    "address_id": 21315,
+    "body": "Adding details for assets reviewed on the most recent Community Calls ( ATK & RWS)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-05-17T17:58:43.457Z",
+    "updated_at": "2022-05-17T17:58:43.457Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Zovern"
+  },
+  {
+    "id": 18432,
+    "thread_id": 4258,
+    "address_id": 1978,
+    "body": "I just want to point out the awesomeness of Crust. Did you know that you can directly save your files to Crust within Polkadot.js for FREE?\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/058880e5-7206-42de-a1aa-ea697955a1e4.1649345988200)\n\nNotice that I use their pinned version of Dotapps: [https://crustipfs.xyz/ipns/dotapps.io/#/files](https://crustipfs.xyz/ipns/dotapps.io/#/files)\n\nTheir mainnet is live and up and running. You can easily buy CRU with tokens you hold on BSC or Ethereum. The tokens get bridged or delivered to your Substrate native wallet. [->swap here](https://swap.crustapps.net/#/swap)\n\nYour personal files can also be uploaded [here](https://crustfiles.io/).  They truly care about decentralization every part of the stack when looking at whose hosting the network. Signing in for pinning can even be done with Sol and Near wallets etc.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-04-07T16:01:00.619Z",
+    "updated_at": "2022-04-07T16:01:00.619Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 18356,
+    "thread_id": 4258,
+    "address_id": 21315,
+    "body": "Thank you for the Feedback! \n\n1. I tried to be as concise and unbiased as possible. \n2. GREAT!  and i fully agreed with your suggestions \n\n\n\nOne more step toward consensus !",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-04-05T18:08:19.144Z",
+    "updated_at": "2022-04-05T18:08:19.144Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Zovern"
+  },
+  {
+    "id": 18354,
+    "thread_id": 4258,
+    "address_id": 17657,
+    "body": "firstly great collection and pointed data.\nimo, arweave and sia are my suggestions out of this collection.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-04-05T17:27:15.109Z",
+    "updated_at": "2022-04-05T17:27:15.109Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "ash|inthewild"
+  }
+]

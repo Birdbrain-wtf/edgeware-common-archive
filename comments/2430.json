@@ -1,0 +1,54 @@
+[
+  {
+    "id": 9840,
+    "thread_id": 2430,
+    "address_id": 1335,
+    "body": "A point also worth noting, is if/when Kabocha becomes a KSM parachain, we will have access to DEXs, then we can bridge EDG and KAB and hey presto, everyone is happy :)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-11-12T20:21:00.154Z",
+    "updated_at": "2021-11-12T20:21:00.154Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 9632,
+    "thread_id": 2430,
+    "address_id": 1978,
+    "body": "I think we should consider integrating with [Zenlink](https://zenlink.pro/en/). They're live on Moonriver and Bifrost, have created a Substrate native DEX as pallet and as contract, both WASM and EVM.\nThey're focused on connecting parachains though and not stand-alone chains, but obviously made a very versatile tech-stack [-> Github](https://github.com/zenlinkpro) \n\nDarwinia will have a Substrate to Substrate bridge out very soon, working without any pooled or locked assets.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-11-06T12:59:05.340Z",
+    "updated_at": "2021-11-06T12:59:05.340Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 9643,
+    "thread_id": 2430,
+    "address_id": 1335,
+    "body": "This sounds good [@Junte](/edgeware/account/hX8eTbsDWPsEtoWBSjMBmRg3xXkhd2zxVAoBfGjhp57VPtm)",
+    "parent_id": 9632,
+    "content_url": null,
+    "created_at": "2021-11-06T18:05:31.543Z",
+    "updated_at": "2021-11-06T18:05:31.543Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 9628,
+    "thread_id": 2430,
+    "address_id": 1335,
+    "body": "I'm also working on integrating EDG into the DCRDEX again, something I believe we need as part of our long term security / exchange. \n\nAre there any solo chain DEX's launching in Substrate ecosystem?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-11-06T11:08:01.570Z",
+    "updated_at": "2021-11-06T11:10:16.293Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

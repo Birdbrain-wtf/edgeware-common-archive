@@ -1,0 +1,67 @@
+[
+  {
+    "id": 9674,
+    "thread_id": 2363,
+    "address_id": 14068,
+    "body": "It is clearly written here.You guys cancelled hedgeware snapshot that took place long time ago.And again you cancelling Kabocha snapshot that was mentioned above date.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-11-08T13:20:06.215Z",
+    "updated_at": "2021-11-08T13:20:06.215Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "SHANKAR ACHARYA"
+  },
+  {
+    "id": 9728,
+    "thread_id": 2363,
+    "address_id": 1335,
+    "body": "No we haven't.\n\nThe Hedgeware project was replaced with Kabocha which is a more community oriented project including the initial distribution. I wrote about the[ issues with Hedgeware here](https://commonwealth.im/edgeware/proposal/discussion/1159-why-hedgeware-is-currently-a-terrible-idea). \n\nYou have copied and pasted information from [this post ](https://commonwealth.im/edgeware/proposal/discussion/1415-request-for-a-community-parachain)from [@Thom Ivy](/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) which was **speculative** and has since been reframed as a request for a community proposal - to which Kabocha is a response.\n\n**Therefore no snapshot has been cancelled.**\n\n**Kabocha snapshot will be 14 days after we win an auction. **\n\nPlease read the full post before commenting further.",
+    "parent_id": 9674,
+    "content_url": null,
+    "created_at": "2021-11-09T11:02:18.988Z",
+    "updated_at": "2021-11-09T11:04:07.899Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 9673,
+    "thread_id": 2363,
+    "address_id": 14068,
+    "body": "EDG Parachain Strategy\n**Technical**\n1. Ramsey\n2. Raymond Advising\n3. Addt. Jam?\n4. Addt. Bruno Skvorc\n5. Addt. Shawn Tabrizi?\n6. Drew Advising\n\n**Ops / Communications**\n1. Thom\n2. Rich\n3. Shankar\n4. Damoy\n5. Lemonade Money\n\n**Parity**\n1. Fabi\n2. Dieter\n3. Peter\n4. Raul\n5. Bruno\n6. Hutch\n7. Surag\n8. Ben\n9. Shawn\n\n\n\n\n\n\n\n**Name:**\nKabocha\n\n**Token Symbol:**\nKAB\nVery similar to KAR just to make us aware\n\nPositioning\nA Kusama parachain incubated by the Edgeware Agency and EDG Treasury\nDemonstrating capabilities around interoperability\nMemier, weirder and more ‘internet’ than Edgeware\nBuilding on media momentum and aligning with Kusama’s culture\n\n**Strapline**\nWen Pumpkin?\n\n**Max supply?**\nCurrent EDG supply minus 3 zeros\n\n**Redenomination:**\nRemove Three Zeros (same as KSM<DOT)\n\n**Distribution:**\n1. Snapshot of EDG 1:1:\n2. Tax all addresses 10% (or inflate 10%),\n3. Add that tax to a community fund.\n\n\n**Community Fund**\nThe value of the existing EDG mainnet treasury will be mapped to a new multisig community fund with signatories from builders, Agency, validators, and community. The EDG network will use this to control KAB, incentivize maintainers and partnerships.\n\nCurrently, this treasury holds roughly 9% of total tokens. Once the community tax funds this KAB community fund, it will hold roughly 20% of network tokens.\n\n**Crowdload Terms:**\nPaid to Lenders Amount: 5-10% of KAB\nVesting: 30% upfront, 70% vested over term of crowdloan.\nTerm: 12 months\n\n**Commonwealth integration for Kabocha**\n- **Waiting list is long, but Substrate chains are prioritized.**\n- **Tips now live on EDG.**\n- **Following Parachain bonding somewhat.**\n\n**Network Agency DAO**\nDecent Partners (fulfilling role held by Edgeware Agency\n- Sign contracts\n- Listings\n- Strategy\n- Community\n- Onboarding teams\n\n**Timeline:**\nPre Registration: ASAP, including site design and announcements.\nSnapshot Date: July 31-Aug 15\nGenesis Date for Kabocha ASAP, but likely 2.5 months out, late Aug, early Sept.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-11-08T13:17:40.564Z",
+    "updated_at": "2021-11-08T13:17:40.564Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "SHANKAR ACHARYA"
+  },
+  {
+    "id": 9658,
+    "thread_id": 2363,
+    "address_id": 1335,
+    "body": "Thanks for your questions [@SHANKAR ACHARYA](/edgeware/account/kwk4uGTEM99QXmcrazzyd759raqHHL1Uubn2REKbPqVPhFx) \n\n> What happened with snapshot date between 31st july -15th August? \n\nThis snapshot never happened, as Hedgeware never happened. Instead Kabocha became Edgeware's KSM parachain candidate.\n\n> I had few holding edgeware for 1 year but i recently sold it to cover my financial situation.I had edgeware between 31st july -15 August.Do i receive kabocha or not.\n\nThe snapshot for Kabocha has not happened yet., please read the post. It will happen a minimum of 14 days after Kabocha wins a Kusama parachain slot, so this is in the future.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-11-08T08:25:58.045Z",
+    "updated_at": "2021-11-08T08:25:58.045Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 9649,
+    "thread_id": 2363,
+    "address_id": 14068,
+    "body": "I am following Edgeware from last 2 years. In this period, Hedgeware was introduced and then again it has changed to Kabocha. You have mentioned snapshot date from 31st July -15 August previously. Now in this post its written 14 days after winning parachain.My questions:\n1.What happened with snapshot date between 31st july -15th August?\n2.I had few holding edgeware for 1 year but i recently sold it to cover my financial situation.I had edgeware between 31st july -15 August.Do i receive kabocha or not?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-11-07T03:02:59.801Z",
+    "updated_at": "2021-11-07T03:02:59.801Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "SHANKAR ACHARYA"
+  }
+]

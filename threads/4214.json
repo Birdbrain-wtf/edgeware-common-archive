@@ -1,0 +1,15 @@
+{
+  "id": 4214,
+  "title": "Builders Program Application - Blockexplorer and Wallet",
+  "body": "## **Project Overview**\n\nThe proposal is to set up, host and maintain a customized block explorer for Edgeware network.\n\n**Project Features**\n**Block Explorer**\n- Blockchain data\n- View blocks\n- View accounts (balances, transactions, transfers, tokens, history)\n- View contracts\n- View tokens (view token contract, view token instance, token transfers, token holders)\n- View receipts\n- View transactions\n- View internal transactions\n- View logs\n- Block Reorganizations\n- ERC-20 token support\n- ERC-721 token support\n- ERC-1155 token support\n- Contract Verification\n- Sourcify support\n- Query Contract\n- Real-time UI, infinite scrolls for data views\n- Public labels\n- API\n- GraphQL\n- Download data as CSV\n\nExtra features \n- Hybrid Explorer - EdgeWASM+EdgeEVM Support\n- Full node deployment with high performance RPC endpoints.\n\n\n## **Execution Timeline**\n\n**Start time**\nOnce this grant submission is successful, the team will be ready to start working immediately.\n\n**Total Estimated Duration**\nPhase One (Preparations) – 2 weeks\n- Design visual customization.\n- Implementation of customization.\n\n\nPhase Two (Deployment) –  2 weeks\n- Deployment\n- Troubleshooting and adjustments\n\n\n## **Funding & Disbursement**\n\n- The amount to be funded to the grantee is $20,000 (USD) of crypto currency with Edgeware, also known as EDG, which will be paid in 3 tranches  - \n\n               30% prepayment\n               40% after Block Explorer, Chrome Wallet and Android Wallet release\n               30% after IDO launchpad integration \n             \n- We are planning to give back to all contributors in the form of a new token or our main project token after exchange listing.\n\n\n\n## **Future Plans​**\n\nFINN is a Hybrid DEX model, where the order book and matching engine is stored on a centralized server while the funds and transactions are recorded on the blockchain. We want to use Edgeware EVM network for margin/futures trade execution for all chains we support. At first we used fantom network but the ga",
+  "content_url": "https://threads.common.xyz/845fde9b-fd47-48f4-b4fd-ecd688ea196e.md",
+  "created_at": "2022-03-30T20:06:42.498Z",
+  "updated_at": "2025-03-18T00:51:30.474Z",
+  "last_edited": null,
+  "comment_count": 17,
+  "profile_name": "bharathcoorg",
+  "topic_id": 981,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4214",
+  "body_complete": true
+}

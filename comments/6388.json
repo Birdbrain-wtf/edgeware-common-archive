@@ -1,0 +1,54 @@
+[
+  {
+    "id": 27004,
+    "thread_id": 6388,
+    "address_id": 1335,
+    "body": "> Nevertheless, you are bringing potential legal scrutiny upon yourself by including founding rewards in the genesis! \n\nNo I'm not, this is [@Ramsey](/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT)'s call. I have already discussed this at length with him and he wanted to include the founders reward in the genesis state.\n\nMy approach has been to have my reward be approved via stakeholder vote. \n\n> Kabocha Recoup was never agreed upon to be part of genesis. \n\nThat's fine. \n\n> These actions will make you look more centralised and it could further affect the reputation of Edgeware. \n\nPlease stop making accusing statements. Things are evolving organically - there is very little I control, things are emerging naturally.\n\n> If you're really a community-oriented project, you won't reject the community's mandate. \n\nI don't know what you mean...?\n\n> You agreed to distribute at least a 1:1 proportional network share to EDG holders. And this alternate approach aligns with everything which was agreed upon.\n\nWe didn't agree - we proposed a 1:1 network share. so again, stop making these accusatory statements, this is an ongoing conversation. \n\nIt is 1:1.\n\n----\n\nWhy don't you we setup a call to discuss this. Right now. its just coming across as some weird defensive position that is making something out of nothing.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-29T10:06:39.204Z",
+    "updated_at": "2022-07-29T10:06:39.204Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 26852,
+    "thread_id": 6388,
+    "address_id": 1335,
+    "body": "Im unconvinced about this, happy to join next week's financial call to understand better.\n\nThe founding reward for Decentration will be in the genesis state - that has been agreed up front.\n\nIn terms of moving the treasury to totally Pallet_Mint, I'm not too fussed, but we do need some contingency. \n\n[@Ramsey](/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) can maybe add his thoughts .",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-27T14:10:23.368Z",
+    "updated_at": "2022-07-27T14:12:04.297Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 26921,
+    "thread_id": 6388,
+    "address_id": 1067,
+    "body": "> The founding reward for Decentration will be in the genesis state - that has been agreed up front.\nIt was agreed upon to be a proposal.\n\nNevertheless, you are bringing potential legal scrutiny upon yourself by including founding rewards in the genesis!\n\nKabocha Recoup was never agreed upon to be part of genesis.\n\nThese actions will make you look more centralised and it could further affect the reputation of Edgeware. \n\nIf you're really a community-oriented project, you won't reject the community's mandate. \n\nYou agreed to distribute at least a 1:1 proportional network share to EDG holders. And this alternate approach aligns with everything which was agreed upon.",
+    "parent_id": 26852,
+    "content_url": null,
+    "created_at": "2022-07-28T12:23:27.600Z",
+    "updated_at": "2022-07-28T12:23:27.600Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 26840,
+    "thread_id": 6388,
+    "address_id": 1067,
+    "body": "(Reposting my comment from the referenced thread:)\nI'm personally in favour of this as Tech Stewardship and Recoup makes more sense as proposals once the democracy is launched on Kabocha as previously agreed upon.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-27T10:51:43.753Z",
+    "updated_at": "2022-07-27T10:51:43.753Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  }
+]

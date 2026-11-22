@@ -1,0 +1,15 @@
+{
+  "id": 24944,
+  "title": "Reimbursements of infrastructure hosting costs {Oct 2023 - Nov 2024}",
+  "body": "Previously approved proposal: <https://gov.edgewa.re/discussion/13579-reimbursements-of-infrastructure-hosting-costs-march-2023-sep-2023>\n\n# **Contributors Involved:**\n\n## **JelliedOwl**\n\n- JelliedOwl is currently hosting geo-aware load-balanced RPC infrastructure (which is majorly used in PolkadotApps, EdgeApps, different wallets and block explorers for substrate/EdgeWASM and EdgeEVM environments).\n- Their previously approved individual proposal for the same:\n  - <https://gov.edgewa.re/discussion/6607-public-rpc-and-bootnodes-jelliedowl>\n- Hosting reimbursements per month: 275 USD equivalent in EDG\n\n## **Bharathcoorg**\n\n- Bharathcoorg is currently hosting block explorers of EdgeEVM/BeresheetEVM, Edgeverse extension & mobile wallet, Edgeverse DEX and Edgeverse Bridge portal.\n- Their previously approved (related) proposals:\n  - <https://gov.edgewa.re/discussion/4214-builders-program-application-blockexplorer-and-wallet/>\n  - <https://gov.edgewa.re/discussion/8013-proposal-basic-evm-tools-for-edgeware-network/>\n- Hosting reimbursements per month: 500 USD equivalent in EDG\n\nCombined reimbursements of the hosting costs: 775 USD equivalent in EDG per month\n\nPostpaid period: Oct 2023 - Sep 2024 (12 months)  \nPrepaid period: Oct 2024 - Nov 2024 (2 months)\n\nTotal in USD for the postpaid period: 9300 USD (to be paid in EDG as per the recipient’s request)  \nTotal in USD for the prepaid period: 1550 USD (to be paid in stablecoins as per the recipient’s request)\n\n30-day trailing median: 0.000141 USD per EDG\n\n### **Total:** 65957446 **EDG** (from treasury) + 1550 **USDT (from [diversification fund A](https://gov.edgewa.re/discussion/24651-clarification-on-the-diversification-fund-a-account-change))**\n\n**Multisig address:** iyi7RbDFPeURc9JEe6buQGwhQauj71e55hMDvzBH3eZBtmh\n\n**Signers (Threshold: 4/6)**\n\nJelliedOwl: j1CDEyfQcvc87NUKwGZSDed1PEaMUUdh4knjxuRzV8s9JD9\n\nBharathcoorg: i1tffC8QVVUgGb8RjazGRz72SDxtP35kqa2RB7vnVhjRHPV\n\nBugZ: mn1dVN9mhJLEgJjev37AKWxMe7JbdsZbneDueRwcKu7WGxR\n\nMo",
+  "content_url": "https://threads.common.xyz/ff30ecd6-306f-4828-ae2c-012c823c42b4.md",
+  "created_at": "2024-09-19T22:00:18.733Z",
+  "updated_at": "2025-03-15T05:01:05.257Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "Shankar Warang",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/24944",
+  "body_complete": true
+}

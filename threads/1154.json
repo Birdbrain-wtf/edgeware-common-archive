@@ -1,0 +1,15 @@
+{
+  "id": 1154,
+  "title": "Commonwealth support for Offchain Polls",
+  "body": "Commonwealth now supports a basic version of **offchain polls**, for gathering sentiment around proposals before they go on-chain.\n\nThis feature can be used by anyone who is the primary author of a thread:\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/1917d78f-d344-4c44-8145-c5d93b9c7936.1621288292241)\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/2a13725b-6579-4662-8ca0-2a83be4b5fb1.1621288435121)\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/daaef2e8-88d1-4e93-8809-57b661d0a4c5.1621288578018)\n\nThis is an MVP and it seemed like some community feedback and testing would be helpful before continuing to iterate. Please use this thread to share comments or thoughts!",
+  "content_url": null,
+  "created_at": "2021-05-17T22:00:47.781Z",
+  "updated_at": "2025-03-15T00:16:43.442Z",
+  "last_edited": null,
+  "comment_count": 4,
+  "profile_name": "Anonymous",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1154",
+  "body_complete": true
+}

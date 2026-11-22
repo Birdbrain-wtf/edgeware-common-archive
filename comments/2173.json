@@ -1,0 +1,68 @@
+[
+  {
+    "id": 8644,
+    "thread_id": 2173,
+    "address_id": 1004,
+    "body": "> This seems like a thinly veiled way to telegraph that any pre-vote political process is just about acquiring the approval of a couple of individuals. \nNot sure I understood your remark fully - I think our current political process is a mix of whipping votes and onchain voting, I def did not mean to thinly veil that fact, but rather to acknowledge that its how things currently work, and it would be difficult to do otherwise more effectively at this point unless we really wanted to raw-dog onchain gov. \n\nI'll think about ways we can skip talking about stuff, since it does seem increasingly unhelpful, in my view I've attempted to synthesize our many council different viewpoints through iterations. Going forward I can just put forth my view and advocate to the chain aggressively for those changes without input, for instance. \n\nI think for community-referenda to be legitimate we need to prerequisite higher participation, otherwise it's a small group in power determining outcomes while also claiming decentralized governance.  (One of the reasons I prefer technical councils and executives, being one myself at the time of this writing.)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-04T20:17:11.360Z",
+    "updated_at": "2021-10-04T20:18:47.823Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 8642,
+    "thread_id": 2173,
+    "address_id": 287,
+    "body": "> This notion that something is not a proposal until it’s hits on chain acts only to delegitmize political process pre-vote, IMO. [—Thom, from Discord]\n\nThis seems like a thinly veiled way to telegraph that any pre-vote political process is just about acquiring the approval of a couple of individuals.\n\nI am...after all this time...okay with that, although it's why I haven't made new proposals to the network in a personal capacity for a while.\n\nIt's just kind of a shame that this blocks a major security upgrade, and possibly breaks the narrative of Edgeware as a Polkadot contracts chain.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-04T18:38:50.861Z",
+    "updated_at": "2021-10-04T19:28:13.946Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 8664,
+    "thread_id": 2173,
+    "address_id": 1335,
+    "body": "Ok. I have issue with this characterisation\n\n> This seems like a thinly veiled way to telegraph that any pre-vote political process is just about acquiring the approval of a couple of individuals. \n\nIt's not. I am not for one minute suggesting there isn't the regular process - put up a proposal, debate, refine **and then** go on-chain.\n\nI was not part of the project when there was the big falling out between you guys and [@remz](/edgeware/account/kWgq9PZzqF6jYKSnZXd2tP8AiKEmm1NcQNWiwCXgfNFsWA1) which still haunts us today.\n\nFor what it's worth, myself and [@Ramsey](/edgeware/account/k44nJ5yAhFz3XHGeTPuKvegJ4GD1YCSVaPc7wj4miVL6epN) spent a decent amount of time yesterday discussing this issue, alongside getting excited about Edgeware's continued potential.\n\nRamsey made the point - it feels like a 'hung parliament' - where CW Labs and Remz don't see eye to eye for all sorts and this is 'blocking' governance.\n\nIt simply isn't true - it's not actually a hung parliament, because the deadlock can be broken by LITERALLY ANYONE with a good proposal that gets broad backing. \n\n**Note New-Futures didn't pass because of Remz backing, nor indeed CW Labs. The Agency proposal was similar... having broad community buy in.**\n\nWe have funded a range of proposals - inc Webb and CW.im development, Zien, Exit Theory, New-Futures, How To Make It In Crypto-Media podcast... \n\nProperly constructed proposals are not being rejected - as per my previous point, they are just being debated and there is nothing to vote on... we have even moved to standardise SimpleMajority, which biases for passing proposals via community wide votes! \n\nSo please don't put words in my mouth. Remember I was not a founding team member, I have a small stake in EDG compared to many others, my influence (such that it is) has been earned by contributing views and proposals. It has felt like a meritocratic process and that makes me happy, because I am proof you can just turn up and build credibility.  \n\nI would still sup",
+    "parent_id": 8642,
+    "content_url": "https://comments.common.xyz/4c916b0d-74f6-4315-a78c-f3b3bf7ad221.md",
+    "created_at": "2021-10-05T08:27:12.545Z",
+    "updated_at": "2021-10-05T08:29:12.292Z",
+    "deleted_at": null,
+    "reply_count": 2,
+    "profile_name": "mrbulb",
+    "full_text": "Ok. I have issue with this characterisation\n\n> This seems like a thinly veiled way to telegraph that any pre-vote political process is just about acquiring the approval of a couple of individuals. \n\nIt's not. I am not for one minute not suggesting there isn't the regular process - put up a proposal, debate, refine **and then** go on-chain.\n\nI was not part of the project when there was the big falling out between you guys and [@remz](/edgeware/account/kWgq9PZzqF6jYKSnZXd2tP8AiKEmm1NcQNWiwCXgfNFsWA1) which still haunts us today.\n\nFor what it's worth, myself and [@Ramsey](/edgeware/account/k44nJ5yAhFz3XHGeTPuKvegJ4GD1YCSVaPc7wj4miVL6epN) spent a decent amount of time yesterday discussing this issue, alongside getting excited about Edgeware's continued potential.\n\nRamsey made the point - it feels like a 'hung parliament' - where CW Labs and Remz don't see eye to eye for all sorts and this is 'blocking' governance.\n\nIt simply isn't true - it's not actually a hung parliament, because the deadlock can be broken by LITERALLY ANYONE with a good proposal that gets broad backing. Note New-Futures didn't pass because of Remz backing, nor the Agency proposal... they had community wide buy in.\n\nWe have funded a range of proposals - inc Webb and CW.im development, Zien, Exit Theory, New-Futures, How To Make It In Crypto-Media podcast... \n\nProperly constructed proposals are not being rejected - as per my previous point, they are just being debated and there is nothing to vote on... we have even moved to standardise SimpleMajority, which biases for passing proposals via community wide votes! \n\nSo please don't put words in my mouth. Remember I was not a founding team member, I have a small stake in EDG compared to many others, my influence (such that it is) has been earned by contributing views and proposals. It has felt like a meritocratic process and that makes me happy, because I am proof you can just turn up and build credibility.  \n\nI would still support you [@raymondz](/edgeware/account/mae7JWE1EEMLcno2ZSB8dahwPqVPEyh8zik6dgNpQTvvucq) to make proposals - what is holding you back? \n\nIn the end, we all win when we get more people funded and building on/around the ecosystem, it opens up more doors and possibilities.\n\nI'm sure all would support the EVM upgrade if it was ready to go without issues, again, I'm not the right person to assess, but others have done and I take their lead."
+  },
+  {
+    "id": 8673,
+    "thread_id": 2173,
+    "address_id": 2976,
+    "body": "Yes it's the feeling of a hung parliament, even though not many people block proposals. \n\nBtw, you mentioned Remz and CW blocking, you're putting words in my mouth there. Don't exclude yourself from contributing to the feeling of impasse! You have a big influence in that for sure.",
+    "parent_id": 8664,
+    "content_url": null,
+    "created_at": "2021-10-05T09:43:29.020Z",
+    "updated_at": "2021-10-05T09:49:15.934Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Ramsey"
+  },
+  {
+    "id": 8686,
+    "thread_id": 2173,
+    "address_id": 1335,
+    "body": "> Btw, you mentioned Remz and CW blocking, you're putting words in my mouth there. Don't exclude yourself from contributing to the feeling of impasse! You have a big influence in that for sure. \n\nApologies for dragging you in :) The turn of phrase was more about the phrase hung parliament, my (wromg) assumption was that you were referring to CW / Remz, point taken",
+    "parent_id": 8664,
+    "content_url": null,
+    "created_at": "2021-10-05T15:22:13.857Z",
+    "updated_at": "2021-10-05T15:22:13.857Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

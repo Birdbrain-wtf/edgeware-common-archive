@@ -1,0 +1,41 @@
+[
+  {
+    "id": 4799,
+    "thread_id": 1453,
+    "address_id": 287,
+    "body": "The benchmarked Wako upgrade is complete:\n\n[https://github.com/hicommonwealth/edgeware-node/releases/tag/v3.3.4](https://github.com/hicommonwealth/edgeware-node/releases/tag/v3.3.4)\n\nv3.3.4 incorporates the changes above, with adjustments to contract costs, gas costs, and we've also run [benchmarks](https://commonwealth.im/edgeware/proposal/discussion/1793-evm-benchmarks) to confirm that our parameters are within reasonable bounds.\n\nThe gas limit remains unchanged from v3.3.2/v3.3.3 and can be increased in a later upgrade. In addition, we'll make further upgrades to the EVM module and edgeware runtime, to keep us caught up to the latest versions of Frontier. (Unless, for some reason, we decide to delay the proposal in order to get caught up to the latest Substrate/Frontier before upgrading at all.)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-09-14T08:12:29.761Z",
+    "updated_at": "2021-09-14T08:12:29.761Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 3651,
+    "thread_id": 1453,
+    "address_id": 287,
+    "body": "**Contract costs, gas costs, and benchmarking**\n\n- Max contract size is now 24kb, same as on Istanbul\n- Minimum gas price has been set to 1 gwei, resolving an issue where 0-gas transactions would not be sent\n\n\nWe are conducting benchmarks of the cost of gas to set an appropriate gas-to-weight mapping, and to make sure that large contracts can still be deployed within our 6 second block time. When that's done, a new release will be cut as v3.3.4.\n\n**These changes only affect the runtime, not the node, so validators and node operators may start upgrading to v3.3.3 at their convenience now.**",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-07-26T20:16:25.834Z",
+    "updated_at": "2021-07-26T20:16:25.834Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 3642,
+    "thread_id": 1453,
+    "address_id": 287,
+    "body": "**Analysis of Beresheet issuance bug**\n\nBeresheet v2 was provisioned with a full set of testnet accounts, including a Frontier EVM pallet test account with a balance of:\nconsole.log(util.u8aToBn(util.hexToU8a('0xffffffffffffffffffffffffffffffff')));\n// 3402823669209384634633746074317682114550\nThis balance can be seen in the EVM system at [https://beresheet.edgscan.com/accounts](https://beresheet.edgscan.com/accounts) and it accounts for the extra staking inflation that has gone to JelliedOwl and other validators. You can also verify this against node/cli/src/chain_spec.rs (look for a comment that reads \"account used in frontier\").",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-07-25T07:16:30.698Z",
+    "updated_at": "2021-07-25T07:17:07.148Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  }
+]

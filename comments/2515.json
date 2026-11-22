@@ -1,0 +1,41 @@
+[
+  {
+    "id": 13222,
+    "thread_id": 2515,
+    "address_id": 18841,
+    "body": "Hi I have a suggestion regarding the vesting of KQB tokens. I gather currently 30% will vest after KAB wins a parachain slot on KSM wirh the 70% balance vesting at the end of the parachain slot. \nhowever, on other parachains both on KSM and DOT is it common for 30% to vest upfront with the 70% **vesting linearly over the remaining duration of the parachain slot. **\ni think this should not only align KAB with other parachains but also provide more liquidity to the token and ultimately timely rewards for supporters of the project.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-01-02T17:51:50.236Z",
+    "updated_at": "2022-01-02T17:51:50.236Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Shek"
+  },
+  {
+    "id": 13296,
+    "thread_id": 2515,
+    "address_id": 1335,
+    "body": "Hey thanks for the post - can you drop it again on[ this thread](https://commonwealth.im/edgeware/proposal/discussion/2903-kabocha-crowdloan-campaign-strategy-discussion)?",
+    "parent_id": 13222,
+    "content_url": null,
+    "created_at": "2022-01-03T22:30:14.322Z",
+    "updated_at": "2022-01-03T22:30:14.322Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 13026,
+    "thread_id": 2515,
+    "address_id": 1335,
+    "body": "Now live in Edgeware democracy as: \n- Treasury proposal 43\n- Simple Majority Referendum 53",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-12-26T10:44:35.754Z",
+    "updated_at": "2021-12-26T10:44:35.754Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 2423,
+    "thread_id": 10732,
+    "address_id": 3096,
+    "body": "Hey folks. Sorry this didn't pass even though it was a win. We will try again soon.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-03-12T22:33:49.107Z",
+    "updated_at": "2021-03-12T22:33:49.107Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 2405,
+    "thread_id": 10732,
+    "address_id": 3097,
+    "body": "Hey folks I just wanna say that I appreciate all the Aye votes and the Nay votes too. Democracy is great in combination with decentralized protocols. It will be fun to see where we are at as a community in 6 months, 1 year and further...",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-03-10T04:49:32.234Z",
+    "updated_at": "2021-03-10T04:49:32.234Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "DecentralizeSpaceNode1C"
+  },
+  {
+    "id": 2306,
+    "thread_id": 10732,
+    "address_id": 3097,
+    "body": "I really appreciate the votes folks. Let's keep it up",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-03-02T15:17:58.852Z",
+    "updated_at": "2021-03-02T15:17:58.852Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "DecentralizeSpaceNode1C"
+  },
+  {
+    "id": 2296,
+    "thread_id": 10732,
+    "address_id": 3096,
+    "body": "Hey folks this is to increase the number of validators. As a growing community it would be attractive for the validators out there to know we have space for them. Thank you.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-02-27T18:39:15.042Z",
+    "updated_at": "2021-02-27T18:39:15.042Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  }
+]

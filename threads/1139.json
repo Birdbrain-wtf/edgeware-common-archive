@@ -1,0 +1,15 @@
+{
+  "id": 1139,
+  "title": "Builders call notes / Developer outlook for Friday, April 30th - Friday, May 7th, 2021",
+  "body": "## Highlighted points\n\n- **Cross system doc support**\n- **Continue preparing resources for EVM docs: development environment (hardhat), pre-requisites, walkthrough, deployment, external resources**\n- **Faucet integration on Discord**\n- **Developer section revamp to better target different developers and their individual needs**\n- **Builders Workshop shelved until relevant EVM docs are available**\n\n\n**Cross system doc support**\n\nIt will be important that we have proper EVM documentation for setting up pre-requisites and developer environments for every machine (Mac OS, Windows) → Someone with Linux can look into support on the Linux side. This will ensure that there is no discrepancies in information throughout the documentation for people who may be using a different machine than what the author of the documentation suggests. \n\n**Continue preparing resources for EVM docs: development environment (hardhat), pre-requisites, walkthrough, deployment, external resources**\n\nFurthermore, documentation will begin to be written for overhauling our EVM and to create an easy, understandable reference for anyone to go to who might be struggling with using EVM on Edgeware or where to get started. Currently, hardhat seems to be the best option for the first guide and I’m going through the different guides and tutorials that are available on hardhat as well as moonbeam to then port them over into main.edgeware.wiki written in context of Edgeware’s parameters. I’ll be gathering as much resources over the next week as possible and create drafts for this information which will then be peer reviewed to ensure that only relevant information is being drawn out and presented within the documentation.\n\n**Faucet integration on Discord**\n\nSo far, it was worth noting the faucet integration on Discord as a bot that Moonbeam uses to fund testnet accounts via metamask found [here](https://docs.moonbeam.network/getting-started/testnet/faucet/). Our current faucet is hardly mentioned within the d",
+  "content_url": "https://threads.common.xyz/f1f38713-8d89-49d5-a54f-a6a8b9b40126.md",
+  "created_at": "2021-05-04T09:29:27.931Z",
+  "updated_at": "2025-03-17T21:38:26.913Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "Cameron Nazarko",
+  "topic_id": 114,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1139",
+  "body_complete": true
+}

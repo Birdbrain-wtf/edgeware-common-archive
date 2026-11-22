@@ -1,0 +1,15 @@
+{
+  "id": 3776,
+  "title": "Edgeware Treasury, Value Capture and Funding Terms",
+  "body": "# Edgeware Treasury, Value Capture and Funding Terms\n\nThis is a post to try and unify a bunch of different discussions, debates and issues that have popped up at different points over the last few months. \n\nThe aim is to open up focused discussion that can lead to establishing a few community standards or at least begin the process of getting people to think through some basic assumptions and principles. \n\n## Treasury \n \nEdgeware's treasury is/was created through inflation, it is effectively a tax on all holders of EDG established at the origin of the project, with funds assigned to a multisig wallet. \n\nThe treasury also receives funds through network fees, slashing of validators and of proposal bonds if a referendum fails. \n\nThe aim of the treasury is to fund the project's development which is about the broadest remit possible - in principle it can be used for anything the community agrees to fund... hence when someone asks _'What is Edgeware's roadmap'?_ the answer is simple... \n\nIt is what we fund. \n\nTo access funds, proposals need to be put forward to the community via a [simplemajority referendum](https://commonwealth.im/edgeware/proposal/discussion/1563-simplemajority-a-proposed-edgeware-governance-standard). \n\nThe community then votes to approve or reject the request, locking their tokens to indicate their view one way or the other. They can increase their voting weight by locking for longer which gives some signal of their commitment to a particular decision. \nIssues\n\nThe main issue is very simple but incredibly complex given the infinite directions the project could take given its current positioning: \n\n> Edgeware is a smart contract chain with a community-managed treasury, decentralized proposal system and network of DAOs.\n\nThis is reinforced by the proposition: **\"What Will You Build?\"**\n\nReduced to it's existential function, Edgeware's purpose is to debate this question... in the end, proposals and on-chain governance exist to make decisions in an open a",
+  "content_url": "https://threads.common.xyz/8c0c28e4-63c0-4a80-80e2-387370cced83.md",
+  "created_at": "2022-02-10T16:20:28.115Z",
+  "updated_at": "2025-03-18T00:14:32.171Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "mrbulb",
+  "topic_id": 95,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/3776",
+  "body_complete": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 7855,
+  "title": "Proposal: Subscan's Operational Costs",
+  "body": "## Operational Proposal: Subscan Explorer operation, maintenance & hosting\n\n Date: 27th November 2022\n\nItering Tech Pte. Ltd./ Subscan\n\nProposal type: Majorly postpaid, Fixed monthly incentives\n\n### **Summary**\n\nSubscan have been offering their substrate explorer suite and related services to Edgeware since around the genesis. This proposal is to acknowledge/ incentivise their operational, maintenance & hosting efforts/contributions for the Edgeware explorer.\n\n### **Services**\n\nOffered so far:\n\n- Operation and Maintenance of Edgeware explorer\n- Subscan Hosted Node for the explorer\n\nRecent Reductions:\n\n- Since November, JelliedOwl has provisioned a dedicated node for Subscan and thus the hosting charges (299 USD per month) won't be applicable anymore.\n\nPotential additions:\n\n- Support for EdgeEVM\n- Additional details for extrinsics: 'Estimated Fee' and 'Used Fee'\n\n### **Summary of Current Charges**\n\n| **Description** | **Billing Period** | **Subtotal (USD)** |\n| --- | --- | --- |\n| Subscan Service: Operation and Maintenance (639.2 USD per month) | 01/01/2022-12/31/2022 | US$7,670.4 |\n| Subscan Service: Subscan Hosted Node (299 USD per month) | 01/01/2022-10/31/2022 | US$2,990 |\n\n### **Incentives**\n\nTotal incentives: 10660.4 USD\n\nRecipient's address: kwAPUDGXdGwVFBpWDyB7sN19PQA1dmugBoq4jApuhGB6sAd\n\n7-day trailing average: 0.000489\n\nTotal in EDG: 21800409 EDG",
+  "content_url": null,
+  "created_at": "2022-11-27T22:30:07.002Z",
+  "updated_at": "2025-03-17T18:57:43.395Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/7855",
+  "body_complete": true
+}

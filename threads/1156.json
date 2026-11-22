@@ -1,0 +1,15 @@
+{
+  "id": 1156,
+  "title": "👉 New to Edgeware? Start here",
+  "body": "_This thread serves as a reference for users getting started on the network. It will be a perpetual work-in-progress; please help by suggesting additions in the comments below!_\n\n## **Introduction to Edgeware**\n\nEdgeware is a state-of-the-art smart contract chain with a community-managed treasury, decentralized proposal system, and network of DAOs.\n\nEdgeware is a platform for the next generation of decentralized applications. On Edgeware, Ethereum developers can deploy [Solidity/EVM](https://main.edgeware.wiki/edgeware-runtime/evm) smart contracts with few or no changes, while new developers can get started with Rust and [WebAssembly](https://main.edgeware.wiki/edgeware-runtime/wasm).\n\nBuilders and organizers can find a place in one of Edgeware’s many collectives funded by the on-chain treasury to expand the network and explore new ideas.\n\nThe treasury and chain are governed by a [fairly-launched](https://blog.edgewa.re/the-edgeware-lockdrop-debriefed/), widely distributed set of stakeholders established during the lockdrop, one of the largest Ethereum token generation events in 2018.\n\n\n## **How to get started**\n\n- Join the [Edgeware Discord](https://discord.gg/njDnHDk) channel and introduce yourself\n- Optional, but fun: [create an on-chain identity](https://commonwealth.im/edgeware/proposal/discussion/393-registrar-process-and-verification-tiers-registrar-index-0) (this locks 5 EDG)\n- Attend a working groups' weekly call (_our [calendar](https://calendar.google.com/calendar/u/0?cid=Y29tbW9ud2VhbHRoLmltX2loYnM4OTJwcXVidm9ndG9pbTZjMWhmN2NrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)_)\n- Attend the bi-weekly community call - Wednesdays from 1-2pm ET, [link to Zoom room.](https://us02web.zoom.us/j/9320459771)\n- Ready to start giving to the community?  Here's a few ways to help:\n\n\n- Help establish a partnership between Edgeware and another team, network, or community\n- Build on Edgeware - we’re [Wasm](https://main.edgeware.wiki/edgeware-runtime/wasm) and [EVM compatible](https:",
+  "content_url": "https://threads.common.xyz/60de527f-7a4b-4b83-9769-f024ce202d73.md",
+  "created_at": "2021-05-18T19:41:56.840Z",
+  "updated_at": "2025-03-16T15:08:02.806Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "Grant Dever",
+  "topic_id": 95,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1156",
+  "body_complete": true
+}

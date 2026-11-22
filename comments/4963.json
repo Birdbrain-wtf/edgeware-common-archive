@@ -1,0 +1,41 @@
+[
+  {
+    "id": 22539,
+    "thread_id": 4963,
+    "address_id": 47035,
+    "body": "Your last infographic was really good. Please make sure to create next one in that format.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-06-10T18:04:19.162Z",
+    "updated_at": "2022-06-10T18:04:19.162Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 20855,
+    "thread_id": 4963,
+    "address_id": 42860,
+    "body": "Opted for SCU: Yes",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-05-22T11:00:08.324Z",
+    "updated_at": "2022-05-22T11:00:08.324Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Dotgraphic "
+  },
+  {
+    "id": 20741,
+    "thread_id": 4963,
+    "address_id": 44333,
+    "body": "Thank you for doing the amazing work for the community. Hope you will continue this work and help edgeware to grow.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-05-20T07:29:16.314Z",
+    "updated_at": "2022-05-20T12:55:32.276Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": 2268,
+  "title": "The Cutting Edge: Week of October 4th",
+  "body": "**Highlights**\n- Edgeware Docs got [a brand new changelog page](https://twitter.com/HeyEdgeware/status/1446502649315086336?s=20).\n- Edgeware Community Discord got a [price tracker bot](https://twitter.com/HeyEdgeware/status/1446865043363147778?s=20).\n- All validators are requested to upgrade their nodes to the [release v3.3.3 or later](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP4/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP4/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n- Get to know more technical oriented updates on the ‘[EDG Dev Digest](https://blog.edgewa.re/edg-dev-digest-oct-3/)’.\n\n\n**Ecosystem Updates**\n- [Zien revealed Drop 05](https://twitter.com/joinzien/status/1446460798566535176?s=20) by Joey Holder in collaboration with Seventeen.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n- [Biconomy having a public token sale](https://twitter.com/biconomy/status/1445850667189366791?s=20) on CoinList.\n\n\n**Governance**\n- Democracy Referendum 49 for [ERUP4/Wako upgrade](https://gov.edgewa.re/proposal/discussion/1100-erup-4-substrate-30-evm-updates-runtime-modules) was not passed majorly because of security concerns raised. {Democracy Proposal #40, Referendum Type: SuperMajorityApprove}\n\n\n**Community**\n- The Calendar of events has many items each week, meetings on NFTs, DAOs, chain strategy and governance- whatever you're interested in, [take a look](https://gov.edgewa.re/proposal/discussion/1059-edgeware-community-calendar-add-to-your-gcal).\n- Recent/trending Community Research thread(s):\n- [Interest in pa",
+  "content_url": "https://threads.common.xyz/ee3859d2-c8e2-45bd-a06d-25ee8f9406f4.md",
+  "created_at": "2021-10-12T22:52:30.185Z",
+  "updated_at": "2025-03-17T00:31:27.687Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2268",
+  "body_complete": true
+}

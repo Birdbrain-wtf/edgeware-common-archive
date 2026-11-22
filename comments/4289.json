@@ -1,0 +1,67 @@
+[
+  {
+    "id": 30735,
+    "thread_id": 4289,
+    "address_id": 1067,
+    "body": "**Recent additions:**\n- [Public RPC and bootnodes - JelliedOwl](https://gov.edgewa.re/discussion/6607-public-rpc-and-bootnodes-jelliedowl) {Postpaid}\n\n\n**Recent Changes:**\n- New regional mod in the house: [David/d.gen/dave.sama](https://gov.edgewa.re/discussion/4691-moderators-incentives-postpaid-proposal?comment=29821) {Affected parent proposal: [Community Mods](https://gov.edgewa.re/discussion/4691-moderators-incentives-postpaid-proposal), Change in total incentives: 3500 USD -> 3625 USD}\n- [Role Upgrade from Senior Community Mod to Lead Community Mod](https://gov.edgewa.re/discussion/7000-role-upgrade-proposal-lead-community-moderator) for Frogman {Affected parent proposal: [Community Mods](https://gov.edgewa.re/discussion/4691-moderators-incentives-postpaid-proposal), Change in total incentives: 3625 USD -> 4125 USD}",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-10-04T10:25:45.398Z",
+    "updated_at": "2022-10-04T10:25:45.398Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 29132,
+    "thread_id": 4289,
+    "address_id": 1067,
+    "body": "**Recent additions:**\n- [Infographics by Dotgraphic](https://gov.edgewa.re/discussion/4141-marketing-with-social-media-outreach-through-infographics-by-dotgraphic) {Variable incentives, proportional to the quantity of the deliverables.}\n\n\n**Upcoming additions:**\n- [Public RPC and bootnodes - JelliedOwl](https://gov.edgewa.re/discussion/6607-public-rpc-and-bootnodes-jelliedowl)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-09-04T22:41:29.311Z",
+    "updated_at": "2022-09-04T22:41:29.311Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 27202,
+    "thread_id": 4289,
+    "address_id": 1067,
+    "body": "**Recent additions:**\n- [Edgeware DAO Social Media Manager](https://gov.edgewa.re/discussion/5234-edgeware-dao-social-media-manager) {Postpaid}\n- [DAO Financial Strategist Team](https://gov.edgewa.re/discussion/5306-proposal-dao-financial-strategist-team) {Postpaid}\n\n\n**Recent Changes:**\n- [Role Upgrade from Global Community Mods to Senior Community Mods](https://gov.edgewa.re/discussion/6311-role-upgrade-proposal-senior-community-moderators) for Frogman and Zerom {Affected parent proposal: [Community Mods](https://gov.edgewa.re/discussion/4691-moderators-incentives-postpaid-proposal), Change in total incentives: 2500 USD -> 3500 USD}\n\n\n**Recent removals:**\n- [Technical Moderator](https://gov.edgewa.re/discussion/4306-solo-contributor-proposal-technical-moderator) {They changed the pre-commitment to 0hr/week and will be charging based on the delivery of AMM on EdgeWASM.}\n\n\n**Upcoming additions:**\n- [Marketing with Social media outreach through infographics - by Dotgraphic](https://gov.edgewa.re/discussion/4141-marketing-with-social-media-outreach-through-infographics-by-dotgraphic)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-08-01T22:47:04.504Z",
+    "updated_at": "2022-08-01T22:50:37.151Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 18471,
+    "thread_id": 4289,
+    "address_id": 1067,
+    "body": "**List of active Solo Contributors' Union members:**\n1. [Community Mods](https://gov.edgewa.re/discussion/4691-moderators-incentives-postpaid-proposal) {Postpaid}\n2. [Content Moderator](https://gov.edgewa.re/discussion/4733-solo-contributor-proposal-content-moderator-zovern-postpaid) {Postpaid}\n3. [Edgeware DAO Social Media Manager](https://gov.edgewa.re/discussion/5234-edgeware-dao-social-media-manager) {Postpaid}\n4. [DAO Financial Strategist Team](https://gov.edgewa.re/discussion/5306-proposal-dao-financial-strategist-team) {Postpaid}\n5. [Infographics by Dotgraphic](https://gov.edgewa.re/discussion/4141-marketing-with-social-media-outreach-through-infographics-by-dotgraphic) {Variable incentives, proportional to the quantity of the deliverables.}\n6. [Public RPC and bootnodes - JelliedOwl](https://gov.edgewa.re/discussion/6607-public-rpc-and-bootnodes-jelliedowl) {Postpaid}",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-04-08T21:15:38.720Z",
+    "updated_at": "2022-10-04T10:27:02.589Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 18470,
+    "thread_id": 4289,
+    "address_id": 1067,
+    "body": "Verify the integrity of the draft here: [https://edgeware.subscan.io/extrinsic/11190963-1](https://edgeware.subscan.io/extrinsic/11190963-1)\n\nVerification tool: [https://www.md5hashgenerator.com/](https://www.md5hashgenerator.com/)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-04-08T21:10:58.299Z",
+    "updated_at": "2022-04-08T21:17:48.132Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  }
+]

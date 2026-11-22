@@ -1,0 +1,15 @@
+{
+  "id": 8801,
+  "title": "Dwellir: RPC service Q4 2022",
+  "body": "Good morning all!\n\nDwellir is a leading provider of IaaS (infrastructure as a service), focusing on delivering high-quality RPC infrastructure to many projects within the Dotsama ecosystem. With over 25 projects supported to date, we have a proven track record of success in this area.\n\nWe are thrilled to make our proposal for running a geographically distributed public Edgeware RPC API Service in Q4 2022. This service has provided reliable and scalable RPC infrastructure to the Edgeware community, making it easier for developers to build and launch their projects on the Edgeware platform. By distributing the service geographically, we aim to provide users worldwide with low latency and high availability.\n\nOur team is dedicated to delivering the best possible service to our clients. We are confident that our proposed Edgeware RPC API Service will be a valuable addition to the ecosystem. We look forward to working with the Edgeware community and helping drive your projects' success.\n\nOur current service for the Edgeware community can be accessed at:\n\nwss://edgeware-rpc.dwellir.com\nhttps://edgeware-rpc.dwellir.com\n\nWe request a sum of EDG 10,090,341 to cover the costs of delivering our services during Q4. \n\nFor more information on our proposal [read here](https://docs.google.com/document/d/19LLYHxQgueSx1zudLPoX2xZuj51Yl42BWu6k-ZQ6JLo/edit#).\n\n## Proposal Details Overview\nBlockchain infrastructure setup can be a complex and time-consuming process that requires specialised DevOps skills and can be costly to maintain. However, Dwellir's infrastructure offering provides value to your project in several ways:\n\n- Our team has the expertise to handle the technical details of setup, including tasks such as managing SSL certificates, configuring WebSockets, setting up HTTPS, handling firewall configurations, implementing security measures, monitoring performance, reporting on key metrics, and managing upgrades.\n- We own and operate our infrastructure, offering fair and sustaina",
+  "content_url": "https://threads.common.xyz/a21810de-33d2-414b-a41c-c413cdf89892.md",
+  "created_at": "2023-01-03T08:35:28.445Z",
+  "updated_at": "2025-03-14T18:42:30.125Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": null,
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/8801",
+  "body_complete": true
+}

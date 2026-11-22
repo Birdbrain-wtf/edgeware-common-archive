@@ -1,0 +1,15 @@
+{
+  "id": 7140,
+  "title": "Community Developer Proposal: Depth Hoar",
+  "body": "**Date: 10/03/2022**\n**Builder:**\n**   Depth Hoar (Adam)**\n**   Telegram: @DepthHoar**\n**   Discord: Depth Hoar#2646**\n\n# **Introduction:**\nHey everyone, I have been part of the community and contributing for almost a year and a half. I have contributed to Edgeware in many ways. I technically set up the rosetta API integration, the delegation UI, the documentation website, and SimpleUI, and I run an edgeware validator. Through education, this being youtube tutorial videos and leading a cohort on educating the technical abilities of Edgeware and updating documentation. I have recently created the simple UI and will soon deploy an escrow dapp on Edgeware’s EVM. My strengths are web development, smart contract development, and teaching others.\n**References:**\n[https://github.com/Depth-Hoar](https://github.com/Depth-Hoar)\n[https://www.youtube.com/channel/UC7LAzthbMfggA28kE1fihaA/videos](https://www.youtube.com/channel/UC7LAzthbMfggA28kE1fihaA/videos)\n[https://www.youtube.com/user/thedepthhoar](https://www.youtube.com/user/thedepthhoar)\n[https://blog.edgewa.re/author/adam/](https://blog.edgewa.re/author/adam/)\n\n\n## **Primary deliverables:**\n- **Community EVM Dev (will deploy an EVM escrow dApp on Edgeware, almost completed)**\n- **Community validator**\n- **Maintain edgeware documentation website[ https://www.edgeware.wiki](https://www.edgeware.wiki)**\n- **Maintain EdgeApps website[ https://www.edgeware.app/](https://www.edgeware.app/)**\n- **Maintain SimpleUI website[ [https://www.simple.edgeware.app/](https://www.simple.edgeware.app/)](https://www.edgeware.app/)**\n- Continue to write the weekly **EDG** **Developer update  **\n- **Host weekly Dev meetings**\n\n\n## **Dynamic deliverables:**\n- **Update Documentation**\n- **Publish Technical Tutorial Videos as needed**\n- **Smart contract support EVM and WASM(the best I can)**\n- **Community mentorship**\n\n\n## **Tentative deliverables:**\n- **R&D Self host a fork of [Polkassembly](https://github.com/Premiurly/polkassembly) and integr",
+  "content_url": "https://threads.common.xyz/c631836b-373f-472b-b376-28790c418324.md",
+  "created_at": "2022-10-03T15:28:35.104Z",
+  "updated_at": "2025-03-18T05:55:42.097Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "Depth",
+  "topic_id": 1044,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/7140",
+  "body_complete": true
+}

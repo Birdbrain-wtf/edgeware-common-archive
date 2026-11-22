@@ -1,0 +1,54 @@
+[
+  {
+    "id": 26405,
+    "thread_id": 6007,
+    "address_id": 14385,
+    "body": "## New Approach for KAB Distribution\n\n**Brief:**\n\n- Instead of the above proposed treasury of 6,437,924.018517766 (~ 9.32% of the total KAB supply), the treasury will be around ~5.1% of the total KAB supply(4.9% = crowdloan rewards + 0.2% = contingency buffer)\n\n\n- **Reason**: \n\nNow that Kabocha is equipped with the Pallet Mint functionality, there is no concrete need(open for discussion) to have a treasury. So instead the remaining amount i.e the ~4.22% (9.32% - 5.1%) will be distributed to the EDG holders. This will result in two major benefits: \n(a) EDG holders get slightly higher than 1:1 network share in the KAB ecosystem \n\n(b) KAB will be inflationary in nature, as new tokens will be minted for new proposals, so it makes sense to incentivize the holders by rewarding them with higher network shares during initial distribution.\n\nFor this mechanism, the 1.5% founder's rewards as well as the Edgeware recoup can be done using the Pallet Mint functionality, instead of keeping it as a part of the initial treasury .\n\n**Please find the calculations here:**\n[New KAB Distribution](https://docs.google.com/spreadsheets/d/14XNkXx-4CfzAtkHqdb5kRwCFB2XOluKSdVmZL3o8FCc/edit#gid=0)\nThis mechanism was discussed in the Community Financial Call of 19th July’22.\n\n-",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-20T18:50:44.491Z",
+    "updated_at": "2022-07-20T19:02:53.774Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Advait"
+  },
+  {
+    "id": 26419,
+    "thread_id": 6007,
+    "address_id": 1067,
+    "body": "I'm personally in favour of this as Tech Stewardship and Recoup makes more sense as proposals once the democracy is launched on Kabocha as previously agreed upon.",
+    "parent_id": 26405,
+    "content_url": null,
+    "created_at": "2022-07-20T21:31:53.698Z",
+    "updated_at": "2022-07-20T21:31:53.698Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 26297,
+    "thread_id": 6007,
+    "address_id": 14385,
+    "body": "> This treasury has been set aside for crowdloan rewards and for Decentration's founder's reward and other setup costs, including[ Edgeware's recoup](https://gov.edgewa.re/discussion/3806-kabocha-funding-and-edgeware-recoup) which we are currently calculating, collators and general network contingency. \n\n[@Decent Partners](/edgeware/account/ks9tY4vnb5oEGsj5QyrJ1Z66ydjMbjhy623zMBdnCigfGAk) is the Decentration founder's reward same as the 1.5% of genesis mentioned above?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-18T17:06:27.663Z",
+    "updated_at": "2022-07-18T17:06:27.663Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Advait"
+  },
+  {
+    "id": 26298,
+    "thread_id": 6007,
+    "address_id": 1335,
+    "body": "yes",
+    "parent_id": 26297,
+    "content_url": null,
+    "created_at": "2022-07-18T17:10:56.384Z",
+    "updated_at": "2022-07-18T17:10:56.384Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": 6896,
+  "title": "Decentration Previous monthly contribution (final invoice) August 8th to September 8th 2022",
+  "body": "# Phase Completion, final invoice #003\n\n\n_V2.0 - Updated: added Done, In Progress, ToDo; removed \"periodic\" to be less confusing; made it clear this is the kabocha delivered, though this will also be done in a separate post._\n\n\n## Status = Delivered\nKabocha's need for sudo by a technical steward has now come to an end! The delivery objectives have been delivered. This includes making sure the runtime is in a working and secure state to then be managed by the community through Democracy. \n\nThis month's word done:\n\n# Done\n\nRuntime upgrade [**kab-release-v0.2.3**](https://trello.com/c/ZmNzDTgA)\n- Fix expensives transaction fees\n- Add identity pallet\n- Treasury burn permill make 0 (or lower)\n- Transaction fee reduction\n\n[Link to github commits](https://github.com/kabocha-network/parachain/commit/563fce5df61e0ecd12b380dccb2dbffee5db0a5b)\n\n- Connect to rococo to start collaborations with other chains including, Karura, bitfrost, OAK, Kilt and Encointer to name a few on the radar. \n\n**KAB Distribution Fixes**\n- Run through 300 bugs in distribution to make fixes using script from CLI. Thanks to jelliedOwl for the support. And thanks to Nathan for all the prior work on this. \n\n# In Progress\nRuntime upgrade [**kab-release-v0.2.4**](https://trello.com/c/shqR4k9Q)\n- update runtime to polkadot-v0.9.28\n- Benchmarks (except for supersig, working on fix to BoundedVec test)\n- reduce pre-image storage cost per byte (currently 0.1KAB), down to 0.001KAB. So that the cost of making a runtime upgrade is not extortionate.\n\n[Link to github commits](https://github.com/kabocha-network/parachain/commits/kab-release-v0.2.4)\n\n# ToDo\nThere are no more ToDo's for this phase only the in progress are to be complete, which are imminent. \n\nThe story for Kabocha has only just begun, so there lots of todo's which are dynamically being added and priotised which you can check here. \n\n\n[**Kabocha Launch Phases**](https://kabocha-network.notion.site/Kabocha-Funding-Proposals-41c531609fbd4562a96b6d34d37ceed",
+  "content_url": "https://threads.common.xyz/b8c685e5-c011-40c0-9277-54177f628cb4.md",
+  "created_at": "2022-09-08T10:32:47.779Z",
+  "updated_at": "2025-03-18T16:32:48.030Z",
+  "last_edited": null,
+  "comment_count": 4,
+  "profile_name": "Ramsey_Decentration",
+  "topic_id": 990,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/6896",
+  "body_complete": true
+}

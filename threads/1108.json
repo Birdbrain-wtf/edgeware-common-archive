@@ -1,0 +1,15 @@
+{
+  "id": 1108,
+  "title": "Idea: CloneDAO",
+  "body": "A DAO that monitors blockchains for gas guzzling contracts and deploys them with a \"top level\" $CLONE token that controls governance.\n\nIn theory, this should just replicate popular projects... in practice, not so much but I like the idea of a programmatic DAO that leans in to the autonomous aspect",
+  "content_url": null,
+  "created_at": "2021-04-08T08:29:24.742Z",
+  "updated_at": "2025-03-17T22:26:20.254Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "dillchen",
+  "topic_id": 111,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1108",
+  "body_complete": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1832,
+  "title": "Proposal: Activate the Technical Council, consider EDG as two aspects.",
+  "body": "**Summary**\nEdgeware was the first Substrate-based mainnet to launch. It deployed not only a smart contract chain but a set of palettes from Substrate that instantiated a council, a referenda body, an on-chain treasury, and several other features.\n\nSince our inception, we've seen Edgeware as one large chain-dao, with the elected council, referenda, and the agency working together to develop the network.\n\nThis post argues that we can more effectively describe and manage our ecosystem through a more clear division in our chain-dao concept by focusing on the two aspects individually, analyzing our efforts, governance, and labor separately. \n\n# Edgeware-as-Chain\n\nEdgeware's smart contract platform and blockchain is a highly technical, cutting-EDG product with evolving Ink!/Rust smart contracting and nascent but highly functional EVM support. With the upcoming Wako upgrade, we'll see a broad ability for Solidity contracts and projects to launch, extend and migrate to EDG.\n\nThe process of upgrading to Wako however, has revealed a deep need for technical ownership and leadership beyond what the Agency is currently able to provide. Previously, I'd opened a discussion on an offering of percentage EDG to teams that would effectively develop and sustain EDG's broad functionality with a focus on platform growth and use. Instead, I am proposing that we activate a third governing body: the Technical Committee/Council, which we see active in KSM and DOT governance.\n\n> \"The Technical Committee can, along with the Council, produce emergency referenda, which are fast-tracked for voting and implementation. These are used for emergency bug fixes or rapid implementation of new but battle-tested features into the runtime.\n\n> Fast-tracked referenda are the only type of referenda that can be active alongside another active referendum. Thus, with fast-tracked referenda, it is possible to have two active referendums at the same time. Voting on one does not prevent a user from voting on the o",
+  "content_url": "https://threads.common.xyz/7b21e5cb-093b-48c3-8af0-3aa5bd53715a.md",
+  "created_at": "2021-09-16T15:43:23.786Z",
+  "updated_at": "2025-03-17T23:02:12.876Z",
+  "last_edited": null,
+  "comment_count": 3,
+  "profile_name": "Thom Ivy",
+  "topic_id": 95,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1832",
+  "body_complete": true
+}

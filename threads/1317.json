@@ -1,0 +1,15 @@
+{
+  "id": 1317,
+  "title": "DOT Parachain Bonding",
+  "body": "Resurfacing this in a new thread as the last one concluded in this model and recommendation. If we can have consensus here, we can start to prep and market. \n\n** After a period of re-review and planning,  we can open a poll on this thread for signaling.**\n\n**Changelog:**\nJune 8 2021: I've made more clear that the existing data is primarily about the previous, outdated conclusion.\nJune 9 2021: I've updated the market data and Parachain.live import for June, and added a column to see how the averages changed from 4 months ago.\n## ----\n\n\n## June 2021 Model (WIP)\n[https://docs.google.com/spreadsheets/d/1cjLxok5ISCPqZv4hV-aPYDlKBuA9w3suT4MeMGw2FUo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1cjLxok5ISCPqZv4hV-aPYDlKBuA9w3suT4MeMGw2FUo/edit?usp=sharing) \n\n\n**Averages as of June 8 2021**\n\nAvg. Supply Allocated\t7.66%\nAvg. Circulating Supply\t502,480,000.00\nAvg. Total Supply\t717,952,636.84\nAvg. Listed Price\t $ 12.01 \nAvg Auction Reward\t717,952,636.84\nAvg. Vesting Period (Months?)\t22.00\nAvg. Initial Reward\t3,500,000.00\nAvg. Reward/Circulating Supply\t0.10\n\nUpdated (June 2021) Recommendation\n\n-To be completed-\n\n## \n## **Outdated Model (Feb 16 2021)**\n[https://docs.google.com/spreadsheets/d/1NJPmp1HVylUJcwxtOgUvIMndaGOMgw2yDrgzG-gJHWk/edit#gid=0](https://docs.google.com/spreadsheets/d/1NJPmp1HVylUJcwxtOgUvIMndaGOMgw2yDrgzG-gJHWk/edit#gid=0)\n\n**The old recommendation from Feb 16 2021**\nLease Length: 1-2 years\nSupply Allocated: 1.5 % - 5% depending on scenarios.\nAuction Reward (# of EDG): 59.342m to 296.71m\nVesting Period (Months?): 24 or 48 --This is a political question whether we want to do it, as a live chain I think yes, not to exceed the duration of lease.\nInitial Reward (Tokens released at parachain Launch): N/A, as we are live. might change if parachain launching is complicated.\nReward/Circulating Supply (Min-Max): 1.11% to 5.55%\n##",
+  "content_url": "https://threads.common.xyz/ffb6c356-f4c4-4e4b-8eab-2cb9e9d83706.md",
+  "created_at": "2021-06-08T19:52:46.925Z",
+  "updated_at": "2025-03-17T22:39:28.149Z",
+  "last_edited": null,
+  "comment_count": 5,
+  "profile_name": "Thom Ivy",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1317",
+  "body_complete": true
+}

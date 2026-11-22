@@ -1,0 +1,81 @@
+[
+  {
+    "id": 4038,
+    "thread_id": 1504,
+    "address_id": 1335,
+    "body": "> I meant to exit the common project \nsorry can you clarify?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-08-26T06:47:03.768Z",
+    "updated_at": "2021-08-26T06:47:03.768Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 4030,
+    "thread_id": 1504,
+    "address_id": 1004,
+    "body": "> On this, I also think that the idea of needing an 'exit' for projects that are funded makes the project out to be a VC fund, when it very much isn't and its important to not conflate EDG's network with a traditional venture fund., it is very different.\n> What is the 'exit' for 'Exit Theory' for example?\n\nWhile the idea of what is a win for the chain is flexible-- cultural product like Exit Theory being a good case, I meant to exit the common project - -poor phrasing on my part, as in EDG on-ramps/off-ramps.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-08-25T16:50:20.764Z",
+    "updated_at": "2021-08-25T16:50:20.764Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 3959,
+    "thread_id": 1504,
+    "address_id": 1335,
+    "body": "> Hi [@Thom Ivy](https://commonwealth.im/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) , hi all - so this vote closed the other day. Looks like there were 4 for, and 0 against so what are next steps? Were there enough votes and interactions to warrant this a 'material' vote and move forward for there Edgeware community? \n\nHey [@Chris Thomas](/edgeware/account/ivuvZzq5VBk6MQNqtn1YHaCUn39WEhZHaBmMXN6wD4QsTo9) - welcome back, glad you're better!\n\nThe 'votes' on the post aren't linked to the chain and are more a soft-signal of support from the 4 who gave it a 'more so' - what this means is anyone's guess. \n\nThe central insight that roots Thom's post is that the community is defined by what it funds - something I very much agree with and if we are talking about that as a central narrative, then I support that, we don't need to over-complicate it though. \n\nSo far the community has funded a wide range of things - all of which it has a 'stake' in, but the question is quite how soecific that stake needs to be. \n\nFunded projects include amongst other things:\n\n- Commonwealth.im\n- Brand Working Group (became The Agency)\n- Exit Theory \n- How To Make It In Crypto-Media \n- Exchanges\n- Webb\n- Frontier Wallet\n- New-Futures (hopefully passing soon)\n- Kabocha (in development)\n\n\n\"What Will You Build?\" is still a well aligned tagline for this 'use case'. \n\nI've mentioned in Agency chats, but it would make sense to put the things we have funded up front in our website and tell the stories of these teams and projects. \n\nThom mentions \"Edgeware Alphas, Betas, Gammas etc\"\n\nEdgeware Alpha (formerly BuilDAO) is right now just 50m EDG sat in a wallet.\n\nI know Thom has been having conversations with people about the funds and the structure, but there is no need to race to launch new versions of something that has yet to launch and will be waaaaay harder than anyone thinks.\n\n> We allow participants via stake-in-the-game to accrue from all over the world, to vote on investment",
+    "parent_id": null,
+    "content_url": "https://comments.common.xyz/a235933b-bd62-437a-91a4-3d681640a281.md",
+    "created_at": "2021-08-19T15:49:59.874Z",
+    "updated_at": "2021-08-20T08:55:06.203Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb",
+    "full_text": "> Hi [@Thom Ivy](https://commonwealth.im/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) , hi all - so this vote closed the other day. Looks like there were 4 for, and 0 against so what are next steps? Were there enough votes and interactions to warrant this a 'material' vote and move forward for there Edgeware community? \n\nHey [@Chris Thomas](/edgeware/account/ivuvZzq5VBk6MQNqtn1YHaCUn39WEhZHaBmMXN6wD4QsTo9) - welcome back, glad you're better!\n\nThe 'votes' on the post aren't linked to the chain and are more a soft-signal of support from the 4 who gave it a 'more so'. \n\nThe central insight that roots Thom's post is that the community is defined by what it funds - something I very much agree with and if we are talking about that as a central narrative, then I support that, we don't need to over-complicate it though. \n\nSo far the community has funded a wide range of things - all of which it has a 'stake' in, but the question is quite how soecific that stake needs to be. \n\nFunded projects include amongst other things:\n\n- Commonwealth.im\n- Brand Working Group (became The Agency)\n- Exit Theory \n- How To Make It In Crypto-Media \n- Exchanges\n- Webb\n- Frontier Wallet\n- New-Futures (hopefully passing soon)\n- Kabocha (in development)\n\n\n\"What Will You Build?\" is still a well aligned tagline for this 'use case'. \n\nI've mentioned in Agency chats, but it would make sense to put the things we have funded up front in our website and tell the stories of these teams and projects. \n\nThom mentions \"Edgeware Alphas, Betas, Gammas etc\"\n\nEdgeware Alpha (formerly BuilDAO) is right now just 50m EDG sat in a wallet. I know Thom has been having conversations with people about the structure, but tbh racing to launch new versions of something that has yet to launch and will be waaaaay harder than anyone thinks. \n\nIt makes obvious sense to just figure out Edgeware Alpha first before moving on. \n\nI seem to say this a lot, but we don't need to do everything simultaneously - slow and steady wins the race, especially in this very early stage of Substrate / on-chain governed and treasury funded networks.\n\nWill you be bringing back a new version of your Defolio proposal for discussion?\n\nWhat do you and Thom hope next steps are?"
+  },
+  {
+    "id": 3958,
+    "thread_id": 1504,
+    "address_id": 2763,
+    "body": "Hi [@Thom Ivy](/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) , hi all - so this vote closed the other day. Looks like there were 4 for, and 0 against so what are next steps? Were there enough votes and interactions to warrant this a 'material' vote and move forward for there Edgeware community?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-08-19T07:02:49.668Z",
+    "updated_at": "2021-08-19T14:47:13.734Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Chris Thomas"
+  },
+  {
+    "id": 3859,
+    "thread_id": 1504,
+    "address_id": 2763,
+    "body": "Firstly, I've been an armchair spectator for the last four months - largely due to health reasons, but back on track now. Sorry for my silence. \n\nI think it was visionary in it's time and its a credit to all of those involved who chose to be one of the first adopters of substrate and tackle hard problems face on. The hard route may have proven frustrating at times, but I'm sure it has been more educational, character building and a the most innovative way forward.\n\nYou make some very valid points, Thom - centralised entities definitely have the advantage (for just now!) (personally I hope we see a semi-decentralised future - fully either way just doesn't work!), but the experience the team has gained in the last few years gives Edgeware a huge advantage when it comes to understanding other projects and what may/ may not work within the ecosystem and world at large. \n\nThe set up of Edgeware Alpha is already great and can be used as one of the main pieces of the model. I'd think with a lot of the experiences and proof points the team has collected over the years it will stand in good stead to be able to raise some funds to expand the Treasury and allow further creation of the ecosystem in a slightly more aggressive way. And clever community involvement, as Thom has eluded to above, will likely prove to become a more successful business model than traditional VC where they're out to benefit just a few! \n\nPerhaps frustrating for some, given the challenges over the last few months, but seems to be a pivot in the right direction! :)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-08-09T14:20:25.346Z",
+    "updated_at": "2021-08-09T14:20:25.346Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Chris Thomas"
+  },
+  {
+    "id": 3829,
+    "thread_id": 1504,
+    "address_id": 3334,
+    "body": "Absolutely love this idea and I think you're seeing the future really well, Thom! One quick thought is we will need to get around how abundant capital is today - its one of the 'easier' things to attain (in a matter of speaking). So many VCs, Angels out there and Tiger writing checks basically unseen. \n\nBut something special here.\nGrassroots.\nRad narrative with Community upside (on many metrics).\n\nIf only a thought exercise, also super cool.\nGreat share.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-08-08T01:13:17.542Z",
+    "updated_at": "2021-08-08T01:13:17.542Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Dres"
+  }
+]

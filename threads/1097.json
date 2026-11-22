@@ -1,0 +1,15 @@
+{
+  "id": 1097,
+  "title": "The Cutting EDG: March 22nd, 2021",
+  "body": "## **Tech**\n\n- The Tokyo Upgrade has passed, [bringing EVM functionality to Edgeware and opening a world of development, dapps, tooling, and infrastructure.](https://blog.edgewa.re/evm-launch-on-edgeware-brings-wealth-of-ethereum-contracts-and-developers-to-substrate/)\n- The technology for opening a bridge to ETH has been installed as well, called Chainbridge, built by the ChainSafe team.\n- Governance parameters have been altered to allow the chain to make more decisions over time.\n- Thom Ivy opens a discussion on a different technical path being a DOT parachain by launching [a bridge to DOT_ as a parachain_ for the Edgeware network.](https://commonwealth.im/edgeware/proposal/discussion/1095-multichain-edgeware-a-new-path-to-dot)\n\n\n## **Ecosystem Updates**\n\n**Commonwealth.im**\n_The multi-chain governance and community interface._\nThe Commonwealth team is making progress on an MVP for the new Commonwealth Protocol, more to come in the next two weeks. To build a new marketing site and mobile experience, they’ve also added more developers. \n** **\n**DTrade**\n_DTrade is a platform for trading perpetuals and options on Edgeware._\nNo major updates this week, just building.\n** **\n**Decent Partners**\n_Decent is a 'metadao' that seeks to create crypto-native public media._\nDecent [shared their recent progress in crafting their offer](https://commonwealth.im/edgeware/proposal/discussion/831-decent-an-edgeware-ecosystem-project-update-150321) to Edgeware users in return for an upcoming treasury proposal to fund digital arts and media assets in the public's interest.\n** **\n**LexBridge**\n_Lexbridge is a technological bridge to jurisdictions in the US - launch a DAO, and get a Series LLC mapped to that DAO._\nLexBridge has started development on additions to Commonwealth, to enable any Edgeware account to be attached to a Series LLC. The initial milestone will focus on personal accounts, offered through WyDAO LLC in a manner similar to www.otoco.io 's model, of minting LLCs tied to",
+  "content_url": "https://threads.common.xyz/7cda0e88-ddc2-4a1e-9255-33c011011c84.md",
+  "created_at": "2021-03-30T00:59:02.810Z",
+  "updated_at": "2025-03-14T03:24:43.066Z",
+  "last_edited": null,
+  "comment_count": 3,
+  "profile_name": "Abhi Vyas",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1097",
+  "body_complete": true
+}

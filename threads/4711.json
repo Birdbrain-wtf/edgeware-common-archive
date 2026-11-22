@@ -1,0 +1,15 @@
+{
+  "id": 4711,
+  "title": "Repost: OnFinality High Performance Public Infrastructure (Q1 2022) [Postpaid]",
+  "body": "**Proponent:** jH3nezdr2kn7M4jqoqVz27AUcPP99WgB1QgkhL5UJCu8b2d\n\n**Date:** 27th April, 2022\n\n**Requested EDG: **841,146.01\n\n**Short description:** Ongoing costs for the running of high performance, scalable, and reliable public infrastructure for Edgeware Network.\n[Full details of proposal is here](https://docs.google.com/spreadsheets/d/1UqscXLJnhM0X18qxF8apROEVMeLzG5GP9TlGZWpKTiE/edit?usp=sharing)\n\n\n## Original Motivation\nSetting up blockchain infrastructure is difficult, time consuming, and expensive:\n- It requires a level of server development expertise that many do not have\n- It’s costly to run a full node nearly continuously, especially when your dApp’s traffic is low and inconsistent.\n- Running production level infrastructure is especially tricky. You need to autoscale quickly to handle bursty traffic, and you want to provide services in different regions around the world to provide low latency services - all of this is incredibly costly, but comes with significant economies of scale for a provider.\n- DevOps requires constant attention - time that would be better spent elsewhere building.\n\nA shared node API service helps mitigate these barriers of entry to trying accessing a new protocol by reducing all these costs to near zero. We manage all the nodes for our users and distribute them across the world (with intelligent routing) to achieve global scalability from day 1, we monitor each node and ensure that they meet certain service levels, and we have the expertise and scale to handle production workloads and high peak traffic.\nIn summary, we try to reduce the pain of getting started on Edgeware Network and minimise the costs of accessing secure nodes while traffic from your dApp is low. When you grow, you can continue to use our shared API service, or we also provide access to one click deploy dedicated Edgeware nodes to any cloud of your choosing.\n\n## Service Details and Enhancements\nOver the Q4 2021 period OnFinality served a total of 112,444,934 responses t",
+  "content_url": "https://threads.common.xyz/35da439c-c617-486e-88d3-7b9529084284.md",
+  "created_at": "2022-05-03T21:15:57.537Z",
+  "updated_at": "2025-03-18T01:37:26.256Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4711",
+  "body_complete": true
+}

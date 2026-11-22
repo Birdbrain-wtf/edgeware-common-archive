@@ -1,0 +1,15 @@
+{
+  "id": 1453,
+  "title": "[Upgrade] Final Check for Wako Upgrade Push",
+  "body": "Re: the Wako upgrade, I noted several concerns from infra providers on the last Community Call. Looking to see if folks have tested on these issues lately, whether they are resolved. If we can settle these, we should begin requesting third parties are vals make the change.\n\n**Wako Upgrade Concerns**\n\n- Major: Issuance Inconsistent with Mainnet\n- Contract Costs Inconsistent with prior Testnets\n- Updates on Node Sync issues (Believe these are resolved)\n- Remz's concerns on Gas Weights re: denial-of-service\n- Remz also noted that several palettes are behind Substrate master, but these are not critical, just noting for issue tracking.",
+  "content_url": null,
+  "created_at": "2021-07-24T15:18:03.972Z",
+  "updated_at": "2025-03-17T04:16:03.906Z",
+  "last_edited": null,
+  "comment_count": 3,
+  "profile_name": "Thom Ivy",
+  "topic_id": 109,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1453",
+  "body_complete": true
+}

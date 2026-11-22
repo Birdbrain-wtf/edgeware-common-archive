@@ -1,0 +1,15 @@
+{
+  "id": 1457,
+  "title": "dTrade Update",
+  "body": "Hey Edgeware community, after careful assessment and deliberations with all stakeholders, we decided to not deploy dTrade on the Edgeware solo chain. The liquidity providers and market makers working with us require the shared security of the Polkadot relay chain to feel safe about their capital. For that, we have formally partnered with a parachain that will likely be the first live parachain on Polkadot with smart contract and L2 functionality; the results of Kusama auctions and their dev efforts are suggestive of this. We will make a public announcement on this soon. We had a several week testing phase and also involved all of the stakeholders, including our team, our advisors, our investors, the market makers and the liquidity providers. \n\nWe dedicated a considerable effort (several weeks) towards building the Ethereum<>Edgeware bridge and getting it pen tested by a third party auditing firm. As a gesture, we have open-sourced the code, which can be accessed from over here: [https://github.com/dtradeorg/ChainBridge](https://github.com/dtradeorg/ChainBridge). The audit report will be added to the GitHub in a few weeks after the backbox testing phase completes. It likely does not make sense to take it live on Edgeware solo chain but rather on the Edgeware parachain, once it is running. However, that is a decision for the Edgeware developers and community to make. \n\nWe’d like to thank the Edgeware agency and its community members for their support towards dTrade. We look forward to seeing Edgeware progress and grow in the Polkadot ecosystem. If you have any questions, please feel free to ask them on the Edgeware Telegram group, we are happy to remain active there over the next few days.",
+  "content_url": null,
+  "created_at": "2021-07-26T17:19:13.560Z",
+  "updated_at": "2025-03-17T22:45:50.012Z",
+  "last_edited": null,
+  "comment_count": 15,
+  "profile_name": "Zabi - Seedcode",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1457",
+  "body_complete": true
+}

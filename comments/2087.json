@@ -1,0 +1,55 @@
+[
+  {
+    "id": 8387,
+    "thread_id": 2087,
+    "address_id": 379,
+    "body": "There are plans for Pfeilstorch to eventually support document hashing; if timing and desired functionality lines up (i.e. we beat CW to it), perhaps we could contribute to the codebase.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-09-29T22:49:49.919Z",
+    "updated_at": "2021-09-29T22:49:49.919Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 8386,
+    "thread_id": 2087,
+    "address_id": 287,
+    "body": "I am not an active contributor to the interface right now, so my suggestions here are limited.\n\n- What are the specific issues with CW that have been brought up? It’s quite unclear to me from the mentions so far.\n- I know there was downtime at one point, and don’t expect that to recur.\n- There was a bug report from moon rocket above. I can’t tell if that’s because moon switched to a new account\n- Common Protocol devs are in the process of decentralizing the backend. I’m not sure what the timeline is there.\n\n\nIf the community is interested in running a fork, then it is key that it’s led by a capable team with a commitment to delivering, on a reasonable timeline, with updates.\n\nNote that there have not been updates for most EDG funded grants.\n\nIf we disregard this we will run into a repeat of the Staking UI or Edgswap situations where developers are driven away from the network.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-09-29T22:02:13.040Z",
+    "updated_at": "2021-09-29T22:02:13.040Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 8231,
+    "thread_id": 2087,
+    "address_id": 1004,
+    "body": "Personally, I think this is ripe for a proposal or bounty to engage in the open source ecosystem here.\n\nHowever, my understanding is that CW.im is (due to it being early in dev) relatively difficult to grok and modify for outsiders.  I'd also love to see this opportunity be discussed with other chains with treasuries or bounties who may benefit from improvements, in order to collectively produce a better user experience for chains.\n\nAs for the wishlist and issues, I think these are all reasonable concerns - but I'm not sure that we will plausibly find a single new team to host, manage and improve CW- and I think that tapping into it's creators is likely the fastest path to the improvements desired. \n\nI'd be curious to hear creative feedback from CW on this, first.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-09-28T16:54:01.264Z",
+    "updated_at": "2021-09-28T16:54:41.888Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 8223,
+    "thread_id": 2087,
+    "address_id": 1335,
+    "body": "Hey Moon. \n\nThanks for bringing this up - it's actually been something I've been discussing with the team at CW Labs and [@Thom Ivy](/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) for a while and we definitely need to address it and has been a big worry for me. \n\nThe CW governance interface that sits on top of the Edgeware blockchain and enables us all to communicate, discuss ideas and approve spends is almost certainly the most important piece of community infrastructure we have. \n\nWe have had a number of issues lately where Commonwealth.im/edgeware has been inaccessible, posts disappear (and reappear) during upgrades and certain functionality becomes inaccessible. \n\nIn addition, proposals can be edited after they have been approved, which adds uncertainty to how much we can all trust the content we are reading. \n\nThe challenge is that Commonweatlh Labs (the creators of the interface and the team who launched Edgeware) are building something generic that needs to work across all chains and DAOs across every platform inc ETH.\n\nRight now that means we are not a priority, in fact no chain or DAO is - such is the challenge of building general purpose projects that work for everyone but that will not by definition offer deep and specific integrations that work for a community who may require different things over time. \n\nThis is a massive risk for us - and indeed for any project who relies on a stable, secure and censorship resistant governance system. \n\nKey things we need to address:\n\n- Centralised database\n- Centralised servers\n- No hashing of proposals to the chain (this would enable verification if proposals have changed after they were approved for example)\n- Team focused on governance that are funded by Edgeware.\n- General stability \n- Development of specific Edgeware/Kabocha governance tools that work with our own culture and requirements \n\n\nI would be interested to hear from [@raymondz](/straightedge/account/str186wygrqrgykzcr5s0alajur0p2ddc7",
+    "parent_id": null,
+    "content_url": "https://comments.common.xyz/bfe99086-dc0d-4bc6-8aaf-9a3f887dbbef.md",
+    "created_at": "2021-09-28T14:20:08.097Z",
+    "updated_at": "2021-09-28T14:20:08.097Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb",
+    "full_text": "Hey Moon. \n\nThanks for bringing this up - it's actually been something I've been discussing with the team at CW Labs and [@Thom Ivy](/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5) for a while and we definitely need to address it and has been a big worry for me. \n\nThe CW governance interface that sits on top of the Edgeware blockchain and enables us all to communicate, discuss ideas and approve spends is almost certainly the most important piece of community infrastructure we have. \n\nWe have had a number of issues lately where Commonwealth.im/edgeware has been inaccessible, posts disappear (and reappear) during upgrades and certain functionality becomes inaccessible. \n\nIn addition, proposals can be edited after they have been approved, which adds uncertainty to how much we can all trust the content we are reading. \n\nThe challenge is that Commonweatlh Labs (the creators of the interface and the team who launched Edgeware) are building something generic that needs to work across all chains and DAOs across every platform inc ETH.\n\nRight now that means we are not a priority, in fact no chain or DAO is - such is the challenge of building general purpose projects that work for everyone but that will not by definition offer deep and specific integrations that work for a community who may require different things over time. \n\nThis is a massive risk for us - and indeed for any project who relies on a stable, secure and censorship resistant governance system. \n\nKey things we need to address:\n\n- Centralised database\n- Centralised servers\n- No hashing of proposals to the chain (this would enable verification if proposals have changed after they were approved for example)\n- Team focused on governance that are funded by Edgeware.\n- General stability \n- Development of specific Edgeware/Kabocha governance tools that work with our own culture and requirements \n\n\nI would be interested to hear from [@raymondz](/straightedge/account/str186wygrqrgykzcr5s0alajur0p2ddc7qe8fxdkz) and [@dillchen](/kusama/account/DzhpRtoD1MhhcYHNyak3jjfyLidnms6kLtXMThigrqNGkF6) and anyone else building CW. \n\nIn the end, this is exactly the sort of project the Edgeware Agency was set up to address, since it is a core community issue - paging [@Thom Ivy](/edgeware/account/jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5). \n\nYou can see the [previous proposal for funding ](https://commonwealth.im/edgeware/proposal/discussion/960-proposal-extending-commonwealth-with-a-focus-on-edgeware)for Commonwealth development from Ray here - all deliverables are pretty much complete, so there could be a new prop, but given how stretched CW are, it makes sense to make this a priority for the community to take over. \n\nThis might mesh well with [@Crispy](/edgeware/account/kL7v1wmXCE6ooEE9YxYMCCpKrssFeQke1Eh2SAnFqCcTXUR) and [@S Reason](/edgeware/account/iqQim5rb3ndtqr9SQaSuEQBbFGm1QbwYYecANNdr82Tmhy5) and their [Pfeilstorch proposal](https://commonwealth.im/edgeware/proposal/discussion/1520-pfeilstorch-a-new-scene-for-the-inexact-sciences) which suggested forking CW.im."
+  }
+]

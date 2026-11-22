@@ -1,0 +1,67 @@
+[
+  {
+    "id": 3273,
+    "thread_id": 1317,
+    "address_id": 1004,
+    "body": "[@Alan](/edgeware/account/o3SYRfwKAS9zs1b5hrji73EUgVBpzK3XRg9A2FiErMR3rks) \n\nKSM Auctions are proceeding now and will continue for at least 4 months.\n\nDOT auctions are likely 3-4 months away, if I had to guess.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-10T15:37:00.105Z",
+    "updated_at": "2021-06-10T15:37:00.105Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 3266,
+    "thread_id": 1317,
+    "address_id": 3532,
+    "body": "What's the new timeline looking like for parachain auctions?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-10T01:53:33.140Z",
+    "updated_at": "2021-06-10T01:53:33.140Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 3258,
+    "thread_id": 1317,
+    "address_id": 1004,
+    "body": "June 9 Update:\n\nThe market data has been added for June, along with averages for June crowdloan candidates - which you can read in the post.\n\n Shankar will update his modeling tool ASAP.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-09T18:50:54.404Z",
+    "updated_at": "2021-06-09T18:50:54.404Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 3231,
+    "thread_id": 1317,
+    "address_id": 1004,
+    "body": "[@raymondz](/straightedge/account/str186wygrqrgykzcr5s0alajur0p2ddc7qe8fxdkz) \n1 .Yes, this model was developed for DOT parachaining by the community over a series of calls last February. The original thread is linked in the summary at the top. \n2. Yes, it is out of date, hence a need for re-review and my notes that it is from February. \n3. Yes, the purpose of this thread is to perform a review and nuevo analysis. \n\n**Update:** I've added a new copy and linked to the original post, and updated the network metrics.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-08T21:06:57.116Z",
+    "updated_at": "2021-06-08T21:11:28.367Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 3230,
+    "thread_id": 1317,
+    "address_id": 287,
+    "body": "a bunch of things don't feel right to me here\n\n- is this for DOT? it seems out of date\n- extraneous or misleading figures (average supply? reward per circulating supply? etc)\n- KSM chains seem to be taking far more dilution to be bonded (including KPHA which is based off mainnet PHA)\n\n\nthe original spreadsheet is somewhat more informative but I don't really trust the quality of the synthesis - we should run through a new analysis.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-06-08T20:12:00.857Z",
+    "updated_at": "2021-06-08T20:12:00.857Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  }
+]

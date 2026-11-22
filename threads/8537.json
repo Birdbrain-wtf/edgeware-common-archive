@@ -1,0 +1,15 @@
+{
+  "id": 8537,
+  "title": "Proposal for bonds' reimbursements",
+  "body": "The functionality of slashing the bond corresponding to the failed proposals exits to avoid spam on-chain. So proposing to reimburse the bond amount for the failed proposals as long as those proposals are not spam.\n\n**Recently failed proposals:**\n- Creation of sign language-based tutorials around the Edgeware for people with disabilities. {Bond: 519750, bond signer: Decent Partners}\n- SCU Proposal: November 2022 {Bond: 3109392.2, bond signer: Zovern}\n\n\n**The proposal which is likely to fail (based on the voting so far):**\n- Richard Welsh, Edgeware R&D October / November invoice 4 {Bond: 1406454.05, bond signer: Decent Partners (Jan lent 1M EDG and MoonY lent 500k EDG to Decent Partners)} \n\n\n## Clauses:\n1. The total of bonds' reimbursements [5035596.25 EDG] is proposed for treasury spending (subject to a public referendum) to a 3/5 multi-sig with Rich, Zovern, Jan, MoonY and Shankar as signers.\n2. If in case Referendum #134 passes, the corresponding bond amount of 1406454.05 EDG will be sent back to the treasury. {In this case, the distribution will be 519750 EDG to Decent Partner and  3109392.2 EDG to Zovern.}\n3. Distribution of the reimbursements in case of Referendum #134 gets rejected, is as follows:\n- Zovern: 3109392.2 EDG\n- Decent Partners: 426204.05 EDG {519750 + 1406454.05 - 1000000 - 500000}\n- Jan: 1000000 EDG\n- MoonY: 500000 EDG\n\n\n\nMulti-sig address (3/5): oFmpR8mnR2pZ7zfwnjF4PAPvE5DwGujYTXeuv55U8Fpkwng\nTotal of bonds' reimbursements: 5035596.25 EDG",
+  "content_url": null,
+  "created_at": "2022-12-18T04:32:40.398Z",
+  "updated_at": "2025-03-17T22:48:04.278Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "Shankar Warang",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/8537",
+  "body_complete": true
+}

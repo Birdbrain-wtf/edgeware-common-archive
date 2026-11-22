@@ -1,0 +1,28 @@
+[
+  {
+    "id": 24735,
+    "thread_id": 6033,
+    "address_id": 1335,
+    "body": "I think we've spent a lot of time debating this - if pushed my preference was Edgeware.Network, but if not available this makes sense.\n\nI actually think we are on a path to breaking out the Edgeware main domain into separate entities, simply because you cannot explain all of Edgeware on one site - it just becomes unwieldy - and since it is an open source / public project, people are free to establish their own sites that help them bring alive a particular narrative or direction.\n\nKind of the same as we now have multiple Edgeware accounts on Twitter - is there an 'official one'?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-07T09:18:25.840Z",
+    "updated_at": "2022-07-07T09:18:50.108Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 24641,
+    "thread_id": 6033,
+    "address_id": 3336,
+    "body": "Very good news! We should definitely go for this.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-07-06T05:16:41.871Z",
+    "updated_at": "2022-07-06T05:16:41.871Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Gediminas"
+  }
+]

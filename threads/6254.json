@@ -1,0 +1,15 @@
+{
+  "id": 6254,
+  "title": "Validator documentation update",
+  "body": "Hi, validators!\n\nI am proposing an update to the validator documentation to make it easier for other people who want to run a validator for Edgeware. I have included links to the current and proposed documentation.\n\nWhat we have now.\n[https://www.edgeware.wiki/quickstart/set-up-a-validator](https://www.edgeware.wiki/quickstart/set-up-a-validator)\n\nWhat I am proposing would look like.\n[https://new-edgeware-docs-git-fork-depth-hoar-main-edgeware-agency.vercel.app/quickstart/set-up-a-validator](https://new-edgeware-docs-git-fork-depth-hoar-main-edgeware-agency.vercel.app/quickstart/set-up-a-validator)\n\nI have also included the raw markdown so you can read it below. You can share your feedback on this thread or on the pull request directly here [https://github.com/edgeware-network/new-edgeware-docs/pull/30](https://github.com/edgeware-network/new-edgeware-docs/pull/30)\n\n\n\n#** Set Up a Validator**\n\nWelcome to the official, in-depth Edgeware guide to validating. We're happy that you're interested in validating on Edgeware and we'll do our best to provide in-depth documentation on the process below. As always, reach out on [Discord]([https://discord.gg/mYk543EXBV](https://discord.gg/mYk543EXBV)) or [Telegram]([https://t.me/heyedgeware](https://t.me/heyedgeware)) if you have questions about the project.\n\nThis document contains all the information one should need to start validating on Edgeware using the **command line interface**. We will start with how to setup one's node and proceed to how to key management and monitoring. To start, we will use the following terminology of keys for the guide:\n\n- _****stash****_ - the stash keypair is where most of your funds should be located. It can be kept in cold storage if necessary.\n- _****controller****_ - the controller is the keypair that will control your validator settings. It should have a smaller balance, e.g. 10-100 EDG\n- _****session****_ - the 4 session keypairs are hot keys that are stored on your validator node. They do n",
+  "content_url": "https://threads.common.xyz/8e7b5115-d0b8-454c-8b9d-459613406fd6.md",
+  "created_at": "2022-07-15T23:33:58.947Z",
+  "updated_at": "2025-03-18T09:35:05.275Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "Depth",
+  "topic_id": 117,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/6254",
+  "body_complete": true
+}

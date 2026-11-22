@@ -1,0 +1,15 @@
+{
+  "id": 3759,
+  "title": "Proposal: Kabocha's Para-ID deposit for Kusama",
+  "body": "![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/4f80a630-fad9-4b56-9c3f-461328074910.1644331877669)\n\n# Proposal: Kabocha's Para-ID deposit for Kusama\n\n**Date**\n_8th February 2022 _\n\n## **Builder**\n[@Ramsey](/edgeware/account/k43sLKozrmQq7d7aqpYCzqiUM7DJgMaMrVsrY1uPQvpZLWT) (Decentration)\n\n## **Network Services**\n[Decent Partners](https://decent.partners)\n\n## Summary \nWe are entering the final stages of Kabocha's fully community directed and approved development.\n\nThis proposal seeks funding for the acquisition of a Kusama 'para ID' which is secured through a refundable 40 KSM deposit. \n\nA para_id is required to register as a parachain, before launching the crowdloan campaign.\n\nTo understand what a para ID is, and why we need it, it's worth understanding the process for launching a parachain. \n\nFrom the [Substrate documentation](https://docs.substrate.io/how-to-guides/v3/parachains/connect/): \n\n> Launching a parachain requires a series of steps to ensure that the relay chain knows exactly what the parachain's runtime logic is once a slot on the relay chain is secured. \n> In order to achieve this, you will need to have previously successfully generated a **para ID, genesis state and Wasm runtime blob**. \n> After successfully registering your parachain, you will be able to obtain a parachain slot (in testing though sudo, and in production via auctions and crowdloans) and start producing blocks.\n\nSo what does the para id do?\n\n> You need a para ID to perform any operation referencing your parachain/parathread for a specific relay chain. For example, for providing the Wasm blob or genesis state, creating channels to other parachains for XCM, starting a crowdloan, etc.\n\nIn effect the para id is the label Kabocha has within the logic of a relay network that identifies it as a specific parachain. \n\n## Funding address\n\nFunds to be sent to Kabocha Para-ID multisig - n6oRS4GxcP2mbrcfmseaHB1Yvf6aBLP1Xk6KuvkYu8SdKDv\n\nSigners: \n\nDecentration - jBshCuzLrPGmE6tEQJsZLTkPn",
+  "content_url": "https://threads.common.xyz/e20a94d3-e712-4318-b169-bb7daa0b3ce3.md",
+  "created_at": "2022-02-08T18:58:48.740Z",
+  "updated_at": "2025-03-18T05:46:53.711Z",
+  "last_edited": null,
+  "comment_count": 1,
+  "profile_name": "Decent Partners",
+  "topic_id": 990,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/3759",
+  "body_complete": true
+}

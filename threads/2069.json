@@ -1,0 +1,15 @@
+{
+  "id": 2069,
+  "title": "Proposal: Dashboard for edgeware treasury",
+  "body": "**Proponent: **[OpenSquare](https://www.opensquare.network/)\n**Date: 2nd** Nov 2021\n**Requested EDG: **\n- $19,200 / 1.33M EDG (0.0144 per EDG using [7 day trailing average tool](https://replit.com/@thomivy1/7-Day-Trailing-Avg-dollarEDG))\n- 10% network service fee: 0.133M EDG\n- Total: 1.463M EDG\n\n\n**Short description:** This proposal brings a similar product as [dotreasury](https://dotreasury.com) that was developed for Kusama/Polkadot. It will outline the main income and output items for Edgeware treasury and it’s primary role is to make it easier for the community to understand the structure, income and outgoings of the Edgeware DAO, which should help encourage more contributors to put forward proposals over time. \n\n**Payment terms**\n- address: jNzH4yMQxUp7NF1xMDcgTmejNHo9z8VTKdK9Sg3KYNeRRxF\n\n\n## Network Services \n[Decent Partners](https://decent.partners/) providing network services\n- Bonding 5% proposal fee\n- Bringing together community participants.\n\n\n## **Context of the proposal**\nWe developed [dotreasury](https://www.dotreasury.com) with the support of Kusama and Polkadot treasury. \n\nWe can see it now as a treasury business explorer while its final target is to provide a retrospect mechanism for the treasury mechanism. \n\nBelow we can see some discussion and proposal links.\n- The initial [post](https://kusama.polkassembly.io/post/352) about idea discussions.\n- 1st milestone [proposal](https://kusama.polkassembly.io/treasury/58) page.\n- 2nd milestone [proposal](https://kusama.polkassembly.io/treasury/75) page.\n- Polkadot treasury [proposal](https://polkadot.polkassembly.io/treasury/42) page.\n\n\nIn short you can find all of the story from this [project page](https://www.dotreasury.com/dot/projects/dotreasury).\n\n## **Edgeware solutions**\nWe propose a treasury explorer solution for Edgeware. \n\nMain features will include:\n\n1. Lists and metrics about edgeware treasury income. There may be mints, staking remainder, slashes, gas, transfers.\n2. Lists and metrics about ed",
+  "content_url": "https://threads.common.xyz/c6533dab-80dc-4787-bb1f-8c214066f1de.md",
+  "created_at": "2021-09-26T11:21:09.103Z",
+  "updated_at": "2025-03-16T20:26:51.998Z",
+  "last_edited": null,
+  "comment_count": 4,
+  "profile_name": "OpenSquare",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2069",
+  "body_complete": true
+}

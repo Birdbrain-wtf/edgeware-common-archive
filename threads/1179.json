@@ -1,0 +1,15 @@
+{
+  "id": 1179,
+  "title": "OnFinality Public Nodes Q2 Update",
+  "body": "## Q2 Update\n\nFor this period (since the end of April 2021) following our [delivered proposal](https://commonwealth.im/edgeware/proposal/democracyproposal/30-onfinality-public-nodes-for-edgeware) for the initial setup of this pool of Edgeware nodes, we are running a single cluster of node pools in Tokyo. In the Edgeware node pool, we’re running 3 large nodes (1.5 vCPUs and 4.8GB ram). \n\nWe’re currently serving more than 300,000 API requests daily for our single Edgeware cluster. It’s inspiring for our team to see the growth and usage of this service so soon after launch. I wanted to give the Edgeware Community an update on where we are, and what our next steps could be. \n\n![](https://lh6.googleusercontent.com/YnIu7OAMHwGrJqqOf0_-oFuqUoLnJg1YmDeP_Wg2ogzLhzclUUhqFauxygf4zg0L47WdGYWEvPSePeHOhWK2V3TGnMR0XHHCmtQoZpYXTO1o-sFnKmU1kd0eheE-WCxQgBg-t2Yf \"Chart\") \n\nThe current, most up to date costs estimates for Q2 2021 (2 full months) is below: \n\n| Type | Unit String | Unit Price | Monthly Hours | Quantity | Monthly Cost | Q2 2021 Cost (Forecast) | \n|--|--|--|--|--|--|--| \n| Node Costs | $0.45 / hr | $0.45 | 730 | 3 | $985.50 | $1,971.00 | \n| Storage Costs | $0.0005 / GB / hr | $0.0005 | 730 | 300 | $109.50 | $219.00 | \n| Backup Management Fee | $30 / month | $30 | | 1 | $30.00 | $60.00| \n| Backup Storage Costs | $0.0005 / GB / hr | $0.005 | 730 | 100 | $36.50 | $73.00| \n| Data Traffic | $0.15 / GB | $0.15 | 38.57 | | | $5.79|\n| | | | | **Total** | **$1,161.50** | **$2,328.79** | \n\n## Optional Enhancements \n\nThis post discusses a few enhancements that may be considered by the Edgeware community. \n\n### Intelligent Routing\nThe first one is to use our [delivered intelligent routing](https://kusama.polkassembly.io/treasury/72) enhancements to double the number of clusters to 2 (perhaps Ireland and Tokyo). Intelligent geolocation routing allows us to maximise the use of different pools of nodes across our user base in different geographic regions, and allows us to quickly fall ov",
+  "content_url": "https://threads.common.xyz/65cbc6e9-3e0c-466b-b6f1-b14e1792ec8d.md",
+  "created_at": "2021-05-25T21:28:47.603Z",
+  "updated_at": "2025-03-17T02:34:40.228Z",
+  "last_edited": null,
+  "comment_count": 5,
+  "profile_name": "OnFinality",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1179",
+  "body_complete": true
+}

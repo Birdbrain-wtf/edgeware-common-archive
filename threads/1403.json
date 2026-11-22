@@ -1,0 +1,15 @@
+{
+  "id": 1403,
+  "title": "EDG as ERC20 on Uniswap",
+  "body": "# EDG on Uniswap\n\n\n## Objective: Add EDG to Uniswap\n\n**Treasury Proposal: 15m EDG + initial liquidity provision (LP).**\n\n- Lock up 15m EDG from Treasury to be earmarked for 1:1 exchange with ERC20 EDG.\n- ERC20 EDG claimable for EDG\n- ~6 month delay for claiming \"real\" EDG: addresses can be added to the claims pallet and mapped to ERC20 addresses on the next runtime upgrade. \n- Provide liquidity to EDG on Uniswap with specified price range.\n- Price should quickly be arbitraged to the price of EDG. \n\n\n[https://docs.uniswap.org/concepts/introduction/liquidity-user-guide](https://docs.uniswap.org/concepts/introduction/liquidity-user-guide)\n\nTarget launch: 4 weeks\nLiquidity requirement: TBC",
+  "content_url": null,
+  "created_at": "2021-06-24T19:15:36.790Z",
+  "updated_at": "2025-03-17T22:41:32.868Z",
+  "last_edited": null,
+  "comment_count": 10,
+  "profile_name": "Ramsey",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1403",
+  "body_complete": true
+}

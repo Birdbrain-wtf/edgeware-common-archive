@@ -1,0 +1,15 @@
+{
+  "id": 4712,
+  "title": "EDG Community Update: April 25th, 2022",
+  "body": "**Highlights**\n- [Edgscan](https://evm.edgscan.live/) aka Edgeware EVM explorer now has token whitelisting/blacklisting functionality. Contract verification support powered by Sourcify.dev is in the pipeline.\n- [The crowdloan waitlist](https://kabocha.network/) is open for Kabocha.\n- All validators are requested to upgrade their nodes to the [release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP5/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP5/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n\n\n**Ecosystem Updates**\n- Knit Finance recently launched their bridging infrastructure and [collected feedback from the Edgeware community](https://t.me/heyedgeware/78379) for which blockchain to bridge the wrapped EDG aka kEDG. The community favoured Ethereum (40% votes) followed by Polygon (34% votes).\n- Get to know more technical oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-april-24/)’.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/).\n- Community Treasury-funded Web3 Media platform, [New-Futures opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n- Activities in coming weeks: [Weekly Quiz competition](https://twitter.com/EdgewareDAO/status/1516405032702418946?s=20&t=oaeDaUpj-_RGeVGDOI3rug), Kabocha’s Technical AMA ft. Ramsey, K",
+  "content_url": "https://threads.common.xyz/3df2cb0b-fb03-4bf4-81ae-cf5a8f0cb19e.md",
+  "created_at": "2022-05-03T22:07:53.714Z",
+  "updated_at": "2025-03-18T01:37:31.507Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4712",
+  "body_complete": true
+}

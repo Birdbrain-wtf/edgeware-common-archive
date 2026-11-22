@@ -1,0 +1,15 @@
+{
+  "id": 8791,
+  "title": "Re-rating framework for contributors",
+  "body": "{This framework is currently in the draft stage. Parameters are subject to change based on the discussions by the community members/contributors.}\n\n## **Purpose of the framework: **\nTo do treasury management/planning for the longevity of Edgeware’s self-sustainability in bearish market sentiment.\n\n## Calculations:\nFramework timeline {FT}: 3 years = 36 months\nCurrent Treasury balance {CTB}: 412.6547 Million EDG\nPending incentives {PI}: SCU’s November Proposal + non-SCU contributor’s incentives until November + OnFinality’s Q4 proposal + Dwellir’s Q4 proposal = ~135 M EDG (included buffer)\n\nTreasury spending available per month (without considering the treasury minting due to inflation) {T1 = (CTB - PI) / FT}: 7.71263056 M EDG\n\nIdeal staking ratio {ISR}: 50%\nCurrent % of total supply staked {TSS}: 21.3%\nCurrent Inflation {CI}: 5.7%\nCurrent Total Supply {CTS}: 7.2703 Billion EDG = 7270.3 Million EDG\n\nTreasury spending available per month (considering the treasury minting due to inflation) \n{T2 = T1+((ISR-TSS)*CI*CTS/(ISR*100*12))}: 27.5351036 M EDG\n\nInfrastructural costs {IC}: JelliedOwl + Bharthcoorg + OnFinality + Dwellir + Subscan\n\nTreasury spending available per month deducting infrastructure costs {T}: T2 - IC\n\nBase incentives {B}: 300 USD equivalent in EDG (with reference price equal to whichever is the highest amongst 0.0004 USD per EDG or the 30-day trailing median price)\n\nNumber of solo/team contributors: N\n\nPrevious incentives per month of an individual contributor: P\nSum of all the previous incentives per month of individual contributors: S\n\n**Effective incentives for the contributors:** B + [ (T - (B * N)) * P / S ]\n\n\n## **Proposed Clauses:**\n- Contributors are free to level down their contributions and also work under other roles within/outside Edgeverse.\n- Contributors can deduct their incentives further (than their corresponding effective incentives) if they want.\n- Contributors who don’t scale down their contributions can recoup the total difference in ",
+  "content_url": "https://threads.common.xyz/90f122b4-075c-44fc-ab33-e48cebd38941.md",
+  "created_at": "2023-01-02T16:57:49.121Z",
+  "updated_at": "2025-03-17T19:46:28.161Z",
+  "last_edited": null,
+  "comment_count": 4,
+  "profile_name": "Shankar Warang",
+  "topic_id": 1045,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/8791",
+  "body_complete": true
+}

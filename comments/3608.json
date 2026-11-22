@@ -1,0 +1,67 @@
+[
+  {
+    "id": 15366,
+    "thread_id": 3608,
+    "address_id": 1067,
+    "body": "AMA recording:\n[https://youtu.be/xlcJwyejzWE](https://youtu.be/xlcJwyejzWE)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-02-08T16:11:14.174Z",
+    "updated_at": "2022-02-08T16:11:14.174Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 15365,
+    "thread_id": 3608,
+    "address_id": 1004,
+    "body": "Glad to see this focus on M1 and the urgent needs.  The scope I think can be improved with clarity on M1 specifically. \n\n> Major runtime upgrade of [https://GitHub.com/edgeware-network/edgeware-node,](https://GitHub.com/edgeware-network/edgeware-node,) from Edgeware ~v3.3.3 to version-v0.9.15.Substrate upgrade **to be followed by integration of new pallets **\n> **These new pallets are subject to community discussion and approval**\n> **Pallets in discussion include frontier (EVM)**\n> Storage migration\n> General maintenance with node and runtime\n> Ongoing runtime upgrades\n> **A major say in the management and ongoing resource requirements**\n> How to make things better and more collaborative within EDG core\n> **Inviting more contributors who will bolster Edgeware’s engineering department. **\n> General repo management (during early stages)\n\nI understand that M1 is specifically:\n1. Edgeware ~v3.3.3 to version-v0.9.15.Substrate upgrade\n2. Storage Migration \n3. Repo management as it serves the needs of 1 and 2.\n4. **Fixes should anything arise during these.**\n\n\nI support these fully. \n\nBeyond that,\n1. New and upgraded palletes (We MUST track Frontier updates as this palette is already installed.)\n2. \"Management say\"\n3. Inviting of more contributors (a role that is unproblematic and something we all do, basically) \n4. Ongoing Maint\n\n\nThese should be scoped separately, contingent upon a successful M1, and in a second proposal for the sake of clarity and speed, as we traditionally start with smaller well-scoped items and then built trust with new contributors.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-02-08T16:07:00.602Z",
+    "updated_at": "2022-02-08T16:07:00.602Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 15198,
+    "thread_id": 3608,
+    "address_id": 1910,
+    "body": "Final updates post AMA - now going to treasury proposal and referendum",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-02-05T14:33:22.751Z",
+    "updated_at": "2022-02-05T14:34:46.038Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Decent Partners"
+  },
+  {
+    "id": 14812,
+    "thread_id": 3608,
+    "address_id": 2346,
+    "body": "glad to hear that there will be finally someone involved in core dev, let's roll this to a voting stage asap so we do not miss much more time...there is a lot what we need to catch up",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-01-27T16:06:43.919Z",
+    "updated_at": "2022-01-27T16:06:43.919Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "kosturp"
+  },
+  {
+    "id": 14824,
+    "thread_id": 3608,
+    "address_id": 1335,
+    "body": "Just making some final checks and there will be a community AMA with [@Flipchan](/edgeware/account/mdqwzsGFQ8jq2DQ246a9q3FhUAYKrmvNFEfYALXMWiueijV) hopefully on Saturday",
+    "parent_id": 14812,
+    "content_url": null,
+    "created_at": "2022-01-27T18:15:37.274Z",
+    "updated_at": "2022-01-27T18:15:37.274Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

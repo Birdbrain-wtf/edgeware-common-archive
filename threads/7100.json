@@ -1,0 +1,15 @@
+{
+  "id": 7100,
+  "title": "EDG Community Update: Week of September 19th, 2022",
+  "body": "## **Highlights**\n- Richard Welsh [introduced Kabocha](https://forum.polkadot.network/t/introducing-kabocha-an-experimental-kusama-parachain-incubated-by-the-edgeware-community/327) and [(re)introduced Edgeware](https://forum.polkadot.network/t/re-introducing-edgeware-substrates-most-chaotic-governance-experiment-and-second-oldest-mainnet/500) on the new Polkadot Forum.\n- [Introducing the Geo-awareness feature](https://twitter.com/EdgewareDAO/status/1572563883243577345) on JelliedOwl’s load-balanced RPC infrastructure!\n- All the Validators, RPC infrastructure providers, Exchanges and Ecosystem Projects can upgrade their nodes to the [pre-release v4.0.0](https://github.com/edgeware-network/edgeware-node/releases/tag/v4.0.0) to be prepared in advance for the upcoming ERUP5 upgrade’s on-chain democracy proposal.\n- Upcoming Activities/Events: [Valorant Gaming Tournament](https://gov.edgewa.re/discussion/6514-edggaming-tournament)\n\n## **Ecosystem Updates**\n- [Edgeware Docs](https://twitter.com/EdgewareDAO/status/1572584442056609793) now have been migrated to the new domain.\n- Get to know more technical-oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-sep-18/)’.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/).\n- EDGizens are welcome to participate in [the research survey](https://forms.gle/XdjEyBEMY1EtZs3x9) by one of the ecosystem partners.\n- Community Treasury-funded Web3 Media platform, [New-Futures opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on EdgeEVM, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb",
+  "content_url": "https://threads.common.xyz/13e52d75-cc81-44be-b6ec-7966842b685b.md",
+  "created_at": "2022-09-28T15:42:19.514Z",
+  "updated_at": "2025-03-16T03:48:36.659Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/7100",
+  "body_complete": true
+}

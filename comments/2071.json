@@ -1,0 +1,41 @@
+[
+  {
+    "id": 8349,
+    "thread_id": 2071,
+    "address_id": 2641,
+    "body": "[@mrbulb](/edgeware/account/jXC7ghviUzVcVySg3eD8prB7C9m6VzK6cw2MTyMTDTUye5q)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-09-29T14:59:14.052Z",
+    "updated_at": "2021-09-29T14:59:14.052Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Cameron Nazarko"
+  },
+  {
+    "id": 8348,
+    "thread_id": 2071,
+    "address_id": 2641,
+    "body": "These are going to be the same dApps that have been on Edgeware. All participants must be building on top of Edgeware. This structure is going to be similar to what parachains have done, but that does not necessarily mean that it'll carry the same functionality, more or less just an analogy in respect to how parachains also get chosen by the community. \n\nWhat is happening here, is we'd be exercising the DAO to choose which projects are actually receiving funding out of a pool of participants, and in theory, the applicant that has the most compelling and captivating submission will carry more votes and receive the round of funding. \n\nWe would want dApps to compete because these could be opportunities for high-tier funding, and having an event in which community members can rally and support their favorite project would get more people involved with what these teams are building and allowing EDG holders to have a more engaged and meaningful contribution. \n\nParameters will be voted upon as well when the final draft goes up. \n\nOur current funding system is unable to provoke scarcity, urgency, or consistency. A system like this would allow teams and community members to see how much funding they would be able to get and create a strategy in obtaining a slot to ensure they would receive adequate funding. They would then make their submission and 'market' to the community to get 'backers' to improve their odds of obtaining a spot. This also begins to generate more community engagement and helps drive anticipation and excitement from the community.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-09-29T14:58:40.923Z",
+    "updated_at": "2021-09-29T14:58:40.923Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Cameron Nazarko"
+  },
+  {
+    "id": 8136,
+    "thread_id": 2071,
+    "address_id": 1335,
+    "body": "hey thanks [@Cameron Nazarko](/edgeware/account/hvGAxJ9GYvHzh4MUtpB4u9a8DisVPahr1mMEw9cdt8Vg1jG) - lot to digest in here. \n\ncould you clarify the dApp auctions idea, i don't quite follow the thinking.\n\nare these new dApps? or is this about bringing existing dApps over?\n\nthe parachain model relies on crowdloans to then bond to KSM, where you get the benefit of shared security and interoperability which obviously has lots of potential value. \n\nis the analogy here, that apps would compete to launch on Edgeware and then benefit from funding from the treasury?\n\n> There will only be a limited, specified number of lease spots available that are going to be able to be community funded by the treasury. \n\nWhy would dApps want to compete to launch on Edgeware and why would we enforce artificial scarcity on the treasury - or maybe i'm missing something... \n\n> This lease spot is only available to decentralized applications that are built within the parameters of the listed qualifications\n\nWho is setting the parameters? \nThis feels like RFPs right?\n\nRight now we have a funding system for teams who would build or port dApps - how does this model improve that?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-09-27T15:11:15.267Z",
+    "updated_at": "2021-09-27T15:16:20.737Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

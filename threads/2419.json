@@ -1,0 +1,15 @@
+{
+  "id": 2419,
+  "title": "EDG Community Update: Week of October 25th",
+  "body": "**Highlights**\n- [The waitlist is now open for Kabocha](https://www.kabocha.network/), the Kusama parachain from the Edgeware ecosystem.\n- All validators are requested to upgrade their nodes to the [release v3.3.3 or later](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP4/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP4/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n- Get to know more technical oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-oct-24/)’.\n\n\n**Ecosystem Updates**\n- 4thPillarTech revamped their [homepage](https://twitter.com/4thtechProject/status/1454048265092141060?s=20).\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n\n\n**Governance**\n- The treasury funding proposal for ‘[Edgeware Community FIlm](https://gov.edgewa.re/proposal/discussion/2221-edgeware-community-film-funding/)’ by Lemonade Money has been passed successfully. {Referendum 50, Referendum type: SimpleMajority, ​​Council Motion ID:55, Treasury Proposal ID:39}\n\n\n**Community**\n- The Calendar of events has many items each week, meetings on NFTs, DAOs, chain strategy and governance- whatever you're interested in, [take a look](https://gov.edgewa.re/proposal/discussion/1059-edgeware-community-calendar-add-to-your-gcal).\n- Recent/trending Community Research thread(s):\n- [#Art_rate project](https://gov.edgewa.re/proposal/discussion/2385-art_rate-project/)\n- [Developer Experience Update (3/3) -- Evolution](https://gov.edgewa.re/proposal/discussion/2365-developer-experience-update-33-evolut",
+  "content_url": "https://threads.common.xyz/457d6913-19b0-44b8-add0-74d30c2c29c3.md",
+  "created_at": "2021-11-03T00:07:33.207Z",
+  "updated_at": "2025-03-18T14:09:38.777Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2419",
+  "body_complete": true
+}

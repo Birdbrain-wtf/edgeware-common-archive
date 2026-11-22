@@ -1,0 +1,28 @@
+[
+  {
+    "id": 15734,
+    "thread_id": 3851,
+    "address_id": 1335,
+    "body": "Related question [@Shankar Warang](/edgeware/account/jA7pLH65zgRNA4UgwqHEWWRxTgg51wuAUgfzmZoYWM2dMVS) but should we look to recruit an additional infrastructure provider?  we have onfinality and cw labs, always safer to have 3, when you lose 1 from 2 you have no backup... \n\nMaybe Patract Alara or one of the newer groups?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-02-18T17:23:37.058Z",
+    "updated_at": "2022-02-18T17:23:37.058Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 15863,
+    "thread_id": 3851,
+    "address_id": 1067,
+    "body": "Make sense. I will try to connect with them.",
+    "parent_id": 15734,
+    "content_url": null,
+    "created_at": "2022-02-22T17:51:52.009Z",
+    "updated_at": "2022-02-22T17:51:52.009Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  }
+]

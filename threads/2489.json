@@ -1,0 +1,15 @@
+{
+  "id": 2489,
+  "title": "Edgeware's emerging community 'roadmap'",
+  "body": "## A few quick reminders \n\nAt nearly [9m blocks](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fedgeware.api.onfinality.io%2Fpublic-ws#/explorer) processed, Edgeware is the second oldest Substrate mainnet chain after Kusama and predates even Polkadot, the two most valuable networks in the whole Substrate ecosystem. \n\nBoth KSM and DOT are **relay chains**, therefore Edgeware is the **oldest and most experienced** Substrate solo-chain in existence. \n\nEdgeware launched via the lockdrop - there was no token sale, with over [2.2m ETH](https://twitter.com/zhusu/status/1167939840467324928?lang=ca) either locked by individual accounts or signalled by smart contracts holding ETH including Parity's locked multisig, Binance, Coinbase and Aragon. \n\nIt is worth noting that Binance and Coinbase have still not listed Edgeware and so that large distribution is still in yet to be released - there is no reason to think that it will not happen as Edgeware becomes more established. \n\nThe original plan from the launch team Commonwealth Labs was for Edgeware to become Polkadot's first parachain, with a value bearing test-net 'Hedgeware' on Kusama, with a primary focus on becoming an **[ecosystem incubator](https://blog.edgewa.re/edgeware-2020/)**. \n\nDue to the lockdrop distribution, which offered 90% of tokens to the public, these plans became the subject of public debate, as a community of tokenholders and also grant recipients emerged with their own ideas as to the best direction for the community, this had the effect of removing Commonwealth Labs' ability to make unilateral decisions with regard to funding and governance. \n\n**This is a feature of Edgeware, not a bug. **\n\n## Commonwealth Labs move on\n\nIn the last few weeks, Commonwealth Labs have announced a move to offer core-development to [Astar](https://astar.network/) - formerly known as Plasm network, who also conducted a pair of lockdrops as part of their launch that saw [150k ETH locked](https://lockdrop.astar.network/#/lockdrop",
+  "content_url": "https://threads.common.xyz/d0271668-1935-4539-aa11-adb1b8799c20.md",
+  "created_at": "2021-11-06T12:47:14.546Z",
+  "updated_at": "2025-03-17T23:25:44.558Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "mrbulb",
+  "topic_id": 95,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2489",
+  "body_complete": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12210,
+  "title": "Mitigating Compromised Deployer Address: Upgrading Smart Contracts for Enhanced Security",
+  "body": "Dear Edgeware Community,\n\nI am writing to inform you about a recent security breach that has affected my Metamask wallets and, consequently, the DEX, Bridge, and the liquidity of the EDG/BUSD pair in PancakeSwap. I want to assure you that user funds are safe, and I am taking immediate action to rectify the situation.\n\nUnfortunately, my Metamask wallets were compromised by malware while I was attempting to recover data from the phone of a person who tragically took their own life. This unforeseen event led to a security breach, and the hacker was able to drain all wallets associated with the affected accounts, including the liquidity of the EDG/BUSD pair in PancakeSwap ($1000 in BUSD).\n\nI deeply apologize for any inconvenience and concern this incident may have caused within the community. I understand the importance of maintaining trust and transparency, and I am committed to resolving this matter promptly.\n\nTo protect the interests of all holders, I have taken the following measures:\n\n1. User Funds: Rest assured that user funds are safe. Although the hacker drained the wallets, the security measures in place prevent unauthorized access to user funds.\n\n2. Token Replacement: I will be sending new tokens to all holders who purchased from PancakeSwap during the affected period. These new tokens will reflect the exact quantity purchased at the time of the transaction. The distribution will be carried out in a timely manner to ensure minimal disruption to your trading activities.\n\n3. Token Listing: The new token, representing the replacement of the compromised tokens, will be listed with the last recorded price on PancakeSwap. This listing will allow users to trade the new token seamlessly and resume normal trading operations.\n\n4. DEX and Bridge: As mentioned earlier, one of the wallets used to deploy contracts has been compromised. To prevent any further unauthorized activity, I kindly request the community members to remove any permissions and liquidity they might have",
+  "content_url": "https://threads.common.xyz/37029589-5321-48fa-a533-e577851fc7dc.md",
+  "created_at": "2023-07-17T09:50:10.729Z",
+  "updated_at": "2025-03-24T09:52:49.286Z",
+  "last_edited": "2023-07-17T09:56:54.076Z",
+  "comment_count": 3,
+  "profile_name": "bharathcoorg",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/12210",
+  "body_complete": true
+}

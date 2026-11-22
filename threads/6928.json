@@ -1,0 +1,15 @@
+{
+  "id": 6928,
+  "title": "Community Developer Proposal Final Deposit: Depth Hoar",
+  "body": "Date: 09/13/2022\n\nOriginal proposal [https://commonwealth.im/edgeware/discussion/5131-community-developer-proposal-depth-hoar](https://commonwealth.im/edgeware/discussion/5131-community-developer-proposal-depth-hoar)\n\nBuilder:\n   Depth Hoar (Adam)\n   Telegram: @DepthHoar\n   Discord: Depth Hoar#2646\n\n\n## **Delivered the following**\n**- Simple edge apps UI** [simple.edgeware.app](simple.edgeware.app)\n**- Community validator** “nV9rFM9jPZL5a1zRF2yQpWDMBkt6BA1SY3DntxdhJkBPivB”\nI am working with jelliedowl to update the documentation so others can do the same.\n**- Maintained edgeware.app and edgeware.wiki**\n**- Humming bot R&D **eventually was taken over by Advait and Vismay I helped walk them through the use of hummingbot and gave tech support.\n**- Weekly developer update** [https://blog.edgewa.re/author/adam/](https://blog.edgewa.re/author/adam/)\n- Started to **host Dev meetings**\n- No tutorial videos were requested or required\n\n## **Detail**\n\n**Edgware’s simple UI** is live [simple.edgeware.app](simple.edgeware.app). The goal of the project is to give a better overall experience for new people to have an easier time starting in the Edgware ecosystem and eventually to move on to a more advanced UI like edgeware.app. I removed many advanced features, kept the essentials, and made it more visually appealing. I had difficulty deciding if and how to make the functionality easier for users. When you make decisions for users, the user loses a lot of control, and I didn’t think it would be a good idea to do that; however, if anyone has feedback on how to improve the user experience technically, that keeps the decisions to the user. I am open as the new simple UI is a good testing environment to try and test these things.\n\n\n**Community validator **- My validator is running at this address \"nV9rFM9jPZL5a1zRF2yQpWDMBkt6BA1SY3DntxdhJkBPivB\" 11 MEDG staked, 33.26% return.\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/01be5ccb-4137-48b8-98f6-16bcc785bd3c.166308968291",
+  "content_url": "https://threads.common.xyz/00ee6917-fb5a-46c6-b896-7044889d7387.md",
+  "created_at": "2022-09-13T17:28:45.242Z",
+  "updated_at": "2025-03-18T04:36:51.728Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Depth",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/6928",
+  "body_complete": true
+}

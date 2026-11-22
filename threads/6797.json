@@ -1,0 +1,15 @@
+{
+  "id": 6797,
+  "title": "Top-up proposal - Builders Program Application",
+  "body": "## **Android Wallet**\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/e6806bee-d807-451c-b637-117611138cbd.1661875163087)\n\nWe launched Edgeverse android wallet last month and received a positive response from the community. Currently it works well with Edgeware Mainnet, Beresheet Testnet, Kabocha Mainnet, Soupcan Testnet, Pop-Art Testnet. Dapps Browser supports EVM dapps.  \n**Feedback and suggestions from community**\n- Edgeverse wallet has 4.75 ratings in Google Play store.\n- Edgeverse iOS Wallet Development\n- Adding Staking Option for EDG and KAB\n\n**Other Problems**\n- Beresheet testnet node is down\n\n**New plans for Edgeverse Wallet**\n- Edgeverse iOS Wallet Already in Development.\n- Edgeverse Browser based wallet/dapp for interacting with Metamask and Edgeverse Extension.(Useful for EVM<->WASM Transfer)\n- New UI and Extended EVM Interface.\n\n**Play Store Link**\n[https://play.google.com/store/apps/details?id=com.edgeverse.wallet.market](https://play.google.com/store/apps/details?id=com.edgeverse.wallet.market)\n\n## \n## **Browser Extension**\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/2363ab02-2a37-4f77-afc5-6ffd7a8d8cd0.1661875341532)\n\nEdgeverse Browser Wallet supports Edgeware Mainnet, Edgeware EVM, Kabocha Mainnet, Beresheet Testnet and Soupcan Testnet. It supports Dapp access just like Polkadot,js and Metamask.Firefox Browser approved the extension/add-on and it's available in add-ons store. Review pending in Apple Safari Browser. Unfortunately it's rejected by Google Chrome and Microsoft Edge Browsers as it only supports Manifest V3 from now on. We will update it to Manifest V3 as soon as possible.\n**Features**\n- Edgeware Mainnet, Kabocha Mainnet, Soupcan Testnet, Edgeware EVM Supported.\n- Metamask Inspired Interface for Edgeware EVM.\n- Import Custom Tokens support for Edgeware EVM.\n\n**New Plans for Extension**\n- Staking Option for Edgeware and Kabocha\n- Transfer Option Between Edgeware EVM and WASM\n- NFT Support.\n\n**Problems**\n- ERUP5",
+  "content_url": "https://threads.common.xyz/672e9814-5b9c-4e20-bfd9-0ed7cbb0b0b9.md",
+  "created_at": "2022-08-30T16:22:13.962Z",
+  "updated_at": "2025-03-17T14:58:26.191Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "bharathcoorg",
+  "topic_id": 981,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/6797",
+  "body_complete": true
+}

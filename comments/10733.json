@@ -1,0 +1,67 @@
+[
+  {
+    "id": 2585,
+    "thread_id": 10733,
+    "address_id": 3539,
+    "body": "Wen? :D",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-04-10T18:59:09.344Z",
+    "updated_at": "2021-04-10T18:59:09.344Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 2422,
+    "thread_id": 10733,
+    "address_id": 1004,
+    "body": "This is now in the referenda slot! Go vote: \n[https://commonwealth.im/edgeware/proposal/referendum/27-systemsetcode0x0061736d01000](https://commonwealth.im/edgeware/proposal/referendum/27-systemsetcode0x0061736d01000)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-03-11T23:27:45.491Z",
+    "updated_at": "2021-03-11T23:27:45.491Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 2419,
+    "thread_id": 10733,
+    "address_id": 287,
+    "body": "Tokyo upgrade release notes can be found here: [https://github.com/hicommonwealth/edgeware-node/releases/tag/v3.2.0](https://github.com/hicommonwealth/edgeware-node/releases/tag/v3.2.0)\n\n- Chainbridge module addition\n- Assets pallet updates\n- Frontier EVM integration\n- Faster governance times (10 day round-trip: 2 day launch period, 7 day voting, 1 day enactment)\n- New testers for upgrades + frontier\n- New CI with caching\n- Removed Signaling and Voting modules\n- Prometheus + Grafana dashboard script for anyone to use.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-03-10T20:50:54.524Z",
+    "updated_at": "2021-03-10T20:50:54.524Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  },
+  {
+    "id": 2413,
+    "thread_id": 10733,
+    "address_id": 1004,
+    "body": "Tokyo Upgrade!",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-03-10T18:32:48.790Z",
+    "updated_at": "2021-03-10T18:32:48.790Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 2362,
+    "thread_id": 10733,
+    "address_id": 3135,
+    "body": "What is this for?",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-03-08T01:32:07.583Z",
+    "updated_at": "2021-03-08T01:32:07.583Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "jelloraven"
+  }
+]

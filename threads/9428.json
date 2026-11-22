@@ -1,0 +1,15 @@
+{
+  "id": 9428,
+  "title": "High Performance Public Infrastructure (1st Oct 2022 to 8th Jan 2023)",
+  "body": "**Proponent:** jH3nezdr2kn7M4jqoqVz27AUcPP99WgB1QgkhL5UJCu8b2d\n\n**Date:** 17th January, 2023\n\n**Note: This proposal now includes the bond lost in proposal 117 which will be rejected due to a typo resulting in the incorrect requested value.**\n\n**Requested EDG:** 12,007,677.7281 (usage costs) + 3,001,919.45 (117 bond) = 15,009,597.1781 EDG\n\n**Short description:** Ongoing costs for the running of high performance, scalable, and reliable public infrastructure for Edgeware Network.\n\n* * * * *\n\nOriginal Motivation\n===================\n\nSetting up blockchain infrastructure is difficult, time consuming, and expensive:\n\n-   It requires a level of server development expertise that many do not have\n\n-   It's costly to run a full node nearly continuously, especially when your dApp's traffic is low and inconsistent. \n\n-   Running production level infrastructure is especially tricky. You need to autoscale quickly to handle bursty traffic, and you want to provide services in different regions around the world to provide low latency services - all of this is incredibly costly, but comes with significant economies of scale for a provider.\n\n-   DevOps requires constant attention - time that would be better spent elsewhere building.\n\nA shared node API service helps mitigate these barriers of entry to trying accessing a new protocol by reducing all these costs to near zero. We manage all the nodes for our users and distribute them across the world (with intelligent routing) to achieve global scalability from day 1, we monitor each node and ensure that they meet certain service levels, and we have the expertise and scale to handle production workloads and high peak traffic.\n\nIn summary, we try to reduce the pain of getting started on Edgeware Network and minimise the costs of accessing secure nodes while traffic from your dApp is low. When you grow, you can continue to use our shared API service, or we also [provide access to one click deploy dedicated Edgeware  nodes](https://onfinality",
+  "content_url": "https://threads.common.xyz/9826e492-53b5-43d2-bca8-9ce1e6b302a1.md",
+  "created_at": "2023-01-18T20:32:41.339Z",
+  "updated_at": "2025-03-21T19:48:39.559Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "OnFinality",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/9428",
+  "body_complete": true
+}

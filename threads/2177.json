@@ -1,0 +1,15 @@
+{
+  "id": 2177,
+  "title": "Proposal: Offer 15-30 Percent of EDG to a core team, or inactivate smart contracts.",
+  "body": "1. Offer an incentive **Update: 15-30%** of total EDG vested to a core team to maintain and improve the network. This could be done through the Treasury modifications Drew formerly proposed where a portion of inflation is automatically distributed to address/es. The Agency would dedicate to marketing this offer, and specifics can be negotiated by the community through the proposal process, but I would want these funds earmarked.  This number is comparative with Messari's research on viable and popular chains. **Update: **This number seems large, _and it is_. It takes into account EDG liquidity and price, and the ability for teams that can maintain EDG and their opportunity cost (simply launching a chain on their own.)  I do not think this is the path we will take, but this is what I think would be necessary to get the ROI we want out of smart contract development. \n\n\nOR: \n\n1. Disable the smart contract functionalities of EDG, as we cannot maintain them nor reasonably guarantee performance or security. At a later time, if and when we can maintain and improve these with some confidence, a network upgrade could activate them. There are bugs in the EVM currently that should be addressed, or the pallet deactivated.\n2. Immediately payout all development-focused grants to teams who were building on smart contracts, skipping all milestones.\n3. Rebrand the chain as a community investment and benefits DAO with its own validators and security provision, whose collective bargaining power and token onramps can allow individuals to fund public and social goods.  (EDGPass)  Without smart contracts, the DAO can bond to DOT or whatever it wants.\n4. Disable the council and hire a few stewards of some goods like domain names, hosting providers, etc.. lean into referenda, now that technical risk has been largely eliminated by relying on a few proven Substrate modules. \n5. Activate or invest in quadratic referenda or anti-plutocratic token voting (like 1person1vote) measures in order to",
+  "content_url": "https://threads.common.xyz/72d05e51-f3d3-44f6-a1dd-a0264c2a543b.md",
+  "created_at": "2021-10-04T20:53:53.243Z",
+  "updated_at": "2025-03-18T02:51:46.279Z",
+  "last_edited": null,
+  "comment_count": 14,
+  "profile_name": "Thom Ivy",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2177",
+  "body_complete": true
+}

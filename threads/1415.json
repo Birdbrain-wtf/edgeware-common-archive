@@ -1,0 +1,15 @@
+{
+  "id": 1415,
+  "title": "Request for a community parachain",
+  "body": "## Request for a community-owned KSM parachain & canarynet from Edgeware\n\n**Summary:** This thread is a public place to debate and provide feedback on the parameters and crowdloan offer on the hotly demanded community-owned canarynet. More details on the vision, including a formal press release for this, will come, but for now, we need to focus on the core offer and technical execution and achieving alignment.\n\n**Note **that the previous discussed canarynet Hedgeware, is no longer being developed in favor of this proposition, with the support of Drew Stone and Raymond Zhong as advisors.\n\n---\n\n\n\n\n\n## Description\n\nA Kusama parachain incubated through the efforts of EDG holders, who voted to support and fund the development of a canarynet in the roadmap, and instantiated by Edgeware.Agency on their behalf.\n\nI imagine cool is a research laboratory for interoperability and consensus tech in Substrate, governance and funding. It additionally shows that Edgeware teams are able and ready to deploy parachains with DOT auctions upcoming, offers a testing ground for teams on EDG, and provides the EDG treasury with it's first major asset: significant control of a new token.\n\n\n\n## Technology\nThe code for this parachain can be based on the repo for Hedgeware. The modifications to this forked repository will feature the changes discussed later in this post.\nhttps://github.com/Edgeware-Network/Kabocha-Parachain\n\n## Token Economics\n\n**Distribution**\nAs requested, the distribution of KAB has been closely mapped 1:1, with the only exception being a 10% community tax on all addresses to fund sustainable development of the network. See the Snapshot date discussed below.\n\nThese revenues, along with the 1:1 amount in the EDG Treasury, will be diverted into an EDG-controlled Community Fund, for incentivizing maintainers, strategic partners, and other needs. Current estimates place this new community fund at roughly 20% of the networks supply, enough to offer the new currency in the crowdlo",
+  "content_url": "https://threads.common.xyz/df452a70-c583-4e04-b76e-9cdac6dc6245.md",
+  "created_at": "2021-06-30T21:58:56.160Z",
+  "updated_at": "2025-03-18T15:47:09.971Z",
+  "last_edited": null,
+  "comment_count": 20,
+  "profile_name": "Thom Ivy",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/1415",
+  "body_complete": true
+}

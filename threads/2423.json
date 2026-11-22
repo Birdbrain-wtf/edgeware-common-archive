@@ -1,0 +1,15 @@
+{
+  "id": 2423,
+  "title": "How to execute a SimpleMajority proposal",
+  "body": "**UPDATE \n\nThe below italic was received as feedback to this and clarifies a little the role of Super and Simple Majority votes. \n\n----\n\n_The super majority bias prevents a small number of participants to enact a change on the current state, which is supposed to he canonical. It is normal and desirable to require a vast majority to change consensus parameters or previously agreed quantities, and only a minority to stop those changes._\n\n_For treasury funding, this is different: with low participation, projects face the risk of being blocked by a minority even though there is no real consensus on the funding state itself by definition._\n\n_----- _\n\nWe have agreed to using '[SimpleMajority](https://commonwealth.im/edgeware/proposal/discussion/1563-simplemajority-a-proposed-edgeware-governance-standard)' as an Edgeware governance standard. \n\nA SimpleMajority proposal is one that only requires a majority - aka over 51% of votes to pass, this ensures we have a bias for approval, without this, the general will of many smaller holders  can be easily overruled by a single party locking 6x against a proposal. \n\nIn general, it is felt that this approach puts the power into the hands of the broader community, rather than individuals.\n\n## **How to execute a SimpleMajority proposal**\n\nThe process is currently a little complicated, requiring a number of stages and council approval. Our aim is to automate this via adjustments to the existing treasury pallet. \n\nIn the mean time, here's how you do it.\n\n**Step 1 - create a treasury proposal**\nHead to the [Polkadotjs app](https://polkadot.js.org/apps), switch to Edgeware and click into the [treasury tab ](https://polkadot.js.org/apps/#/treasury)which is located in the governance drop down menu. \n\nYou will see the current treasury proposals:\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/91d08008-ae62-4cb6-8cd6-60c47feecf1f.1635933888956)\n\nCick the 'Submit Proposal' button on the right hand side of the interface and enter t",
+  "content_url": "https://threads.common.xyz/a229df77-a83c-40a7-af2a-c09488c36c2e.md",
+  "created_at": "2021-11-03T11:42:58.348Z",
+  "updated_at": "2025-03-18T16:04:57.611Z",
+  "last_edited": null,
+  "comment_count": 3,
+  "profile_name": "mrbulb",
+  "topic_id": 95,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2423",
+  "body_complete": true
+}

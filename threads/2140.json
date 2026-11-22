@@ -1,0 +1,15 @@
+{
+  "id": 2140,
+  "title": "A note on Edgeware governance: Clarity, shared values, and a 1p1v committee",
+  "body": "There was a discussion the #proposals channel a few days ago, after Thom suggested that we write a bounty to speed up the Wako upgrade, which was very contentious and resulted in the suggestion that I write up some of my responses and takeaways in a document here.\n\nWe have arrived at a point where governance discussions are often unproductive. Edgeware can continue functioning in spite of this disagreement (and we are on track to launch EVM within the next few weeks). But this is after many disagreements over the last 1+ year of the network's operations:\n\n- How should we fund core development? (proposal by Dillon, passed, then loudly opposed by remz)\n- Should we pursue a Polkadot bond?\n- Should we establish an ecosystem partner grant structure?\n- Should we establish a technical council?\n- Should we focus on EVM or WASM development?\n\n\nAll of these questions had significant disagreements, and I think these disagreements have root causes:\n\n**Lack of a clarity on what Edgeware is providing as a platform**\n\nWe've presented many different visions for what Edgeware is. An on-chain incubator, a venture community, a smart contract chain for funding media projects — all of these seem like they do not capture the entire picture.\n\nIt's okay that we don't have a single vision (Ethereum never has) but it is problematic that we do not have a way to measure success. We often guide teams in different directions, suggesting to them that WASM is the future, but the WASM platform is also immature and we do not at all have the technical staff to support applications building on it. There seems to be a growing understanding that EVM is a platform we will support going into the future — but Drew and I have made most of the contributions there, and we're increasingly less involved in governance. Can we assure that it will continue to be maintained?\n\nRESOLUTION: We should agree upon a technical strategy, that major members of the network all sign off on, that articulates what we're providin",
+  "content_url": "https://threads.common.xyz/c0edcdd7-2bf5-4c84-b21e-7ff9ff9faa33.md",
+  "created_at": "2021-09-30T02:08:09.551Z",
+  "updated_at": "2025-03-18T15:36:39.940Z",
+  "last_edited": null,
+  "comment_count": 13,
+  "profile_name": "Anonymous",
+  "topic_id": 95,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2140",
+  "body_complete": true
+}

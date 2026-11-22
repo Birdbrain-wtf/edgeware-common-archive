@@ -1,0 +1,15 @@
+{
+  "id": 5131,
+  "title": "Community Developer Proposal: Depth Hoar",
+  "body": "Date: 05/27/2022\n\t\n**Builder:**\n   Depth Hoar (Adam)\n   Telegram: @DepthHoar\n   Discord: Depth Hoar#2646\n\nAdvisement & Review: Thom Ivy\n\n## **Summary**\nThere are 7 deliverables to this proposal\n- The main one is to start the goal of **building a more user-friendly version of edgeware.app. **Which can be broken down as follows. Make an MVP website with the following functionality accounts, send & receive, vote/democracy, and staking. This will be delivered in the first round of funding. \n- **Community validator**\n- **Maintain edgeware documentation website [https://www.edgeware.wiki](https://www.edgeware.wiki)**\n- **Maintain edge apps website [https://www.edgeware.app/](https://www.edgeware.app/)**\n- Continue to write the weekly **EDG** **Developer update  **\n- **Ongoing Research into Hummingbot Market Maker **\n- **Publish Technical Tutorial Videos as needed**\n\n\n## Deliverables \n\n**Minimal Edgeware Apps**\nUsers, both new and old, struggle to interact with the current Polkadot Apps interface due to it's focus on technical functionality; I would like to make a website that simplifies the UI and UX experience for Edgeware and potentially other substrate-based chains like Kabocha in the future. This new website would be a more minimal set of essential functions with a focus on user onboarding into the ‘Edgizen,’ the governing and staking community, and a standard set of holder functions.\n- Manage and add Accounts \n- Send and receive tokens; \n- The ability to vote on proposals.\n- The ability to delegate; \n- The ability to stake. \n\nThese are the features that most people use when interacting with the edgeware blockchain. This website would be bare-bones MVP and not much styling and CSS; this will come later. The goal is to get the must-have functionality working first, then style it later when we are happy with it in the future. Edgeware Apps would remain for ‘power users’ of the chain, proposal-creation, and other more advanced and involved functions. \n\n**Launch a Communi",
+  "content_url": "https://threads.common.xyz/e8c7e447-ef27-4b15-84dc-dd245d5f5492.md",
+  "created_at": "2022-05-27T18:00:32.604Z",
+  "updated_at": "2025-03-16T09:05:37.347Z",
+  "last_edited": null,
+  "comment_count": 4,
+  "profile_name": "Depth",
+  "topic_id": 112,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/5131",
+  "body_complete": true
+}

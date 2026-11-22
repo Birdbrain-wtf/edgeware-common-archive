@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1876,
+    "thread_id": 10699,
+    "address_id": 287,
+    "body": "This proposal sets inflation from the treasuryReward module to zero, resulting in treasury inflation of ~5% or $1.5m/year (from staking inefficiencies).\n\nFor discussion, see: [https://commonwealth.im/edgeware/proposal/discussion/886-proposal-calibrating-the-edgeware-treasury-budget](https://commonwealth.im/edgeware/proposal/discussion/886-proposal-calibrating-the-edgeware-treasury-budget)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-12-25T04:09:46.050Z",
+    "updated_at": "2020-12-25T04:09:46.050Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  }
+]

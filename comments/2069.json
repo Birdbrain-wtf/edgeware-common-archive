@@ -1,0 +1,54 @@
+[
+  {
+    "id": 9514,
+    "thread_id": 2069,
+    "address_id": 1335,
+    "body": "So bumping this as it will be put on-chain now, note this will hopefully be the last time the network services aspect of the proposal format is not automated. \n\nWe're also working on automating the simple majority process. \n\nThis treasury interface proposal from [@OpenSquare](/edgeware/account/jNzH4yMQxUp7NF1xMDcgTmejNHo9z8VTKdK9Sg3KYNeRRxF) should allow us to formalise and make clear our treasury process for newcomers and established community members alike, whilst also providing context for previous funding, something the agency financial strategy team are working on [@Vismay Joshi](/edgeware/account/mNh7aSGrMcVWXNEic8VDpoLTe1SWmhNa9eaC1umV3E4u3pm)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-11-02T11:53:14.299Z",
+    "updated_at": "2021-11-02T11:53:14.299Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 8927,
+    "thread_id": 2069,
+    "address_id": 1335,
+    "body": "Just confirming [@OpenSquare](/edgeware/account/jNzH4yMQxUp7NF1xMDcgTmejNHo9z8VTKdK9Sg3KYNeRRxF) that you'll have branding / visual design support from [@Johan](/edgeware/account/jmoxayjwtZozJ6rr64ikaXhsZa7SZm7ihPwajvtodqXrmnj) to keep the project in line with EDG's emerging guidelines.\n\nIf there are no objections, I suggest we put this on-chain today and get it into voting.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-10-14T08:32:51.819Z",
+    "updated_at": "2021-10-14T08:32:51.819Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  },
+  {
+    "id": 8238,
+    "thread_id": 2069,
+    "address_id": 1004,
+    "body": "The deployment for KSM and DOT speaks for itself, I think this is a beautiful piece of infra for our governance.\n\nWould love a new theme/skin for our brand colors.\n\n> We have to figure out whether polkadot.js can work well with Edgeware and get the Edgeware specified types. Actually we worry a little about it and would appreciate feedback on this. \n\ncurrently, our node types are up to date at [https://github.com/edgeware-network/edgeware-node-types/tree/master](https://github.com/edgeware-network/edgeware-node-types/tree/master)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-09-28T19:55:11.453Z",
+    "updated_at": "2021-09-28T20:23:40.001Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 8128,
+    "thread_id": 2069,
+    "address_id": 1335,
+    "body": "Thanks for the proposal [@OpenSquare](/edgeware/account/jNzH4yMQxUp7NF1xMDcgTmejNHo9z8VTKdK9Sg3KYNeRRxF) / Wilongfeng. \n\nThis will be another useful tool for Edgeware as we bring alive the story of the chain and the assets it holds and proposals it gives a start to. \n\nA couple of notes:\n\n- Edgeware Agency have agreed to bond the proposal fee on behalf of Opensquare since this is a basic chain capability. \n- The proposal will again use the [SimpleMajority standard](https://commonwealth.im/edgeware/proposal/discussion/1563-simplemajority-a-proposed-edgeware-governance-standard) which we now consider a community standard. \n\n\nWe will also be developing a similar proposal for Kabocha.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2021-09-27T11:46:44.370Z",
+    "updated_at": "2021-09-27T11:46:44.370Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "mrbulb"
+  }
+]

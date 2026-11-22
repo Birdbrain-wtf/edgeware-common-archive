@@ -1,0 +1,15 @@
+{
+  "id": 8013,
+  "title": "Proposal - Basic EVM Tools for Edgeware Network",
+  "body": "The goal of this proposal is to develop some EVM tools for the Edgeware network.\n\n**Cross Chain EVM Bridge - Complete**\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/40b0e851-9951-4fb9-95ba-8a0ce808e7eb.1669923512268)\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/457ff3b4-629a-4e27-9494-d3be65e4aa4e.1669923618641)   \nWe needed a cross-chain bridge for both substrate and EVM to scale the IDO launchpad and future projects to other blockchains; finally, the EVM bridge is complete. \nCurrently, it supports all popular EVM blockchains. Anyone can add liquidity to the bridge.\nThe substrate-to-EVM bridge is in the works.\n\nEVM Bridge : [https://evm-bridge.edgeverse.exchange](https://evm-bridge.edgeverse.exchange)\n\nSuggest to me some of your favorite tokens you want to see on Edgeware and the blockchains you want to add Edgeware Token to. We can list EDG on all popular EVM DEXs, and it will also create more utility for Edgeware Token.\nWe used multichain.org open-source code with a few small changes. You can check the sources of smart contracts after deployment and compare them with the verified AnySwap contracts. We are upgrading Edgscan to support the smart contract verification service. Hybrid Block Explorer also has smart contract verification support.\n\nTest Transaction - BINGO Token (Edgeware Mainnet, BSC Testnet)\nEdgeware Mainnet\n[https://edgscan.live/tx/0xb1bc2563a57be4ddd19c1cdf470fd094566a25a98d7facd72d726b08e2c36c17](https://edgscan.live/tx/0xb1bc2563a57be4ddd19c1cdf470fd094566a25a98d7facd72d726b08e2c36c17)\nBSC Testnet\n[https://testnet.bscscan.com/tx/0x30b1928f898faadc26203a724202e6318a086abaf3b5346cf65b36c3c5db862c](https://testnet.bscscan.com/tx/0x30b1928f898faadc26203a724202e6318a086abaf3b5346cf65b36c3c5db862c)\n\n**AMM DEX - ETA 10 Days**\n\nWe used uniswap.org sources with small changes; you can check the sources of a smart contract after deployment and compare it with the verified uniswap's contracts. We can bring stable coins to the e",
+  "content_url": "https://threads.common.xyz/a6b0c25c-aab4-4a74-939c-6c404f3f6d77.md",
+  "created_at": "2022-12-01T19:43:57.362Z",
+  "updated_at": "2025-03-18T06:13:42.528Z",
+  "last_edited": null,
+  "comment_count": 2,
+  "profile_name": "bharathcoorg",
+  "topic_id": 981,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/8013",
+  "body_complete": true
+}

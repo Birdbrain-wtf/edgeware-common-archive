@@ -1,0 +1,15 @@
+{
+  "id": 4258,
+  "title": "Market Research: Crypto Storage Solutions",
+  "body": "The following is Market Research of Crypto Storage Solutions. \n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/a8eaddc7-c018-47f2-a07c-4051ad16d222.1649109734396)\n\n\n## ARWEAVE\n\n- Archival Service\n- AR Drive Launched \n- Bundler Payments \n\n\n\n\n\n_Main Benefit: _**Blockchain** **Integrations **\n\nSolana stores their blockchain data using Arweave. The Graph using AR to allow developers to analyze and incorporate all data stored on the AR Chain. Candidate for archiving ETH's upcoming (EIP-4444) data burn.\n\n_Main Concern:_  **Data Integrity** and **Performance**\n \nTheir IWF support and stated future compliancy with requests for data removal may impact your availability or retrieval of archived data.\n\nMultiple posts from users regarding slowness when retrieving and uploading files. Data upload and retrieval speeds still unknown. \n\n_Relevant References:_\n[https://www.arweave.org/](https://www.arweave.org/)\n[https://www.arweave.org/technology#papers](https://www.arweave.org/technology#papers)\n[https://ardrive.atlassian.net/wiki/spaces/help/pages/350584835/ArDrive+Web+Limits](https://ardrive.atlassian.net/wiki/spaces/help/pages/350584835/ArDrive+Web+Limits)\n[https://medium.com/bundlr-network](https://medium.com/bundlr-network)\n[https://www.youtube.com/watch?v=reQxl5Rl4tE&t=234s](https://www.youtube.com/watch?v=reQxl5Rl4tE&t=234s)\n[https://www.youtube.com/watch?v=sGQSkQg6Hvw&t=1406s](https://www.youtube.com/watch?v=sGQSkQg6Hvw&t=1406s)\n[https://arwiki.wiki/#/en/Community-Resources](https://arwiki.wiki/#/en/Community-Resources)\n[https://faucet.arweave.net/](https://faucet.arweave.net/)\n[https://arweavefees.com/](https://arweavefees.com/)\n[Storage Calculator](https://55mcexhgg4xql3l6xy4aoz2dzm23zghryqakakwtagj5djcm.arweave.net/71giX-OY-3LwXtfr44B2dDyzW8mPHEAKA-q0wGT0aRM) \n[https://ardrive.io/pricing/](https://ardrive.io/pricing/)\n\n\n\n\n\n## **FILECOIN**\n\n- Incentivized storage layer for IPFS\n- Data Integrity & Immutability\n- Data Redundancy\n\n\n\n_Main Benefit:_ **Funding**",
+  "content_url": "https://threads.common.xyz/7100f22b-495a-47e9-8a9a-69f41301a438.md",
+  "created_at": "2022-04-04T21:37:56.442Z",
+  "updated_at": "2025-03-23T23:09:44.804Z",
+  "last_edited": null,
+  "comment_count": 4,
+  "profile_name": "Zovern",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/4258",
+  "body_complete": true
+}

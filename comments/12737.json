@@ -1,0 +1,28 @@
+[
+  {
+    "id": 68456,
+    "thread_id": 12737,
+    "address_id": 1067,
+    "body": "**Multi-sig address: **hbgXkqoZBFDaW9KsaL2wgDm6xehvjMdaydNcRk673tHcrZG (same as the last top-up proposal)\n\n**Multi-sig bias: **3/5\n**Signers:**\nBharathcoorg: i1tffC8QVVUgGb8RjazGRz72SDxtP35kqa2RB7vnVhjRHPV\nMoonY: jcXrF5ECRfdeZEptnaD7Mp5kRmdxVV9DTnweVKN1jmwi76N\nRama/Frogman: nMWS8rfjQsC9btKbx9AUo28k3xFNpz1KXhbvY1KbZTsti9D\nAshutosh/ZeroM: ks2mskYMYXiSRYvjvAv2xQfrW6uZ3DExT5FonByn7gfr87E\nShankar: jA7pLH65zgRNA4UgwqHEWWRxTgg51wuAUgfzmZoYWM2dMVS\n\n**Total: **6159 + 500 = 6659 USD\n**Liquidation buffer: **5%\n**Total in USD: **6991.95\n\n**7-day trailing median: **0.00017618 USD per EDG\n\n**Total in EDG: 39686400.3**",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2023-10-06T13:32:20.342Z",
+    "updated_at": "2023-10-12T04:13:41.039Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Shankar Warang"
+  },
+  {
+    "id": 68428,
+    "thread_id": 12737,
+    "address_id": 43331,
+    "body": "I would like to add an additional $500 for the mobile app development for the EdgeFi Neo Bank Project.\nThe web version is almost ready!\nThis project is important for our upcoming fundraising plans.\nI am attaching a screenshot of the dashboard section.\nMore information is available next week.\n\n\n![](https://assets.commonwealth.im/db73a865-9910-401d-aecd-843315f8dbc6.png)",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2023-10-05T21:30:15.457Z",
+    "updated_at": "2023-10-12T04:13:39.168Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "bharathcoorg"
+  }
+]

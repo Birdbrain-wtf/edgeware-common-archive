@@ -1,0 +1,15 @@
+{
+  "id": 5469,
+  "title": "EDG Community Update: June 6th, 2022",
+  "body": "**Highlights**\n- [The snapshot date for the Kabocha’s KAB ParaDrop](https://twitter.com/kabochanetwork/status/1536652687227371522?s=20&t=WEl2C6ZANL087m0OGQtuzg) to EDG holders is now confirmed (17th June, 8 am UTC).\n- [Hummingbot integration has been tested for EDG](https://twitter.com/EdgewareDAO/status/1534593597290561539?s=20&t=XTtySO0mZXp-EPKVW3wYzQ) pairs on Kucoin, opening up a potentially transparent way for future market making.\n- All validators are requested to upgrade their nodes to the [release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP5/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP5/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n\n\n**Ecosystem Updates**\n- [Kabocha Launch Phases](https://kabocha-network.notion.site/kabocha-network/2547da4fcd454dcd8699499fa404ede2?v=4411177ca359405bbd73b5896e9d234e)’ plan has been published.\n- Get to know more technical-oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-june-5/)’.\n- Looking for the speculative performance of EDG? Check out the [Community-run DAO Financial Bulletins](https://blog.edgewa.re/tag/bi-weekly/).\n- EDGizens are welcomed to participate in [the research survey](https://forms.gle/XdjEyBEMY1EtZs3x9) by one of the ecosystem partners.\n- Community Treasury-funded Web3 Media platform, [New-Futures opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their highly anticipated upcoming launch.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n- ",
+  "content_url": "https://threads.common.xyz/ced010bb-6261-4bd3-a7b2-cfbb585ee487.md",
+  "created_at": "2022-06-15T15:08:23.439Z",
+  "updated_at": "2025-03-17T01:55:22.647Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/5469",
+  "body_complete": true
+}

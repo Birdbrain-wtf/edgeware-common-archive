@@ -1,0 +1,15 @@
+{
+  "id": 2965,
+  "title": "EDG Community Update: Week of December 6th",
+  "body": "**Highlights**\n- Community Treasury-funded Web3 Media platform, [New-Futures have opened up pre-registrations](https://twitter.com/HeyEdgeware/status/1469353591433478150?s=20) for their upcoming launch.\n- [The Community Moderators’ Recruitment Quiz](https://twitter.com/HeyEdgeware/status/1469055237348544523?s=20) determined Edgexperts from the Edgeware community which soon will take on their responsibilities post-training. \n- [The waitlist is now open for Kabocha](https://www.kabocha.network/), the Kusama parachain candidate from the Edgeware ecosystem.\n- All validators are requested to upgrade their nodes to the [release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP4/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP4/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n- Get to know more technical oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-dec-5/)’.\n\n\n**Ecosystem Updates**\n- [Biconomy’s Personalised Gas Tanks](https://twitter.com/biconomy/status/1465312637693038595?s=20) are now on EdgeEVM 1.0!\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n\n\n**Governance**\n- No active referendum. Upcoming: [OnFinality’s infrastructure service (in Q3 2021)](https://gov.edgewa.re/proposal/discussion/2937-proposal-high-performance-public-infrastructure-q3-2021/), [Kabocha Technical Steward - Treasury Proposal](https://gov.edgewa.re/proposal/discussion/2515-kabocha-technical-steward-treasury-proposal/), [GMI it in crypto media](https://gov.edgewa.re/proposal/discussi",
+  "content_url": "https://threads.common.xyz/36d8ff0f-eaa7-4774-9a69-1373844bc465.md",
+  "created_at": "2021-12-14T22:01:27.002Z",
+  "updated_at": "2025-03-17T23:41:11.226Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2965",
+  "body_complete": true
+}

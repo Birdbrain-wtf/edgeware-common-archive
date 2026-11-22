@@ -1,0 +1,41 @@
+[
+  {
+    "id": 946,
+    "thread_id": 10754,
+    "address_id": 280,
+    "body": "I should actually be a 'no' here. Hit the wrong button.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-05-29T16:03:02.141Z",
+    "updated_at": "2020-05-29T16:03:02.141Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Thom Ivy"
+  },
+  {
+    "id": 944,
+    "thread_id": 10754,
+    "address_id": 978,
+    "body": "It should match the staking reward exactly. This prevents an imbalance where the treasury continues to increase it's share of the total supply indefinately.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-05-29T14:39:05.913Z",
+    "updated_at": "2020-05-29T14:39:05.913Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Legend🥛"
+  },
+  {
+    "id": 940,
+    "thread_id": 10754,
+    "address_id": 287,
+    "body": "I'm against halting the treasury reward, but I am in favor of increasing validator rewards by a significant amount (with the exact mechanism to be determined, but possibly by increasing the target inflation rate).\n\nAlso if I understand correctly, Kusama's staking is configured to direct any portion of the validator reward that is not awarded to validators/nominators to the treasury. If that's enabled on Edgeware, that should be turned off.",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2020-05-29T07:42:24.244Z",
+    "updated_at": "2020-05-29T07:42:24.244Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Anonymous"
+  }
+]

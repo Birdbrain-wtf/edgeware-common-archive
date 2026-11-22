@@ -1,0 +1,15 @@
+{
+  "id": 8632,
+  "title": "EDG Visual Analysis - [Volume, Price, Correlation, Deviation, Market, Extrinsic]",
+  "body": "Below is visual analysis of our Edgeware asset.\nThis brief 6 page report providing an overview of:\n(LockDrop - Dec 25, 22)\n\n1. Average Daily Price\n2. Total Volume Exchanged\n3. Correlation\n4. Price Deviation / Volatility\n5. Market Capitalization and Asset Performance\n6. Extrinsic Volume\n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/45c5679c-399a-4a6e-927d-d2b3a145cd86.1672184511013)\n\n\n- Our running price average has reduced from .01 cents to .09\n- 3yr trend toward .004\n\n\n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/ba5e2c3a-271d-441d-9c14-8d1820a40958.1672184764114)\n\n\n- Annual monthly comparison of our Total Volume (Top).\n- Annual monthly comparison of the Average Price (Bottom).\n- Notable 1M December volume is similar to the volume exchanged in July.\n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/6cff7c64-2e74-4aaf-85a8-229b09ab504a.1672185073161)\n\n\n- Linear Regression of the Price (green), providing the 3 year correlation of our Volume & Price.\n- Reference: The closer the volume to the linear regression line, the higher the correlation.\n\n\n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/e5a5120f-dd6a-46a3-a8fa-8c36222946dd.1672185148998)\n\n\n- Annual Price Deviation compared monthly.\n- Opinion: The correlation between volatility and volume is more apparent than price.\n\n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/c5567f4d-f551-4274-add1-20d24d5e1b26.1672185309800)\n\n\n- Comparative breakdown of Edgeware's Market Capitalization and performance since 2020.\n- HODL since lockdrop is the percentage difference from 2020.\n\n\n\n\n![](https://commonwealth-uploads.s3.us-east-2.amazonaws.com/a66dfc5e-1f25-49cc-a4a0-4f4b1f55a1d5.1672185439555)\n\n\n- Annual comparison of our Extrinsic Volume sorted monthly.\n- Notable: The chain activity since July has maintained an average volume above, 3.2K despite the decrease in exchange volatility",
+  "content_url": null,
+  "created_at": "2022-12-28T00:04:04.344Z",
+  "updated_at": "2025-03-18T06:44:08.951Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Zovern",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/8632",
+  "body_complete": true
+}

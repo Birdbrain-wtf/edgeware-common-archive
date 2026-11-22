@@ -1,0 +1,15 @@
+{
+  "id": 2924,
+  "title": "EDG Community Update: Week of November 29th",
+  "body": "**Highlights**\n- Introducing community-run ‘[EDG DAO Financial Bulletin](https://blog.edgewa.re/tag/bi-weekly/)’. \n- [The waitlist is now open for Kabocha](https://www.kabocha.network/), the Kusama parachain candidate from the Edgeware ecosystem.\n- All validators are requested to upgrade their nodes to the [release v3.3.3](https://github.com/hicommonwealth/edgeware-node/releases) to proceed further with the ERUP4/Wako upgrade through the on-chain governance. The core community dev Ramsey recently shared [the docker image for v3.3.3 aka ERUP4/Wako upgrade](https://twitter.com/HeyEdgeware/status/1438226365833175048?s=20) to save the compiling hustle for node/validator owners.\n- Get to know more technical oriented updates on the ‘[Developer Update aka EDG Dev Digest](https://blog.edgewa.re/edg-developer-update-nov-28/)’.\n\n\n**Ecosystem Updates**\n- [4thTech’s FOURim](https://twitter.com/4thtechProject/status/1466748163906326536?s=20) (instant messaging) caching & encryption is now live.\n- Community members interested in running bridge relayers or Chainlink’s oracle nodes on Edgeware, please reach out to ops@edgeware.agency.\n- Community members interested in running [Webb Protocol](https://www.webb.tools/)’s transaction relayers on Edgeware, please reach out to drew@webb.tools.\n\n\n**Governance**\n- No active referendum. Upcoming: [Kabocha Technical Steward - Treasury Proposal](https://gov.edgewa.re/proposal/discussion/2515-kabocha-technical-steward-treasury-proposal/), [GMI it in crypto media](https://gov.edgewa.re/proposal/discussion/1135-how-to-make-it-in-crypto-media-an-original-podcast-series/).\n\n\n**Community**\n- The Calendar of events has many items each week, meetings on NFTs, DAOs, chain strategy and governance- whatever you're interested in, [take a look](https://gov.edgewa.re/proposal/discussion/1059-edgeware-community-calendar-add-to-your-gcal).\n- Recent/trending Community Research thread(s):\n- [Enthusiast contributor](https://gov.edgewa.re/proposal/discussion/284",
+  "content_url": "https://threads.common.xyz/eb6580b2-2162-4b5e-898f-c7d9d1385a58.md",
+  "created_at": "2021-12-07T23:10:19.565Z",
+  "updated_at": "2025-03-16T20:42:53.909Z",
+  "last_edited": null,
+  "comment_count": 0,
+  "profile_name": "Shankar Warang",
+  "topic_id": 110,
+  "archived_at": null,
+  "source": "https://common.xyz/edgeware/discussion/2924",
+  "body_complete": true
+}

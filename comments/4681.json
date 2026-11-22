@@ -1,0 +1,28 @@
+[
+  {
+    "id": 19708,
+    "thread_id": 4681,
+    "address_id": 2923,
+    "body": "Brilliant idea Gmeister the more of these the better!",
+    "parent_id": null,
+    "content_url": null,
+    "created_at": "2022-05-03T10:44:04.431Z",
+    "updated_at": "2022-05-03T10:44:04.431Z",
+    "deleted_at": null,
+    "reply_count": 1,
+    "profile_name": "Edge"
+  },
+  {
+    "id": 19715,
+    "thread_id": 4681,
+    "address_id": 17524,
+    "body": "cheers",
+    "parent_id": 19708,
+    "content_url": null,
+    "created_at": "2022-05-03T13:04:44.431Z",
+    "updated_at": "2022-05-03T13:04:44.431Z",
+    "deleted_at": null,
+    "reply_count": 0,
+    "profile_name": "Gmeister7"
+  }
+]
